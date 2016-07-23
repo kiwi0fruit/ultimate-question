@@ -33,10 +33,10 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
 
 ## <a name="toc"></a>Contents:
 
-1. [The physical and philosophical background of this problem](#1.0)
-    - 1.1 [Reminding the foundations of the theory of evolution](#1.1)
-    - 1.2 [The description of the research program](#1.2)  
-2. [The main features and problems of creating the mathematical model](#2.0)
+1. [The physical and philosophical background of this problem](README.md#1.0)
+    - 1.1 [Reminding the foundations of the theory of evolution](README.md#1.1)
+    - 1.2 [The description of the research program](README.md#1.2)  
+2. [The main features and problems of creating the mathematical model](README.md#2.0)
     - 2.1 [First overview of the mathematical model to create](#2.1)
     - 2.2 [The model as the process of natural selection](#2.2)
     - 2.3 [The model as the structure that changes in time](#2.3)
