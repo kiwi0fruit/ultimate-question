@@ -1,5 +1,25 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
+Formulas can be both inline $$F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$$ and not.
+
+$$
+\begin{align}
+\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \newline
+\nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \newline
+\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \newline
+\nabla \cdot \vec{\mathbf{B}} & = 0
+\end{align}
+$$
+
+$$
+\left[
+  \begin{array}{cc|c}
+    1 & 2 & 3 \newline
+    4 & 5 & 6
+  \end{array}
+\right]
+$$
+
 # On the task to create the simplest model in which the evolution of the laws of nature arises from the natural selection of structures
 
 Greetings.
