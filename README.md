@@ -31,7 +31,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 _Русская версия письма_: [/openletterrus](http://zagubisalo.tumblr.com/openletterrus)
 
 
-## <a name="toc"></a>Contents:
+## Contents:{#toc}
 
 1. [The physical and philosophical background of this problem](README.md#1.0)
     - 1.1 [Reminding the foundations of the theory of evolution](README.md#1.1)
