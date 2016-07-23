@@ -11,15 +11,6 @@ $$
 \end{align}
 $$
 
-$$
-\left[
-  \begin{array}{cc|c}
-    1 & 2 & 3 \newline
-    4 & 5 & 6
-  \end{array}
-\right]
-$$
-
 # On the task to create the simplest model in which the evolution of the laws of nature arises from the natural selection of structures
 
 Greetings.
