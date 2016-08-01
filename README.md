@@ -228,12 +228,12 @@ So it's my guess that formal models that satisfy the constraints mentioned can b
 - The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) verteses at the beginning should also be investigated.
 
 
-### <a name="4.2"></a>4.2 Examples of the models that resemble the desired model [≡](#toc)
+### 4.2 Examples of the models that resemble the desired model [≡](#toc){#4.2}
 
 Here is the a try to create a mathematical dynamic model that satisfies some of the constraints mentioned. I doubt that it would succeed. But it may show some problems and make the limitations of this approach more clear.
 
 
-#### <a name="4.2.1"></a>4.2.1 The first example [≡](#toc)
+#### 4.2.1 The first example [≡](#toc){#4.2.1}
 
 **The decsription of the first model:**
 
@@ -263,7 +263,7 @@ Let’s draw some steps of this process. “True” vertices would be white. “
 4. There are even more randomly selected outcomes on this step. So the computer simulation is required.
 
 
-#### <a name="4.2.2"></a>4.2.2 The second example [≡](#toc)
+#### 4.2.2 The second example [≡](#toc){#4.2.2}
 
 There is another model that is more simple in some sense.
 
@@ -322,7 +322,7 @@ Let’s draw some steps of this process. First number distinguish vertices, ∩ 
 Seems like the weighted edges are required… There are more randomly selected outcomes on this step. So the computer simulation is required to speed up the research.
 
 
-## <a name="5.0"></a>5. Why this task? On “Why is there something rather than nothing?” question [≡](#toc)
+## 5. Why this task? On “Why is there something rather than nothing?” question [≡](#toc){#5.0}
 
    The two described tasks (1. to get laws of nature from natural selection of structures. 2. to create the minimum mathematical model for open ended evolution) are actually the same task.
 
