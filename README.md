@@ -39,9 +39,9 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
         - 4.2.1 [The first example](#4_2_1)
         - 4.2.2 [The second example](#4_2_2)
 5. [Why this task? On “Why is there something rather than nothing?” question](#5_0)
-6. [P.S.](#6_0)
-7. [References](#7_0)
-8. [Links to discuss](#8_0)
+6. [P.S.](#ps)
+7. [References](#ref)
+8. [Links and discuss](#links)
 
 
 ## 1. The physical and philosophical background of this problem [≡](#toc){#1_0}
@@ -87,9 +87,9 @@ This problem is put under the following assumptions:
 - C) something akin to the law of conservation,
 - D) natural selection.
 
-And then to see if in this model would be stable structures (patterns?) that reproduce themselves and change over time. On the other hand modern theories that describe the fundamental workings of the universe, take into account the reality as it is now. That theories make the reconstruction of the past taking into account the reality as it is now. If we are under the assumptions (a), (b), (c​), then that theories must take into account the complexity that has arisen since the birth of the universe. We can only speculate about the age of the universe before the Big Bang. For example, according to the hypothesis of cosmological natural selection [[1](#7_0)] our observable universe could have had a very large number of universes-ancestors. So the total age of the entire universe could be enormous. The research program I have described in this letter is an attempt to cheat and do not take into account the full history and complexity that may be enormous. It’s like a research “landing operation” in the past, an attempt to describe the universe from the very beginning of it, when it had a much simpler structure. Of course, this “landing” suffers from the lack of experimental evidence and verifiability. But the first goal is a proof of the concept: to create a model of primitive structures that survive (exist) and evolve over time. It is worth mentioning that the time should be real and fundamental in this evolutionary approach which is consistent with the ideas of Lee Smolin [[2](#2)]. Perhaps in case of a successful first step, the ways of linking this approach with the observable universe may be found. If not then the methods of this approach (that are yet to be found) may be brought to other areas of scientific research. Which is also good.
+And then to see if in this model would be stable structures (patterns?) that reproduce themselves and change over time. On the other hand modern theories that describe the fundamental workings of the universe, take into account the reality as it is now. That theories make the reconstruction of the past taking into account the reality as it is now. If we are under the assumptions (a), (b), (c​), then that theories must take into account the complexity that has arisen since the birth of the universe. We can only speculate about the age of the universe before the Big Bang. For example, according to the hypothesis of cosmological natural selection [[1](#ref)] our observable universe could have had a very large number of universes-ancestors. So the total age of the entire universe could be enormous. The research program I have described in this letter is an attempt to cheat and do not take into account the full history and complexity that may be enormous. It’s like a research “landing operation” in the past, an attempt to describe the universe from the very beginning of it, when it had a much simpler structure. Of course, this “landing” suffers from the lack of experimental evidence and verifiability. But the first goal is a proof of the concept: to create a model of primitive structures that survive (exist) and evolve over time. It is worth mentioning that the time should be real and fundamental in this evolutionary approach which is consistent with the ideas of Lee Smolin [[2](#ref)]. Perhaps in case of a successful first step, the ways of linking this approach with the observable universe may be found. If not then the methods of this approach (that are yet to be found) may be brought to other areas of scientific research. Which is also good.
 
-**(e)** The presumption of the existence of the objective reality (objectivity) plays an important role in attempts to construct a mathematical model that satisfies the insights mentioned above. Objective reality can be conceived independently of the perception of observers. In mathematical physics, the objective reality is determined by specifying equivalence classes in the set of reality descriptions in terms of different observers (different coordinate systems, etc.). The dependent on the observer part of the description is not included in the equivalence class. This procedure is called “gauging away” [[2](#2)].
+**(e)** The presumption of the existence of the objective reality (objectivity) plays an important role in attempts to construct a mathematical model that satisfies the insights mentioned above. Objective reality can be conceived independently of the perception of observers. In mathematical physics, the objective reality is determined by specifying equivalence classes in the set of reality descriptions in terms of different observers (different coordinate systems, etc.). The dependent on the observer part of the description is not included in the equivalence class. This procedure is called “gauging away” [[2](#ref)].
 
 _**The described research task is proposed to be accomplished by creating the mathematical model that is partly described in the section 2**_.
 
@@ -123,7 +123,7 @@ The mathematical model is constructed in the framework of research task describe
 *   (**p4**) Heredity (conservation/invariability?)
 *   (**p5**) Variation (spontaneous/random?)
 
-   The process of natural selection can be viewed as the process of transferring information from the individual to it’s offspring. It is the information about possible interactions of the individual with the environment (and about reactions of the individual to these interactions). Among others this point of view is being promoted by Chris Adami [[3](#3)]. Something like BVSR (“blind variation with selective retention” introduced by Donald T. Campbell [[4](#4)]) can be mentioned as an example. If a specific structure of the individual promotes that the number of it’s offspring is larger than the number of competing individuals offspring then that specific structure will spread. Individuals that are less “fit” will die, and more “fit” individuals will multiply. So the information about the environment “imprints” into the structure of individuals.
+   The process of natural selection can be viewed as the process of transferring information from the individual to it’s offspring. It is the information about possible interactions of the individual with the environment (and about reactions of the individual to these interactions). Among others this point of view is being promoted by Chris Adami [[3](#ref)]. Something like BVSR (“blind variation with selective retention” introduced by Donald T. Campbell [[4](#ref)]) can be mentioned as an example. If a specific structure of the individual promotes that the number of it’s offspring is larger than the number of competing individuals offspring then that specific structure will spread. Individuals that are less “fit” will die, and more “fit” individuals will multiply. So the information about the environment “imprints” into the structure of individuals.
 
 - Most likely, in the mathematical model to be created the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means).
 
@@ -138,7 +138,7 @@ The mathematical model is constructed in the framework of research task describe
 
 ### 2.3 The model as the structure that changes in time [≡](#toc){#2_3}
 
-   Previously described point of view on the model partly shows mechanisms of it’s evolution and increasing complexity. There is also a point of view on the model as on the structure that changes in time. It is not clear what are the individuals in that structure. It can be assumed that individuals are stable patterns like waves existing in the discrete structure that consists of interconnected parts (like graph). Their origin may even be the topological curvature [[5](#5)] (knots? [[6](#6)] braids? [[7](#7), [8](#8)]). The patterns should be resistant to perturbations. The origin of these perturbations is not yet determined. Likely, it should take into account the postulates of the natural selection. The process of changing the structure in time can be similar to the following views:
+   Previously described point of view on the model partly shows mechanisms of it’s evolution and increasing complexity. There is also a point of view on the model as on the structure that changes in time. It is not clear what are the individuals in that structure. It can be assumed that individuals are stable patterns like waves existing in the discrete structure that consists of interconnected parts (like graph). Their origin may even be the topological curvature [[5](#ref)] (knots? [[6](#ref)] braids? [[7](#ref), [8](#ref)]). The patterns should be resistant to perturbations. The origin of these perturbations is not yet determined. Likely, it should take into account the postulates of the natural selection. The process of changing the structure in time can be similar to the following views:
 
 - There is only the present. The past no longer exists, the future does not exist yet. There is a description of the structure at each moment of time. The description at the next moment of time depends only on the description at the previous moment of time.
 
@@ -175,7 +175,7 @@ This inevitably requires answers to the following questions:
 
 ## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡](#toc){#3_0}
 
-   My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/). This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sence. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures exept natural selection postulates, no environment, only individuals).
+   My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/) [[9](#ref)]. This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sence. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures exept natural selection postulates, no environment, only individuals).
 
    And the final goal is to answer the “why these laws of nature?” question. More precisly: why these processes take place but not the other. The history in the model of natural selection is a perfect expanation (if we know the whole history) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible (from the philosophical reasoning).
 
@@ -333,14 +333,14 @@ Seems like the weighted edges are required… There are more randomly selected o
    And this model is a request from philosophy. It’s actually a philosophical mathematics that uses physics and natural selection theory for inspiration. It’s a task to create explanation framework that answers any “why questions” in the same way that theory of evolution answers lots of why questions on origin of different life forms. If this explanation framework exist then it should answer the ancient question “Why is there something rather than nothing?”. It is rather strange to use laws of nature to answer this question. It’s like a joke about creationist-evolutionist debate: “The God created all the evidence of the evolution”, says creationist. Then the evolutionist replies: “It’s the same as to assume that the God created the world this morning. And he has created me already unshaven”. So all pre-existing structures need explanation (including laws of nature). My current guess is that the model I started to buid in chapter **4** “The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)” lacks something like the “Law of habit” by Charles Peirce or the “Principle of Precedence” by Lee Smolin.
 
 
-## 6. P.S. [≡](#toc){#6_0}
+## 6. P.S. [≡](#toc){#ps}
 
 I would be grateful for any feedback and advice.
 
 Peter Zagubisalo, January 2016  
 
 
-## 7. References [≡](#toc){#7_0}
+## 7. References [≡](#toc){#ref}
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -358,8 +358,10 @@ Peter Zagubisalo, January 2016
 
 [8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022)
 
+[9] Alastair Channon page that has the description of open-ended evolution, [channon.net/alastair](http://www.channon.net/alastair/)
 
-## 8. Links to discuss [≡](#toc){#8_0}
+
+## 8. Links and discuss [≡](#toc){#links}
 
 You can discuss the letter here: [/discussletter](http://zagubisalo.tumblr.com/discussletter)
 
