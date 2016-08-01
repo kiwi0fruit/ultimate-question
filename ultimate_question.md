@@ -361,7 +361,7 @@ Peter Zagubisalo, January 2016
 
 ## 8. Links and discuss [≡](#toc){#links}
 
-_News concerning the research and discussion would appear this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
+_News concerning the research and discussion would appear in this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
 Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
 
 _You can discuss the letter here_:  
