@@ -16,7 +16,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 
 **_Concise formulation of the question_: [short_question.html](short_question.md)**
 
-_Русская версия письма_: [zagubisalo.tumblr.com/openletterrus](http://zagubisalo.tumblr.com/openletterrus)
+_Русская версия письма (устаревшая)_: [zagubisalo.tumblr.com/openletterrus](http://zagubisalo.tumblr.com/openletterrus)
 
 
 ## Contents:{#toc}
