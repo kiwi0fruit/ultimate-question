@@ -20,5 +20,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 ## P.S.
 I'm absolutely serious despite the fact that the title was borrowed from and comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it.
 
-- *View this article on GitBook*: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details) (GitHub pages are preview only. The intended view is on GitBook only)
+### GitHub pages are preview only. The intended view is on GitBook only
+
+- *View this article on GitBook*: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
 - *Markdown source code:* [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)
