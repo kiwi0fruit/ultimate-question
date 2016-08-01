@@ -23,10 +23,10 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
 
 ## Contents:{#toc}
 
-1. [The physical and philosophical background of this problem](README.md#1.0)
-    - 1.1 [Reminding the foundations of the theory of evolution](README.md#1.1)
-    - 1.2 [The description of the research program](README.md#1.2)  
-2. [The main features and problems of creating the mathematical model](README.md#2.0)
+1. [The physical and philosophical background of this problem](#1.0)
+    - 1.1 [Reminding the foundations of the theory of evolution](#1.1)
+    - 1.2 [The description of the research program](#1.2)  
+2. [The main features and problems of creating the mathematical model](#2.0)
     - 2.1 [First overview of the mathematical model to create](#2.1)
     - 2.2 [The model as the process of natural selection](#2.2)
     - 2.3 [The model as the structure that changes in time](#2.3)
@@ -44,12 +44,12 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
 8. [Links to discuss](#8.0)
 
 
-## <a name="1.0"></a>1. The physical and philosophical background of this problem [≡](#toc)
+## 1. The physical and philosophical background of this problem [≡](#toc){#1.0}
 
    **The general idea** of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time. It also might be that there exist convincing arguments in favor the impossibility of creating that mathematical model.
 
 
-### <a name="1.1"></a>1.1 Reminding the foundations of the theory of evolution [≡](#toc)
+### 1.1 Reminding the foundations of the theory of evolution [≡](#toc){#1.1}
 
    To begin with, I will briefly remind the foundations of the theory of evolution. This theory is the cornerstone of the research program.
 
@@ -66,7 +66,7 @@ As noted by Karl Popper the theory of evolution is a theory of gradual (!) chang
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
 
-### <a name="1.2"></a>1.2 The description of the research program [≡](#toc)
+### 1.2 The description of the research program [≡](#toc){#1.2}
 
    As already mentioned, the general idea of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time.
 
@@ -94,12 +94,12 @@ And then to see if in this model would be stable structures (patterns?) that rep
 _**The described research task is proposed to be accomplished by creating the mathematical model that is partly described in the section 2**_.
 
 
-## <a name="2.0"></a>2. The main features and problems of creating the mathematical model [≡](#toc)
+## 2. The main features and problems of creating the mathematical model [≡](#toc){#2.0}
 
 The mathematical model is constructed in the framework of research task described in the section **1**.
 
 
-### <a name="2.1"></a>2.1 First overview of the mathematical model to create [≡](#toc)
+### 2.1 First overview of the mathematical model to create [≡](#toc){#2.1}
 
    Some properties possessed by the mathematical model can already be assumed. The model is mathematical in the sense that it is required to build a unified language of envisioning and thinking about a specific process in time. This process is still far from clear and whole picture. Here I am referring to mathematics as a unified language for describing and modeling the reality and possible reality.
 
@@ -113,7 +113,7 @@ The mathematical model is constructed in the framework of research task describe
    Regarding the nature of mathematical models: mathematics, mathematical models and constructs are created by people. Before the act of creation they do not exist. But the interesting thing is that the models can be isomorphic to the part of the reality.
 
 
-### <a name="2.2"></a>2.2 The model as the process of natural selection [≡](#toc)
+### 2.2 The model as the process of natural selection [≡](#toc){#2.2}
 
    There is a short list of the postulates of natural selection (there is a more detailed list of the postulates in section **1**):
 
@@ -136,7 +136,7 @@ The mathematical model is constructed in the framework of research task describe
 - Most likely, spontaneous/random features are postulated in “variation (p5) about the same way as uncertainty and probabilities of the outcomes is postulated in the probability theory (using classical definition of probability).
 
 
-### <a name="2.3"></a>2.3 The model as the structure that changes in time [≡](#toc)
+### 2.3 The model as the structure that changes in time [≡](#toc){#2.3}
 
    Previously described point of view on the model partly shows mechanisms of it’s evolution and increasing complexity. There is also a point of view on the model as on the structure that changes in time. It is not clear what are the individuals in that structure. It can be assumed that individuals are stable patterns like waves existing in the discrete structure that consists of interconnected parts (like graph). Their origin may even be the topological curvature [[5](#5)] (knots? [[6](#6)] braids? [[7](#7), [8](#8)]). The patterns should be resistant to perturbations. The origin of these perturbations is not yet determined. Likely, it should take into account the postulates of the natural selection. The process of changing the structure in time can be similar to the following views:
 
@@ -149,7 +149,7 @@ The mathematical model is constructed in the framework of research task describe
 - Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
 
 
-### <a name="2.4"></a>2.4 The pattern in the structure is the same as the individual in the natural selection [≡](#toc)
+### 2.4 The pattern in the structure is the same as the individual in the natural selection [≡](#toc){#2.4}
 
    At the moment I’m trying to find an answer to the following question: _how is it that the pattern in the structure is the same as the individual in the natural selection?_
 
@@ -166,23 +166,23 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### <a name="2.5"></a>2.5 Some questions [≡](#toc)
+### 2.5 Some questions [≡](#toc){#2.5}
 
    My problem is not only in the nuances and complexities of the construction of the mathematical model. Three years of work on the problem as a hobby did not give any significant results. There is also a feeling that I could have chosen bad tools for creating the model (e.g. myself). The selected assumptions and criteria for the model may also include contradictions or other problems. So I need advice and support not only of the theoretical kind but also of the practical kind: e.g. tool selection and correction of goals.
 
    Lately it became clear to me that the goal is not to build the model by myself but to build the model. I desperately need advice on how to make this mathematical model to be created (it does not matter, by me or by someone else). How can I try to think about it? Who can I try to attract to the task? Advice on a reformulation of the problem or on the correctness of the problem is also very welcome.
 
 
-## <a name="3.0"></a>3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡](#toc)
+## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡](#toc){#3.0}
 
    My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/). This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sence. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures exept natural selection postulates, no environment, only individuals).
 
    And the final goal is to answer the “why these laws of nature?” question. More precisly: why these processes take place but not the other. The history in the model of natural selection is a perfect expanation (if we know the whole history) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible (from the philosophical reasoning).
 
 
-## <a name="4.0"></a>4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡](#toc)
+## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡](#toc){#4.0}
 
-### <a name="4.1"></a>4.1 Possible restrictions and constraints of the model [≡](#toc)
+### 4.1 Possible restrictions and constraints of the model [≡](#toc){#4.1}
 
 Here is an attempt to describe the restrictions and constraints mentioned in section **3** (and described in more details in the open letter) in a more formal way.
 
