@@ -23,9 +23,9 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
 
 ## Contents:{#toc}
 
-1. [The physical and philosophical background of this problem](#1.0)
-    - 1.1 [Reminding the foundations of the theory of evolution](#1.1)
-    - 1.2 [The description of the research program](#1.2)  
+1. [The physical and philosophical background of this problem](#1_0)
+    - 1.1 [Reminding the foundations of the theory of evolution](#1_1)
+    - 1.2 [The description of the research program](#1_2)  
 2. [The main features and problems of creating the mathematical model](#2.0)
     - 2.1 [First overview of the mathematical model to create](#2.1)
     - 2.2 [The model as the process of natural selection](#2.2)
@@ -44,12 +44,12 @@ _Русская версия письма_: [/openletterrus](http://zagubisalo.t
 8. [Links to discuss](#8.0)
 
 
-## 1. The physical and philosophical background of this problem [≡](#toc){#1.0}
+## 1. The physical and philosophical background of this problem [≡](#toc){#1_0}
 
    **The general idea** of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time. It also might be that there exist convincing arguments in favor the impossibility of creating that mathematical model.
 
 
-### 1.1 Reminding the foundations of the theory of evolution [≡](#toc){#1.1}
+### 1.1 Reminding the foundations of the theory of evolution [≡](#toc){#1_1}
 
    To begin with, I will briefly remind the foundations of the theory of evolution. This theory is the cornerstone of the research program.
 
@@ -66,7 +66,7 @@ As noted by Karl Popper the theory of evolution is a theory of gradual (!) chang
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
 
-### 1.2 The description of the research program [≡](#toc){#1.2}
+### 1.2 The description of the research program [≡](#toc){#1_2}
 
    As already mentioned, the general idea of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time.
 
