@@ -87,7 +87,7 @@ This problem is put under the following assumptions:
 - C) something akin to the law of conservation,
 - D) natural selection.
 
-And then to see if in this model would be stable structures (patterns?) that reproduce themselves and change over time. On the other hand modern theories that describe the fundamental workings of the universe, take into account the reality as it is now. That theories make the reconstruction of the past taking into account the reality as it is now. If we are under the assumptions (a), (b), (c​), then that theories must take into account the complexity that has arisen since the birth of the universe. We can only speculate about the age of the universe before the Big Bang. For example, according to the hypothesis of cosmological natural selection [[1](#1)] our observable universe could have had a very large number of universes-ancestors. So the total age of the entire universe could be enormous. The research program I have described in this letter is an attempt to cheat and do not take into account the full history and complexity that may be enormous. It’s like a research “landing operation” in the past, an attempt to describe the universe from the very beginning of it, when it had a much simpler structure. Of course, this “landing” suffers from the lack of experimental evidence and verifiability. But the first goal is a proof of the concept: to create a model of primitive structures that survive (exist) and evolve over time. It is worth mentioning that the time should be real and fundamental in this evolutionary approach which is consistent with the ideas of Lee Smolin [[2](#2)]. Perhaps in case of a successful first step, the ways of linking this approach with the observable universe may be found. If not then the methods of this approach (that are yet to be found) may be brought to other areas of scientific research. Which is also good.
+And then to see if in this model would be stable structures (patterns?) that reproduce themselves and change over time. On the other hand modern theories that describe the fundamental workings of the universe, take into account the reality as it is now. That theories make the reconstruction of the past taking into account the reality as it is now. If we are under the assumptions (a), (b), (c​), then that theories must take into account the complexity that has arisen since the birth of the universe. We can only speculate about the age of the universe before the Big Bang. For example, according to the hypothesis of cosmological natural selection [[1](#7_0)] our observable universe could have had a very large number of universes-ancestors. So the total age of the entire universe could be enormous. The research program I have described in this letter is an attempt to cheat and do not take into account the full history and complexity that may be enormous. It’s like a research “landing operation” in the past, an attempt to describe the universe from the very beginning of it, when it had a much simpler structure. Of course, this “landing” suffers from the lack of experimental evidence and verifiability. But the first goal is a proof of the concept: to create a model of primitive structures that survive (exist) and evolve over time. It is worth mentioning that the time should be real and fundamental in this evolutionary approach which is consistent with the ideas of Lee Smolin [[2](#2)]. Perhaps in case of a successful first step, the ways of linking this approach with the observable universe may be found. If not then the methods of this approach (that are yet to be found) may be brought to other areas of scientific research. Which is also good.
 
 **(e)** The presumption of the existence of the objective reality (objectivity) plays an important role in attempts to construct a mathematical model that satisfies the insights mentioned above. Objective reality can be conceived independently of the perception of observers. In mathematical physics, the objective reality is determined by specifying equivalence classes in the set of reality descriptions in terms of different observers (different coordinate systems, etc.). The dependent on the observer part of the description is not included in the equivalence class. This procedure is called “gauging away” [[2](#2)].
 
@@ -342,21 +342,21 @@ Peter Zagubisalo, January 2016
 
 ## 7. References [≡](#toc){#7_0}
 
-[1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011){#1}
+[1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
-[2] Lee Smolin, Temporal naturalism, arXiv:1310.8539, 2013, [arxiv.org/abs/1310.8539](http://arxiv.org/abs/1310.8539){#2}
+[2] Lee Smolin, Temporal naturalism, arXiv:1310.8539, 2013, [arxiv.org/abs/1310.8539](http://arxiv.org/abs/1310.8539)
 
-[3] Christoph Adami, Information-theoretic Considerations Concerning the Origin of Life, Origins of Life and Evolution of Biospheres 45 (2015) 309-317, [adamilab.msu.edu/chris-adami](http://adamilab.msu.edu/chris-adami/){#3}
+[3] Christoph Adami, Information-theoretic Considerations Concerning the Origin of Life, Origins of Life and Evolution of Biospheres 45 (2015) 309-317, [adamilab.msu.edu/chris-adami](http://adamilab.msu.edu/chris-adami/)
 
-[4] Francis Heylighen, Blind Variation and Selective Retention, Principia Cybernetica Web, 1993, [pespmc1.vub.ac.be/BVSR.html](http://pespmc1.vub.ac.be/BVSR.html){#4}
+[4] Francis Heylighen, Blind Variation and Selective Retention, Principia Cybernetica Web, 1993, [pespmc1.vub.ac.be/BVSR.html](http://pespmc1.vub.ac.be/BVSR.html)
 
-[5] William Kingdon Clifford, On the Space-Theory of Matter, 1876, [en.wikisource.org/wiki/On_the_Space-Theory_of_Matter](https://en.wikisource.org/wiki/On_the_Space-Theory_of_Matter){#5}
+[5] William Kingdon Clifford, On the Space-Theory of Matter, 1876, [en.wikisource.org/wiki/On_the_Space-Theory_of_Matter](https://en.wikisource.org/wiki/On_the_Space-Theory_of_Matter)
 
-[6] Frank Wilczek, Beautiful Losers: Kelvin’s Vortex Atoms, 2011, [pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms](http://www.pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms/){#6}
+[6] Frank Wilczek, Beautiful Losers: Kelvin’s Vortex Atoms, 2011, [pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms](http://www.pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms/)
 
-[7] S.O. Bilson-Thompson, A Topological Model of Composite Preons, arXiv:hep-ph/0503213, 2005 preprint, [arxiv.org/abs/hep-ph/0503213](http://arxiv.org/abs/hep-ph/0503213){#7}
+[7] S.O. Bilson-Thompson, A Topological Model of Composite Preons, arXiv:hep-ph/0503213, 2005 preprint, [arxiv.org/abs/hep-ph/0503213](http://arxiv.org/abs/hep-ph/0503213)
 
-[8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022){#8}
+[8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022)
 
 
 ## 8. Links to discuss [≡](#toc){#8_0}
