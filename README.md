@@ -358,20 +358,18 @@ Peter Zagubisalo, January 2016
 
 [8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022)
 
-[9] Alastair Channon page that has the description of open-ended evolution, [channon.net/alastair](http://www.channon.net/alastair/)
+[9] Alastair Channon page that has the description of Open-ended evolution, [channon.net/alastair](http://www.channon.net/alastair/)
 
 
 ## 8. Links and discuss [≡](#toc){#links}
 
 You can discuss the letter here: [/discussletter](http://zagubisalo.tumblr.com/discussletter)
 
-**News concerning the research and discussion would appear in this blog.  
-Subscibe to RSS:** [/rss](http://zagubisalo.tumblr.com/rss).
+**News concerning the research and discussion would appear this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)**  
+Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
 
 *Short link to this page:*  
 [zagubisalo.tumblr.com/open_letter](http://zagubisalo.tumblr.com/open_letter)
 
 *Markdown source code:*  
-[github.com/kiwi0fruit/open-letter](https://github.com/kiwi0fruit/open-letter)  
-•
-
+[github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
