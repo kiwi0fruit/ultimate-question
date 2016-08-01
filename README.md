@@ -1,4 +1,5 @@
 # The Ultimate Question of Life, the Universe, and Everything
+# (On the task to create the simplest model in which the evolution of the laws of nature arises from the natural selection of structures)
 
 Greetings.
 
@@ -26,7 +27,7 @@ I'm absolutely serious in spite of the fact that the title was borrowed from the
 
 #### Links and discuss:
 
-_News concerning the research and discussion would appear this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
+_News concerning the research and discussion would appear in this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
 Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
 
 _You can discuss the letter here_:  
