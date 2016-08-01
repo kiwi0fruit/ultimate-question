@@ -366,8 +366,5 @@ You can discuss the letter here: [/discussletter](http://zagubisalo.tumblr.com/d
 **News concerning the research and discussion would appear this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)**  
 Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
 
-*Short link to this page:*  
-[zagubisalo.tumblr.com/open_letter](http://zagubisalo.tumblr.com/open_letter)
-
 *Markdown source code:*  
 [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
