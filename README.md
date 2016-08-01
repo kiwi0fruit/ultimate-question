@@ -1,6 +1,4 @@
 # The Ultimate Question of Life, the Universe, and Everything
-
-
 # On the task to create the simplest model in which the evolution of the laws of nature arises from the natural selection of structures
 
 Greetings.
