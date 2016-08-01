@@ -27,13 +27,13 @@ I'm absolutely serious in spite of the fact that the title was borrowed from the
 ### P.P.S.
 
 - **_GitHub pages are preview only. The intended view is only on GitBook (with Javascript on)_**  
-  *View this article on GitBook*: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
-- *News concerning the research and discussion would appear in this blog*: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
-- *Subscibe to RSS*: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
-- *You can discuss the letter here*:  
+  View this article on GitBook: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
+- News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
+- Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
+- You can discuss the letter here:  
   [gitbook.com/book/kiwi0fruit/ultimate-question/discussions](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/discussions)  
   or here: [zagubisalo.tumblr.com/discussletter](http://zagubisalo.tumblr.com/discussletter)
-- *Markdown source code:*  
+- Markdown source code:  
   [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
 
 **[Return to root](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)**
