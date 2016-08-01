@@ -15,7 +15,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 
 **_Complete description of the problem_: [ultimate_question.html](ultimate_question.md)**
 
-**_Short formulation of the question on which I got stuck_: [short_question.html](short_question.md)**
+**_Short formulation of the question_: [short_question.html](short_question.md)**
 
 ## P.S.
 I'm absolutely serious despite the fact that the title was borrowed from and comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it.
