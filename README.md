@@ -35,3 +35,5 @@ or here: [zagubisalo.tumblr.com/discussletter](http://zagubisalo.tumblr.com/disc
 
 *Markdown source code:*  
 [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
+
+**[Return to root](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)**
