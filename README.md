@@ -333,33 +333,33 @@ Seems like the weighted edges are required… There are more randomly selected o
    And this model is a request from philosophy. It’s actually a philosophical mathematics that uses physics and natural selection theory for inspiration. It’s a task to create explanation framework that answers any “why questions” in the same way that theory of evolution answers lots of why questions on origin of different life forms. If this explanation framework exist then it should answer the ancient question “Why is there something rather than nothing?”. It is rather strange to use laws of nature to answer this question. It’s like a joke about creationist-evolutionist debate: “The God created all the evidence of the evolution”, says creationist. Then the evolutionist replies: “It’s the same as to assume that the God created the world this morning. And he has created me already unshaven”. So all pre-existing structures need explanation (including laws of nature). My current guess is that the model I started to buid in chapter **4** “The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)” lacks something like the “Law of habit” by Charles Peirce or the “Principle of Precedence” by Lee Smolin.
 
 
-## <a name="6.0"></a>6. P.S. [≡](#toc)
+## 6. P.S. [≡](#toc){#6.0}
 
 I would be grateful for any feedback and advice.
 
 Peter Zagubisalo, January 2016  
 
 
-## <a name="7.0"></a>7. References [≡](#toc)
+## 7. References [≡](#toc){#7.0}
 
-<a name="1"></a>[1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
+[1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011){#1}
 
-<a name="2"></a>[2] Lee Smolin, Temporal naturalism, arXiv:1310.8539, 2013, [arxiv.org/abs/1310.8539](http://arxiv.org/abs/1310.8539)
+[2] Lee Smolin, Temporal naturalism, arXiv:1310.8539, 2013, [arxiv.org/abs/1310.8539](http://arxiv.org/abs/1310.8539){#2}
 
-<a name="3"></a>[3] Christoph Adami, Information-theoretic Considerations Concerning the Origin of Life, Origins of Life and Evolution of Biospheres 45 (2015) 309-317, [adamilab.msu.edu/chris-adami](http://adamilab.msu.edu/chris-adami/)
+[3] Christoph Adami, Information-theoretic Considerations Concerning the Origin of Life, Origins of Life and Evolution of Biospheres 45 (2015) 309-317, [adamilab.msu.edu/chris-adami](http://adamilab.msu.edu/chris-adami/){#3}
 
-<a name="4"></a>[4] Francis Heylighen, Blind Variation and Selective Retention, Principia Cybernetica Web, 1993, [pespmc1.vub.ac.be/BVSR.html](http://pespmc1.vub.ac.be/BVSR.html)
+[4] Francis Heylighen, Blind Variation and Selective Retention, Principia Cybernetica Web, 1993, [pespmc1.vub.ac.be/BVSR.html](http://pespmc1.vub.ac.be/BVSR.html){#4}
 
-<a name="5"></a>[5] William Kingdon Clifford, On the Space-Theory of Matter, 1876, [en.wikisource.org/wiki/On_the_Space-Theory_of_Matter](https://en.wikisource.org/wiki/On_the_Space-Theory_of_Matter)
+[5] William Kingdon Clifford, On the Space-Theory of Matter, 1876, [en.wikisource.org/wiki/On_the_Space-Theory_of_Matter](https://en.wikisource.org/wiki/On_the_Space-Theory_of_Matter){#5}
 
-<a name="6"></a>[6] Frank Wilczek, Beautiful Losers: Kelvin’s Vortex Atoms, 2011, [pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms](http://www.pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms/)
+[6] Frank Wilczek, Beautiful Losers: Kelvin’s Vortex Atoms, 2011, [pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms](http://www.pbs.org/wgbh/nova/blogs/physics/2011/12/beautiful-losers-kelvins-vortex-atoms/){#6}
 
-<a name="7"></a>[7] S.O. Bilson-Thompson, A Topological Model of Composite Preons, arXiv:hep-ph/0503213, 2005 preprint, [arxiv.org/abs/hep-ph/0503213](http://arxiv.org/abs/hep-ph/0503213)
+[7] S.O. Bilson-Thompson, A Topological Model of Composite Preons, arXiv:hep-ph/0503213, 2005 preprint, [arxiv.org/abs/hep-ph/0503213](http://arxiv.org/abs/hep-ph/0503213){#7}
 
-<a name="8"></a>[8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022)
+[8] S.O. Bilson-Thompson, F. Markopoulou, and L. Smolin, Quantum Gravity and the Standard Model, arXiv:hep-th/0603022, 2007, [arxiv.org/abs/hep-th/0603022](http://arxiv.org/abs/hep-th/0603022){#8}
 
 
-## <a name="8.0"></a>8. Links to discuss [≡](#toc)
+## 8. Links to discuss [≡](#toc){#8.0}
 
 You can discuss the letter here: [/discussletter](http://zagubisalo.tumblr.com/discussletter)
 
