@@ -361,10 +361,12 @@ Peter Zagubisalo, January 2016
 
 ## 8. Links and discuss [≡](#toc){#links}
 
-You can discuss the letter here: [/discussletter](http://zagubisalo.tumblr.com/discussletter)
-
-**News concerning the research and discussion would appear this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)**  
+_News concerning the research and discussion would appear this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
 Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
+
+_You can discuss the letter here_:  
+[gitbook.com/book/kiwi0fruit/ultimate-question/discussions](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/discussions)  
+or here: [zagubisalo.tumblr.com/discussletter](http://zagubisalo.tumblr.com/discussletter)
 
 *Markdown source code:*  
 [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
