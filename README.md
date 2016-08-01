@@ -18,9 +18,20 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 **_Short formulation of the question_: [short_question.html](short_question.md)**
 
 ## P.S.
+
 I'm absolutely serious despite the fact that the title was borrowed from and comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it.
 
 ### GitHub pages are preview only. The intended view is on GitBook only
+*View this article on GitBook*: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
 
-- *View this article on GitBook*: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
-- *Markdown source code:* [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)
+### Links and discuss:
+
+_News concerning the research and discussion would appear this blog_: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
+Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
+
+_You can discuss the letter here_:  
+[gitbook.com/book/kiwi0fruit/ultimate-question/discussions](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/discussions)  
+or here: [zagubisalo.tumblr.com/discussletter](http://zagubisalo.tumblr.com/discussletter)
+
+*Markdown source code:*  
+[github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)  
