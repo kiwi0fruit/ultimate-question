@@ -1,13 +1,13 @@
 /* CSS for website */
 .markdown-section h1 {
-    font-size: 1.4em;
+    font-size: 1.4em !important;
 }
 .markdown-section h2 {
-    font-size: 1.3em;
+    font-size: 1.3em !important;
 }
 .markdown-section h3 {
-    font-size: 1.2em;
+    font-size: 1.2em !important;
 }
 .markdown-section h3 {
-    font-size: 1.1em;
+    font-size: 1.1em !important;
 }
