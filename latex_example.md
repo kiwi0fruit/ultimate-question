@@ -2,7 +2,8 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
-Formulas can be both inline $$F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$$ and not.
+Formulas can be both in-line $$F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$$ and not.
+
 
 $$
 \begin{align}
@@ -13,4 +14,6 @@ $$
 \end{align}
 $$
 
-**[Return to root](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)**
+
+[**Return to root**](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
+
