@@ -8,6 +8,8 @@ Formulas can be both in-line $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} d
 
 Formulas can be both in-line \(F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx\) and not.
 
+Formulas can be both in-line \\(F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx\\) and not.
+
 They can cost $5 or may be even $6. Or \$8 even or may be \$3.
 
 Example with `\newline`:
