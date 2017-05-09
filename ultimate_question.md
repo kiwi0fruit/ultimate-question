@@ -31,7 +31,7 @@ _Русская версия письма (устаревшая)_: [zagubisalo.t
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
     - 2.5 [Some questions](#s2_5)  
-3. [On atrificial life, open ended evolution and “why these laws of nature?” question](#s3)
+3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
     - 4.1 [Possible restrictions and constraints of the model](#s4_1)
     - 4.2 [Examples of the models that resemble the desired model](#s4_2)  
@@ -60,7 +60,7 @@ _Русская версия письма (устаревшая)_: [zagubisalo.t
 * (**p4**) Heredity: properties of the individuals are inherited in reproduction.
 * (**p5**) Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (under a given set of postulates).
 
-As noted by Karl Popper the theory of evolution is a theory of gradual (!) changes that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapiens. And they differ much in complexity.
+As noted by Karl Popper the theory of evolution is a theory of gradual (!) changes that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapient. And they differ much in complexity.
 
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
@@ -172,11 +172,11 @@ This inevitably requires answers to the following questions:
    Lately it became clear to me that the goal is not to build the model by myself but to build the model. I desperately need advice on how to make this mathematical model to be created (it does not matter, by me or by someone else). How can I try to think about it? Who can I try to attract to the task? Advice on a reformulation of the problem or on the correctness of the problem is also very welcome.
 
 
-## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡](#toc){#s3}
+## 3. On artificial life, open ended evolution and “why these laws of nature?” question [≡](#toc){#s3}
 
-   My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/) [[9](#ref)]. This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sence. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures exept natural selection postulates, no environment, only individuals).
+   My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/) [[9](#ref)]. This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sense. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures except natural selection postulates, no environment, only individuals).
 
-   And the final goal is to answer the “why these laws of nature?” question. More precisly: why these processes take place but not the other. The history in the model of natural selection is a perfect expanation (if we know the whole history) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible (from the philosophical reasoning).
+   And the final goal is to answer the “why these laws of nature?” question. More precisely: why these processes take place but not the other. The history in the model of natural selection is a perfect explanation (if we know the whole history) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible (from the philosophical reasoning).
 
 
 ## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡](#toc){#s4}
@@ -194,21 +194,21 @@ Here is an attempt to describe the restrictions and constraints mentioned in sec
 4. The predetermined rules should include the rules that resemble the postulates of natural selection:
 
     - 4.1 “Reproduction” (may be: spontaneous events of doubling of the vertices)
-    - 4.2 “Heredity” (may be: conservation or invariability of some subsgraph of the graph. Or subset of the set of edges of a particular vertex)
+    - 4.2 “Heredity” (may be: conservation or invariability of some subgraph of the graph. Or subset of the set of edges of a particular vertex)
     - 4.3 “Variation” (may be: spontaneous events of changing the vertices’ edges during reproduction. There are more than one such events so there are random choices in most cases)
     - 4.4 “Selection” (I’m not sure but there also may be the events of joining two vertices into one. May be this event is applied only to the two vertices that share in their history the same event of doubling)  
 
 5. As I see it now the edges of the vertices appear to be the structure of the individuals in the natural selection. But I may be wrong.
 
 6. The are two ways of imagining this process:
-    - 6.1 Do not draw the history of rules application. Fisrt step: o, Second step: o―o. Here the rule of reproduction was applied.
+    - 6.1 Do not draw the history of rules application. First step: o, Second step: o―o. Here the rule of reproduction was applied.
     - 6.2 Do draw the history of rules application. First step: o, Second step:
 
-    [<img src="https://65.media.tumblr.com/d0fdb6e91c5db59c0eb213d895ae3d74/tumblr_inline_o0zewtipjS1qd1fz4_500.png" width="50">](https://raw.githubusercontent.com/kiwi0fruit/open-letter/master/pics/01_second_step.png) In this picture the history of reproduction was taken into account. And directed edges are used to denote events of application of the rules to the praph (or to the subgraph of it).  
+    [<img src="https://65.media.tumblr.com/d0fdb6e91c5db59c0eb213d895ae3d74/tumblr_inline_o0zewtipjS1qd1fz4_500.png" width="50">](https://raw.githubusercontent.com/kiwi0fruit/open-letter/master/pics/01_second_step.png) In this picture the history of reproduction was taken into account. And directed edges are used to denote events of application of the rules to the graph (or to the subgraph of it).  
 
-7. During the pocess of rules application (partially randomly) we get the history of graph changes. The process of creating such a history is an infinite process.
+7. During the process of rules application (partially randomly) we get the history of graph changes. The process of creating such a history is an infinite process.
 
-8. In the history of this process should be patterns in the graph that are isomorphic to each other in some sence. If we are imagining the process like in 6.2 then the isomorphic patterns should be found both in time direction and in graph structure. The simplest analogue to this is the waves propagating in the medium.
+8. In the history of this process should be patterns in the graph that are isomorphic to each other in some sense. If we are imagining the process like in 6.2 then the isomorphic patterns should be found both in time direction and in graph structure. The simplest analogue to this is the waves propagating in the medium.
 
 9. Moreover there should be the evolution of such patterns that lead to their complication and incorporation the information about the graph structure or about other patterns. Presumably this evolution is led by competition for “staying alive” of such patterns with each other.
 
@@ -220,11 +220,11 @@ So it's my guess that formal models that satisfy the constraints mentioned can b
 
 **Some notes:**
 
-- Presumably, there are many “layers” on which populations exist. The vertices themself are the atomic individuals that are characterised by their edges. All the vertices are the basic population (basic level). But the goal of the model is to get the individuals at next levels: as patterns in the graph (there may be even cycles of patterns changing to each other, like wave). The interesting individuals are patterns (subgraphs that persist in the changing graph during time). And there expected layers on layers.
+- Presumably, there are many “layers” on which populations exist. The vertices themselves are the atomic individuals that are characterized by their edges. All the vertices are the basic population (basic level). But the goal of the model is to get the individuals at next levels: as patterns in the graph (there may be even cycles of patterns changing to each other, like wave). The interesting individuals are patterns (subgraphs that persist in the changing graph during time). And there expected layers on layers.
 
 - From some point of view my task to create this specific model is an attempt to figure out whether postulates of natural selection are sufficient for evolution with endless complication (given the simplest beginning structure possible) or not sufficient.
 
-- The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) verteses at the beginning should also be investigated.
+- The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) vertices at the beginning should also be investigated.
 
 
 ### 4.2 Examples of the models that resemble the desired model [≡](#toc){#s4_2}
@@ -244,7 +244,7 @@ Here is the a try to create a mathematical dynamic model that satisfies some of 
     - 5.1 “Reproduction”. If “parent” vertex’s label is “True” then it reproduces and the “child” vertex is created. The “child” vertex has a “True” label.
     - 5.2 “Variation” + “Heredity”. There is a ½ probability for each edge of “parent” vertex to be in the edges set of “child” vertex.
     - 5.3 “Heredity”. The edge is always created between the “parent” and “child” vertices.
-    - 5.4 “Selection”. Forget about the newly created “child” vertices (temparary remove them from the consideration). For each vertex in the reduced graph: If vertex’s label is “True” then for each edge of this vertex the “True” signal is send with ½ probability to the vertex’s neighbors. Then again for each vertex in the reduced graph: If at least one “True” signal came to the vertex then it’s label would be “True” on ther next time step. Otherwise is’s label would be “False”.
+    - 5.4 “Selection”. Forget about the newly created “child” vertices (temporary remove them from the consideration). For each vertex in the reduced graph: If vertex’s label is “True” then for each edge of this vertex the “True” signal is send with ½ probability to the vertex’s neighbors. Then again for each vertex in the reduced graph: If at least one “True” signal came to the vertex then it’s label would be “True” on the next time step. Otherwise is’s label would be “False”.
 
 Let’s draw some steps of this process. “True” vertices would be white. “False” vertices would be black.
 
@@ -266,7 +266,7 @@ Let’s draw some steps of this process. “True” vertices would be white. “
 
 There is another model that is more simple in some sense.
 
-**The decsription of the second model:**
+**The description of the second model:**
 
 1. The model describes process of discrete changes of the undirected graph structure.
 2. Each vertex has a non-negative integer label (*l*≥0, *l*∈ℕ).
@@ -325,11 +325,11 @@ Seems like the weighted edges are required… There are more randomly selected o
 
    The two described tasks (1. to get laws of nature from natural selection of structures. 2. to create the minimum mathematical model for open ended evolution) are actually the same task.
 
-   The minimal open ended evolution model (OEE model) that are to be created should be capable of producing at its future steps the invariant behaviour of realy huge number of individuals. And this invariant behaviour may be called the laws of nature. I have doubts that we will ever have enough computational power to run the simulation long enough to get this invariant behaviour. But who knows?
+   The minimal open ended evolution model (OEE model) that are to be created should be capable of producing at its future steps the invariant behavior of really huge number of individuals. And this invariant behavior may be called the laws of nature. I have doubts that we will ever have enough computational power to run the simulation long enough to get this invariant behavior. But who knows?
 
-   Actually I have a guess (that is to be checked) that if this minimun OEE model exists then it’s realy a simple one. It should have a simple structure, but it’s not easy to formulate it right. It’s like the postulates of natural selection: they are obvious, but until they were formulated it was really hard to assume them.
+   Actually I have a guess (that is to be checked) that if this minimum OEE model exists then it’s really a simple one. It should have a simple structure, but it’s not easy to formulate it right. It’s like the postulates of natural selection: they are obvious, but until they were formulated it was really hard to assume them.
 
-   And this model is a request from philosophy. It’s actually a philosophical mathematics that uses physics and natural selection theory for inspiration. It’s a task to create explanation framework that answers any “why questions” in the same way that theory of evolution answers lots of why questions on origin of different life forms. If this explanation framework exist then it should answer the ancient question “Why is there something rather than nothing?”. It is rather strange to use laws of nature to answer this question. It’s like a joke about creationist-evolutionist debate: “The God created all the evidence of the evolution”, says creationist. Then the evolutionist replies: “It’s the same as to assume that the God created the world this morning. And he has created me already unshaven”. So all pre-existing structures need explanation (including laws of nature). My current guess is that the model I started to buid in chapter **4** “The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)” lacks something like the “Law of habit” by Charles Peirce or the “Principle of Precedence” by Lee Smolin.
+   And this model is a request from philosophy. It’s actually a philosophical mathematics that uses physics and natural selection theory for inspiration. It’s a task to create explanation framework that answers any “why questions” in the same way that theory of evolution answers lots of why questions on origin of different life forms. If this explanation framework exist then it should answer the ancient question “Why is there something rather than nothing?”. It is rather strange to use laws of nature to answer this question. It’s like a joke about creationist-evolutionist debate: “The God created all the evidence of the evolution”, says creationist. Then the evolutionist replies: “It’s the same as to assume that the God created the world this morning. And he has created me already unshaven”. So all pre-existing structures need explanation (including laws of nature). My current guess is that the model I started to build in chapter **4** “The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)” lacks something like the “Law of habit” by Charles Peirce or the “Principle of Precedence” by Lee Smolin.
 
 
 ## 6. P.S. [≡](#toc){#ps}
@@ -363,13 +363,13 @@ Peter Zagubisalo, January 2016
 ## 8. Links and discuss [≡](#toc){#links}
 
 - News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com)  
-- Subscibe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
+- Subscribe to RSS: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss)
 - You can discuss the letter here:  
   [gitbook.com/book/kiwi0fruit/ultimate-question/discussions](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/discussions)  
   or here: [zagubisalo.tumblr.com/discussletter](http://zagubisalo.tumblr.com/discussletter)
 - Markdown source code:  
   [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)
-- **_GitHub pages are preview only. The intended view is only on GitBook (with Javascript on)_**  
+- **_GitHub pages are preview only. The intended view is only on GitBook (with JavaScript on)_**  
   View this article on GitBook: [kiwi0fruit.gitbooks.io/ultimate-question](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
 
 **[Return to root](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)**
