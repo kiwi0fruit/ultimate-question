@@ -374,7 +374,7 @@ Peter Zagubisalo, January 2016
 
 **[Return to root](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)**
 
-[toc]: #contents
-[ref]: #references
-[ps]: #p-s
-[links]: #links-and-discuss
+[toc]: #contents-≡
+[ref]: #7-references-≡
+[ps]: #6-p-s-≡
+[links]: #8-links-and-discuss-≡
