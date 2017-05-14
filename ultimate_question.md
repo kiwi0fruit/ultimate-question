@@ -376,5 +376,5 @@ Peter Zagubisalo, January 2016
 
 [toc]: #contents
 [ref]: #7-references-≡
-[ps]: #6-p-s-≡
+[ps]: #6-ps-≡
 [links]: #8-links-and-discuss-≡
