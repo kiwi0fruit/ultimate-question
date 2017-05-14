@@ -1,48 +1,53 @@
-# LaTex example
+# Markdown Unicode and LaTeX test for HTML/PDF
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. Serif fallback: Times New Roman, Cambria Math, Segoe UI Symbol, MS PMincho,
+2. Monospace fallback: Consolas, Cambria Math, Segoe UI Symbol, Microsoft JhengHei.
 
-1) Formulas can be both in-line $$F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$$ and not. This shouldn't be inline math but GitBook for some reason renders it inline.
-
-2) Formulas can be both in-line $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$ and not. This is the most convenient way of writing inline math in scientific context. But it may have the following drawback: They can cost $5 or may be even $6. Or \$8 even or may be \$3.
-
-3) Formulas can be both in-line \(F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx\) and not. This should never work.
-
-4) Formulas can be both in-line \\(F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx\\) and not. This should always work but for some reason StackExchange disabled it.
-
-Example with `\newline`:
-
-$$
-\begin{align}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \newline
-\nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \newline
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \newline
-\nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
-$$
-
-Example with `\\`:
-
-$$
-\begin{align}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
-\nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
-$$
-
-Example with `\\\`:
+* Russian:
+    - Regular serif: проверка русского языка,
+    - `Regular monospace: проверка русского языка`,
+* Math symbols and Greek letters:
+    - Regular serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ,
+    - _Italic serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ_,
+    - **Bold serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ**,
+    - _**Bold italic serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ**_,
+    - `Regular monospace: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ`,
+* Emoji Unicode: 👊, _👊_, **👊**, _**👊**_, `👊`,
+* Buggy symbols on some Windows fonts: ♡, _♡_, **♡**, _**♡**_, `♡`, ♥, _♥_, **♥**, _**♥**_, `♥`,
+* CJK:
+    - Regular serif: 紫薇北斗星,
+    - _Italic serif: 紫薇北斗星_,
+    - **Bold serif: 紫薇北斗星**,
+    - _**Bold italic serif: 紫薇北斗星**_,
+    -  `Regular sans-serif: 紫薇北斗星`,
+* Atom css bug test: [**bold colored link**](https://github.com/kiwi0fruit/misc) (should be colored),
+* Highlighting test of two no-break spaces: '  ' (should be two colored spaces in the editor).
+* In-line formulas test. `$...$` example: $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$. ` $ ` example: They can cost $5 or may be $6. ` \$ ` example: or \$8 or may be \$3. <code>&#36;...&#36;</code> are the best so I test them only (actually pandoc parser failed here so I used `<code>&#36;...&#36;</code>`).
+* PHP code vs. in-line math: `<?php $x = 5 /* + 15 */ + 5; echo $x; ?>`
+* Formulas:
 
 $$
-\begin{align}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\\
-\nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\\
-\nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
+F(x,y)=\alpha G(x) + \beta H(y)
 $$
 
+$$
+\begin{aligned}\nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} & =\frac{4\pi}{c}\vec{\mathbf{j}}\\
+\nabla\cdot\vec{\mathbf{E}} & =4\pi\rho\\
+\nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} & =\vec{\mathbf{0}}\\
+\nabla\cdot\vec{\mathbf{B}} & =0
+\end{aligned}
+$$
 
-[**Return to root**](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
+* Colored python code:
 
+```{.python}
+import pandas as pd
+pd.options.display.latex.repr = True
+import seaborn as sns
+df = sns.load_dataset("iris")
+df.head()
+```
+
+Some text:
+
+Their long association with humans has led dogs to be uniquely attuned to human behavior and they are able to thrive on a starch-rich diet that would be inadequate for other canid species. Dogs vary widely in shape, size and colours. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals. This influence on human society has given them the sobriquet "man's best friend".
