@@ -1,6 +1,6 @@
 /* CSS for website */
 body * {
-    font-family: Times, serif;
+    font-family: 'Libertinus Serif', Georgia, Times, serif;
 }
 body p {
     text-align: justify;
