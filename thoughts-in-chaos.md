@@ -1,1 +1,2 @@
 * Here [Sabine Hossenfelder](http://www.math.columbia.edu/~woit/wordpress/?p=10314) writes that beauty in not that importaint. But we actually should not expect it everywhere if we are to assume natural selection.
+* Возможно, дополнительным ограничением на модель должно быть то, что после своей эволюции - наращивания сложности - в ней все равно можно выделить законы на определенном уровне абстракции. То это опять же возвращение к чему-то напоминающему сепарабелбность (но не она в прямом смысле).
