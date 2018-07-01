@@ -15,7 +15,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
-_GitHub repo has preview only. The intended view is only [**on GitBook**](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details) (with Javascript on)_
+_GitHub repo has preview only. The intended view is only [**on GitBook**](https://kiwi0fruit.gitbooks.io/ultimate-question/content/ultimate_question.html) (with Javascript on)_
 
 **_Concise formulation of the question_**: [**short_question**](short_question.md)
 
@@ -31,7 +31,7 @@ _GitHub repo has preview only. The intended view is only [**on GitBook**](https:
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
     - 2.5 [Other properties of the mathematical model: separability, meaning of life](#s2_5)
-    - 2.6 [Some questions](#s2_6)  
+    - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
     - 4.1 [Possible restrictions and constraints of the model](#s4_1)
@@ -170,16 +170,20 @@ This inevitably requires answers to the following questions:
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
-* On any steps of the process the “structure” is “separable” in s sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
+* On any steps of the process the “structure” is “separable” in a sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
 
 * The notion of “meaning of life” can be useful for creating the model. If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create. As described above, the model likely should get a hierarchy of “layers” and the inner / higher levels should be able to contain more complexity than the previous layers. If we are to assume 2) then the model should have (by design) the chance of reseting to the previous simple layer so that the “life” in the next more complex layer “died” (in this case the meaning is to continue complication and evolution avoiding extinction and reset). But if we are only to assume 1) then that reset mechanism is not that necessary.
 
 
-### 2.6 Some questions [≡][toc]{#s2_6}
+### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
 
    My problem is not only in the nuances and complexities of the construction of the mathematical model. Three years of work on the problem as a hobby did not give any significant results. There is also a feeling that I could have chosen bad tools for creating the model (e.g. myself). The selected assumptions and criteria for the model may also include contradictions or other problems. So I need advice and support not only of the theoretical kind but also of the practical kind: e.g. tool selection and correction of goals.
 
    Lately it became clear to me that the goal is not to build the model by myself but to build the model. I desperately need advice on how to make this mathematical model to be created (it does not matter, by me or by someone else). How can I try to think about it? Who can I try to attract to the task? Advice on a reformulation of the problem or on the correctness of the problem is also very welcome.
+
+#### [Chaotic thoughts](chaotic-thoughts.md)
+
+There is also a [**list**](chaotic-thoughts.md) of thoughts, notes and questions that at some point seemed relevant to me but are such a mess actually...
 
 
 ## 3. On artificial life, open ended evolution and “why these laws of nature?” question [≡][toc]{#s3}
