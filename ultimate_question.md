@@ -6,16 +6,16 @@ Greetings.
 
    I have spent more than two years creating a specific mathematical model. It’s origin is at the intersection of the following areas:
 
-*   fundamental physics
-*   the theory of evolution
-*   metaphysics
-*   foundations of mathematics.
+* fundamental physics
+* the theory of evolution
+* metaphysics
+* foundations of mathematics.
 
 Unfortunately, I have not succeeded in creating the model. And at this point I have become exhausted. I ask your advice or any other help available regarding creating that model.
 
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures.** This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
-**_Concise formulation of the question_: [short_question](short_question.md)**
+**_Concise formulation of the question_**: [**short_question**](short_question.md)
 
 
 ## Contents:
@@ -80,10 +80,10 @@ This problem is put under the following assumptions:
 
 **(d)** Thus, the initial idea was to create a mathematical model that incorporates the following principles:
 
-- A) factor of absolute spontaneity / chance / random,
-- B) factor of reproduction / doubling,
-- C) something akin to the law of conservation,
-- D) natural selection.
+* A) factor of absolute spontaneity / chance / random,
+* B) factor of reproduction / doubling,
+* C) something akin to the law of conservation,
+* D) natural selection.
 
 And then to see if in this model would be stable structures (patterns?) that reproduce themselves and change over time. On the other hand modern theories that describe the fundamental workings of the universe, take into account the reality as it is now. That theories make the reconstruction of the past taking into account the reality as it is now. If we are under the assumptions (a), (b), (c​), then that theories must take into account the complexity that has arisen since the birth of the universe. We can only speculate about the age of the universe before the Big Bang. For example, according to the hypothesis of cosmological natural selection [[1][ref]] our observable universe could have had a very large number of universes-ancestors. So the total age of the entire universe could be enormous. The research program I have described in this letter is an attempt to cheat and do not take into account the full history and complexity that may be enormous. It’s like a research “landing operation” in the past, an attempt to describe the universe from the very beginning of it, when it had a much simpler structure. Of course, this “landing” suffers from the lack of experimental evidence and verifiability. But the first goal is a proof of the concept: to create a model of primitive structures that survive (exist) and evolve over time. It is worth mentioning that the time should be real and fundamental in this evolutionary approach which is consistent with the ideas of Lee Smolin [[2][ref]]. Perhaps in case of a successful first step, the ways of linking this approach with the observable universe may be found. If not then the methods of this approach (that are yet to be found) may be brought to other areas of scientific research. Which is also good.
 
@@ -115,36 +115,36 @@ The mathematical model is constructed in the framework of research task describe
 
    There is a short list of the postulates of natural selection (there is a more detailed list of the postulates in section **1**):
 
-*   (**p1**) Individuals and the environment (individuals ARE the environment?)
-*   (**p2**) Selection
-*   (**p3**) Reproduction (doubling?)
-*   (**p4**) Heredity (conservation/invariability?)
-*   (**p5**) Variation (spontaneous/random?)
+* (**p1**) Individuals and the environment (individuals ARE the environment?)
+* (**p2**) Selection
+* (**p3**) Reproduction (doubling?)
+* (**p4**) Heredity (conservation/invariability?)
+* (**p5**) Variation (spontaneous/random?)
 
    The process of natural selection can be viewed as the process of transferring information from the individual to it’s offspring. It is the information about possible interactions of the individual with the environment (and about reactions of the individual to these interactions). Among others this point of view is being promoted by Chris Adami [[3][ref]]. Something like BVSR (“blind variation with selective retention” introduced by Donald T. Campbell [[4][ref]]) can be mentioned as an example. If a specific structure of the individual promotes that the number of it’s offspring is larger than the number of competing individuals offspring then that specific structure will spread. Individuals that are less “fit” will die, and more “fit” individuals will multiply. So the information about the environment “imprints” into the structure of individuals.
 
-- Most likely, in the mathematical model to be created the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means).
+* Most likely, in the mathematical model to be created the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means).
 
-- For natural selection to work, individual and its descendants must meet very similar events and interactions. Otherwise the information will not be imprinted in the structure of the individual (actually any imprinted information will not be useful).
+* For natural selection to work, individual and its descendants must meet very similar events and interactions. Otherwise the information will not be imprinted in the structure of the individual (actually any imprinted information will not be useful).
 
-- “Reproduction” (p3) provides an environment of identical individuals. But apart from similar events they meet new and unique ones, which are provided by “variation” (p5). 
+* “Reproduction” (p3) provides an environment of identical individuals. But apart from similar events they meet new and unique ones, which are provided by “variation” (p5). 
 
-- If some of the desired properties were not put in the model from the beginning, it is not necessary that they will appear there later. Therefore, it is desirable that postulates of natural selection were in the model from the very beginning (from the first step?). This may even be their primitive counterparts that are surprisingly implicit in the model under construction.
+* If some of the desired properties were not put in the model from the beginning, it is not necessary that they will appear there later. Therefore, it is desirable that postulates of natural selection were in the model from the very beginning (from the first step?). This may even be their primitive counterparts that are surprisingly implicit in the model under construction.
 
-- Most likely, spontaneous/random features are postulated in “variation (p5) about the same way as uncertainty and probabilities of the outcomes is postulated in the probability theory (using classical definition of probability).
+* Most likely, spontaneous/random features are postulated in “variation (p5) about the same way as uncertainty and probabilities of the outcomes is postulated in the probability theory (using classical definition of probability).
 
 
 ### 2.3 The model as the structure that changes in time [≡][toc]{#s2_3}
 
    Previously described point of view on the model partly shows mechanisms of it’s evolution and increasing complexity. There is also a point of view on the model as on the structure that changes in time. It is not clear what are the individuals in that structure. It can be assumed that individuals are stable patterns like waves existing in the discrete structure that consists of interconnected parts (like graph). Their origin may even be the topological curvature [[5][ref]] (knots? [[6][ref]] braids? [[7][ref], [8][ref]]). The patterns should be resistant to perturbations. The origin of these perturbations is not yet determined. Likely, it should take into account the postulates of the natural selection. The process of changing the structure in time can be similar to the following views:
 
-- There is only the present. The past no longer exists, the future does not exist yet. There is a description of the structure at each moment of time. The description at the next moment of time depends only on the description at the previous moment of time.
+* There is only the present. The past no longer exists, the future does not exist yet. There is a description of the structure at each moment of time. The description at the next moment of time depends only on the description at the previous moment of time.
 
-- The growing universe. The structure at the next moment of time may depend on any preceding moment. Furthermore, only part of the entire structure may change at the next moment.
+* The growing universe. The structure at the next moment of time may depend on any preceding moment. Furthermore, only part of the entire structure may change at the next moment.
 
-- Here we need to understand whether these views are equivalent (whether there is an isomorphism between them). Perhaps, the second description can always be reduced to the first. It all depends on specific description of the structure, which has not yet been invented.
+* Here we need to understand whether these views are equivalent (whether there is an isomorphism between them). Perhaps, the second description can always be reduced to the first. It all depends on specific description of the structure, which has not yet been invented.
 
-- Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
+* Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
 
 
 ### 2.4 The pattern in the structure is the same as the individual in the natural selection [≡][toc]{#s2_4}
@@ -155,11 +155,11 @@ The mathematical model is constructed in the framework of research task describe
 
 This inevitably requires answers to the following questions:
 
-- What are the “atoms” in this structure? What’s the basis of this picture? (May be the atomic parts in the structure similar to a graph are the atomic individuals. And these atomic individuals easily increase their number. Then how do non-atomic individuals appear?)
+* What are the “atoms” in this structure? What’s the basis of this picture? (May be the atomic parts in the structure similar to a graph are the atomic individuals. And these atomic individuals easily increase their number. Then how do non-atomic individuals appear?)
 
-- In what places of the structure do random variations occur? What are the rules of it’s applying? This question is important, because random variations provide development and complication of the structure.
+* In what places of the structure do random variations occur? What are the rules of it’s applying? This question is important, because random variations provide development and complication of the structure.
 
-- What is the state of minimum complexity from which the process begins?
+* What is the state of minimum complexity from which the process begins?
 
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
@@ -168,8 +168,8 @@ This inevitably requires answers to the following questions:
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
-* On any steps of the process the “structure” is “separable” in s sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)).
-    * I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
+* On any steps of the process the “structure” is “separable” in s sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
+
 * The notion of “meaning of life” can be useful for creating the model. If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create. As described above, the model likely should get a hierarchy of “layers” and the inner / higher levels should be able to contain more complexity than the previous layers. If we are to assume 2) then the model should have (by design) the chance of reseting to the previous simple layer so that the “life” in the next more complex layer “died” (in this case the meaning is to continue complication and evolution avoiding extinction and reset). But if we are only to assume 1) then that reset mechanism is not that necessary.
 
 
@@ -228,11 +228,11 @@ So it's my guess that formal models that satisfy the constraints mentioned can b
 
 **Some notes:**
 
-- Presumably, there are many “layers” on which populations exist. The vertices themselves are the atomic individuals that are characterized by their edges. All the vertices are the basic population (basic level). But the goal of the model is to get the individuals at next levels: as patterns in the graph (there may be even cycles of patterns changing to each other, like wave). The interesting individuals are patterns (subgraphs that persist in the changing graph during time). And there expected layers on layers.
+* Presumably, there are many “layers” on which populations exist. The vertices themselves are the atomic individuals that are characterized by their edges. All the vertices are the basic population (basic level). But the goal of the model is to get the individuals at next levels: as patterns in the graph (there may be even cycles of patterns changing to each other, like wave). The interesting individuals are patterns (subgraphs that persist in the changing graph during time). And there expected layers on layers.
 
-- From some point of view my task to create this specific model is an attempt to figure out whether postulates of natural selection are sufficient for evolution with endless complication (given the simplest beginning structure possible) or not sufficient.
+* From some point of view my task to create this specific model is an attempt to figure out whether postulates of natural selection are sufficient for evolution with endless complication (given the simplest beginning structure possible) or not sufficient.
 
-- The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) vertices at the beginning should also be investigated.
+* The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) vertices at the beginning should also be investigated.
 
 
 ### 4.2 Examples of the models that resemble the desired model [≡][toc]{#s4_2}
