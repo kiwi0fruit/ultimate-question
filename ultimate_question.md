@@ -148,7 +148,7 @@ The mathematical model is constructed in the framework of research task describe
 
 * Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
 
-* For simplicity the rules of structure changing might be encapsulated to the structure itself. But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection.
+* For simplicity the rules of structure changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff?](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection.
 
 * The atomic parts of the graph might be something that is convenient to call “actors”
 
