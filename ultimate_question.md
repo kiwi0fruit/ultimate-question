@@ -25,12 +25,13 @@ _Русская версия письма (устаревшая)_: [zagubisalo.t
 1. [The physical and philosophical background of this problem](#s1)
     - 1.1 [Reminding the foundations of the theory of evolution](#s1_1)
     - 1.2 [The description of the research program](#s1_2)  
-2. [The main features and problems of creating the mathematical model](#s2)
+2. [The main features and problems of/in the mathematical model to create](#s2)
     - 2.1 [First overview of the mathematical model to create](#s2_1)
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Some questions](#s2_5)  
+    - 2.5 [Other properties of the mathematical model](#s2_5)
+    - 2.6 [Some questions](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
     - 4.1 [Possible restrictions and constraints of the model](#s4_1)
@@ -93,7 +94,7 @@ And then to see if in this model would be stable structures (patterns?) that rep
 _**The described research task is proposed to be accomplished by creating the mathematical model that is partly described in the section 2**_.
 
 
-## 2. The main features and problems of creating the mathematical model [≡][toc]{#s2}
+## 2. The main features and problems of/in the mathematical model to create [≡][toc]{#s2}
 
 The mathematical model is constructed in the framework of research task described in the section **1**.
 
@@ -165,7 +166,16 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Some questions [≡][toc]{#s2_5}
+### 2.5 Other properties of the mathematical model [≡][toc]{#s2_5}
+
+There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
+
+* On any steps of the process the “structure” is “separable” in s sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)).
+    * I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
+* The notion of “meaning of life” can be useful for creating the model (but not in an expected from common sense way). If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create: if we are to assume 2) the model should have the chance of 
+
+
+### 2.6 Some questions [≡][toc]{#s2_6}
 
    My problem is not only in the nuances and complexities of the construction of the mathematical model. Three years of work on the problem as a hobby did not give any significant results. There is also a feeling that I could have chosen bad tools for creating the model (e.g. myself). The selected assumptions and criteria for the model may also include contradictions or other problems. So I need advice and support not only of the theoretical kind but also of the practical kind: e.g. tool selection and correction of goals.
 
