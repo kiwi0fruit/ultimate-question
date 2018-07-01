@@ -48,6 +48,8 @@ _GitHub repo has preview only. The intended view is only [**on GitBook**](https:
 
    **The general idea** of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time. It also might be that there exist convincing arguments in favor the impossibility of creating that mathematical model.
 
+The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them.
+
 
 ### 1.1 Reminding the foundations of the theory of evolution [≡][toc]{#s1_1}
 
