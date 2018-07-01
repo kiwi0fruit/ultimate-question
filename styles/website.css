@@ -1,6 +1,9 @@
 /* CSS for website */
-body * {
-    font-family: 'Libertinus Serif', Georgia, Times, serif;
+.book.font-family-0 {
+    font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
+}
+.book.font-family-1 {
+    font-family: 'Source Sans Pro', 'Segoe UI', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'STIX Two Math', Symbola, sans-serif;
 }
 body p {
     text-align: justify;
