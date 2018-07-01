@@ -1,9 +1,15 @@
 /* CSS for website */
 .book.font-family-0 {
-    font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
+    font-family: 'Libertinus Serif', 'Libertinus Math', 'Times New Roman', Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
 }
 .book.font-family-1 {
     font-family: 'Source Sans Pro', 'Segoe UI', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'STIX Two Math', Symbola, sans-serif;
+}
+.book.font-family-0.font-size-2 .book-body .page-inner section {
+    font-size: 1.8rem;
+}
+.book.font-family-1.font-size-2 .book-body .page-inner section {
+    font-size: 1.6rem;
 }
 body p {
     text-align: justify;
