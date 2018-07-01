@@ -51,7 +51,7 @@ The structure is discrete and finite. Steps of time that correspond to changes i
 
 So my question is a request for intuitions on how to create that complete picture that satisfies the constraints.
 
-_**More details on this research problem are described in this article**_**: **[**ultimate\_question.html**](ultimate_question.md)
+_**More details on this research problem are described in this article**_: [**ultimate\_question**](ultimate_question.md)
 
 ### P.S.
 
@@ -60,4 +60,3 @@ My main goal briefly and correctly: to create a model of Open Ended Evolution \(
 And the final goal is to answer the “why these laws of nature?” question. More precisly: why these processes take place but not the other. The history in the model of natural selection is a perfect expanation \(if we know the whole history\) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible \(from the philosophical reasoning\).
 
 [**Return to root**](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
-
