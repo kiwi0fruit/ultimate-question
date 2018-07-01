@@ -2,5 +2,11 @@
     "plugins": [
         "mathjax"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans-serif",
+            "size": 2
+        }
+    }
 }
