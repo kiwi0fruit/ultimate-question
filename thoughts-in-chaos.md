@@ -1,0 +1,1 @@
+* Here [Sabine Hossenfelder](http://www.math.columbia.edu/~woit/wordpress/?p=10314) writes that beauty in not that importaint. But we actually should not expect it everywhere if we are to assume natural selection.
