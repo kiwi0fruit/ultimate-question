@@ -30,7 +30,7 @@ _Русская версия письма (устаревшая)_: [zagubisalo.t
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Other properties of the mathematical model](#s2_5)
+    - 2.5 [Other properties of the mathematical model: separability, meaning of life](#s2_5)
     - 2.6 [Some questions](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
@@ -166,13 +166,13 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Other properties of the mathematical model [≡][toc]{#s2_5}
+### 2.5 Other properties of the mathematical model: separability, meaning of life [≡][toc]{#s2_5}
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
 * On any steps of the process the “structure” is “separable” in s sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)).
     * I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)).
-* The notion of “meaning of life” can be useful for creating the model (but not in an expected from common sense way). If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create: if we are to assume 2) the model should have the chance of 
+* The notion of “meaning of life” can be useful for creating the model. If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create. As described above, the model likely should get a hierarchy of “layers” and the inner / higher levels should be able to contain more complexity than the previous layers. If we are to assume 2) then the model should have (by design) the chance of reseting to the previous simple layer so that the “life” in the next more complex layer “died” (in this case the meaning is to continue complication and evolution avoiding extinction and reset). But if we are only to assume 1) then that reset mechanism is not that necessary.
 
 
 ### 2.6 Some questions [≡][toc]{#s2_6}
