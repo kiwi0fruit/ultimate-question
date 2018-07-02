@@ -30,7 +30,7 @@ _GitHub repo has preview only. The intended view is only [**on GitBook**](https:
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Other properties of the mathematical model: separability, meaning of life](#s2_5)
+    - 2.5 [Other properties of the model: separability, meaning of life, strange loop](#s2_5)
     - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
@@ -150,10 +150,6 @@ The mathematical model is constructed in the framework of research task describe
 
 * Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
 
-* For simplicity the rules of structure changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff?](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection. On the other side the complete immanence of both rules/laws and meta-laws/meta-rules (when they always have a material carrier) are very attractive concept as it's a simpler one hence it's better from Occam Razor point of view. But there is a guess that immanence of meta-laws leads to the [strange loop](https://en.wikipedia.org/wiki/Strange_loop). But what if the strange loop is a valid building block of the Universe?
-
-* The atomic parts of the graph might be something that is convenient to call “actors”
-
 
 ### 2.4 The pattern in the structure is the same as the individual in the natural selection [≡][toc]{#s2_4}
 
@@ -172,13 +168,17 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Other properties of the mathematical model: separability, meaning of life [≡][toc]{#s2_5}
+### 2.5 Other properties of the model: separability, meaning of life, strange loop [≡][toc]{#s2_5}
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
 * On any steps of the process the “structure” is “separable” in a sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)). Or the entropy somehow related to this...
 
 * The notion of “meaning of life” can be useful for creating the model. If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create. As described above, the model likely should get a hierarchy of “layers” (not the time layers) and the inner / higher levels should be able to contain more complexity than the previous layers. If we are to assume 2) then the model should have (by design) the chance of reseting to the previous simple layer so that the “life” in the next more complex layer “died” (in this case the meaning is to continue complication and evolution avoiding extinction and reset). But if we are only to assume 1) then that reset mechanism is not that necessary.
+
+* For simplicity the rules of “structure” changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff?](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection. On the other side the complete immanence of both rules/laws and meta-laws/meta-rules (when they always have a material carrier) are very attractive concept as it's a simpler one hence it's better from Occam Razor point of view. But there is a guess that immanence of meta-laws leads to the [strange loop](https://en.wikipedia.org/wiki/Strange_loop). But what if the strange loop is a valid building block of the Universe?
+
+* The atomic parts of the graph might be something that is convenient to call “actors”
 
 
 ### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
