@@ -187,9 +187,9 @@ There are some other properties of the mathematical model to create that can be 
 
    Lately it became clear to me that the goal is not to build the model by myself but to build the model. I desperately need advice on how to make this mathematical model to be created (it does not matter, by me or by someone else). How can I try to think about it? Who can I try to attract to the task? Advice on a reformulation of the problem or on the correctness of the problem is also very welcome.
 
-#### [Chaotic thoughts](chaotic-thoughts.md)
+#### [Chaotic thoughts](chaotic_thoughts.md)
 
-There is also a [**list**](chaotic-thoughts.md) of thoughts, notes and questions that at some point seemed relevant to me but are such a mess actually...
+There is also a [**list**](chaotic_thoughts.md) of thoughts, notes and questions that at some point seemed relevant to me but are such a mess actually...
 
 
 ## 3. On artificial life, open ended evolution and “why these laws of nature?” question [≡][toc]{#s3}
