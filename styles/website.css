@@ -11,8 +11,20 @@ body, body .font-family-1, .book.font-family-1 {
     font-size: 18px;
     font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
+.book.font-size-0 .book-body .page-inner section {
+    font-size: 80%;
+}
+.book.font-size-1 .book-body .page-inner section {
+    font-size: 90%;
+}
 .book.font-size-2 .book-body .page-inner section {
     font-size: 100%;
+}
+.book.font-size-3 .book-body .page-inner section {
+    font-size: 110%;
+}
+.book.font-size-4 .book-body .page-inner section {
+    font-size: 125%;
 }
 body p {
     text-align: justify;
