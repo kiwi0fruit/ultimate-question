@@ -3,23 +3,16 @@
 @import url("https://fontlibrary.org/face/libertinus-serif");
 @import url("https://fontlibrary.org/face/libertinus-math");
 
-body {
-    font-size: 18px;
-    font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
-}
 body .font-family-0, .book.font-family-0 {
     font-size: 20px;
     font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
 }
-body .font-family-1, .book.font-family-1 {
+body, body .font-family-1, .book.font-family-1 {
     font-size: 18px;
     font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
-.book.font-family-0.font-size-2 .book-body .page-inner section {
-    font-size: 1em;
-}
-.book.font-family-1.font-size-2 .book-body .page-inner section {
-    font-size: 1em;
+.book.font-size-2 .book-body .page-inner section {
+    font-size: 100%;
 }
 body p {
     text-align: justify;
