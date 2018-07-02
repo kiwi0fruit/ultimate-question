@@ -1,4 +1,6 @@
 /* CSS for website */
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
 body {
     font-family: 'Source Sans Pro', 'Segoe UI', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'STIX Two Math', Symbola, sans-serif;
     font-size: 18px;
