@@ -4,33 +4,35 @@
 @import url("https://fontlibrary.org/face/libertinus-math");
 
 body {
-    font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
     font-size: 18px;
+    font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
-.book.font-family-0 {
+body .font-family-0 {
+    font-size: 20px;
     font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
 }
-.book.font-family-1 {
+body .font-family-1 {
+    font-size: 18px;
     font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
 .book.font-family-0.font-size-2 .book-body .page-inner section {
-    font-size: 20px;
+    font-size: 1em;
 }
 .book.font-family-1.font-size-2 .book-body .page-inner section {
-    font-size: 18px;
+    font-size: 1em;
 }
 body p {
     text-align: justify;
 }
 .markdown-section h1 {
-    font-size: 1.5em;
+    font-size: 150%;
 }
 .markdown-section h2 {
-    font-size: 1.3em;
+    font-size: 130%;
 }
 .markdown-section h3 {
-    font-size: 1.2em;
+    font-size: 120%;
 }
 .markdown-section h4 {
-    font-size: 1.1em;
+    font-size: 110%;
 }
