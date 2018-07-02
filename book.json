@@ -5,7 +5,7 @@
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
-            "family": "sans-serif",
+            "family": "serif",
             "size": 2
         }
     }
