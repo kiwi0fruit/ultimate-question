@@ -7,11 +7,11 @@ body {
     font-size: 18px;
     font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
-body .font-family-0 {
+body .font-family-0, .book.font-family-0 {
     font-size: 20px;
     font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', 'STIX Two Math', Symbola, serif;
 }
-body .font-family-1 {
+body .font-family-1, .book.font-family-1 {
     font-size: 18px;
     font-family: 'Source Sans Pro', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'Noto Sans', 'DejaVu Sans', 'Libertinus Math', 'STIX Two Math', Symbola, sans-serif;
 }
