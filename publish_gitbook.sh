@@ -2,6 +2,10 @@
 
 # npm install -g gitbook-cli
 # run `gitbook serve` to test the gitbook offline: run `index.html` or `http://localhost:4000`
+# create GitHub pages branch:
+# git checkout -b gh-pages
+# git checkout gh-pages
+# git push origin gh-pages
 
 # install the plugins and build the static site
 gitbook install && gitbook build
