@@ -29,13 +29,14 @@
     font-style: normal;
       }
 
-body * {
+/* body * {
    -webkit-transform: none !important;
    -moz-transform: none !important;
    -ms-transform: none !important;
    -o-transform: none !important;
    transform: none !important;
-}
+} */
+
 body * {
    overflow-y: visible !important;
 }
