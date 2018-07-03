@@ -172,13 +172,13 @@ This inevitably requires answers to the following questions:
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
-* On any steps of the process the “structure” is “separable” in a sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [chapter 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [chapter 2.2](#s2_2)). Or the entropy somehow related to this...
+* On any steps of the process the “structure” is “separable” in a sense that it can be split into parts that we people can reason about and find the laws in. But there can be a hierarchy of such “separable” layers. I guess if the Universe didn't posses a feature like that it would not be knowable by humans. But still it is (to some big enough degree at least). So the “separability” is somehow connected with epistemological optimism (see above in the [section 1.2a](#s1_2)). I don't know of the cases where [Reductionism](https://en.wikipedia.org/wiki/Reductionism) doesn't work and hierarchy of knowable abstractions is not possible. This may mean that the natural selection rejects too topologically tangled systems (if we are under assumptions in the [section 2.2](#s2_2)). Or the entropy somehow related to this...
 
 * The notion of “meaning of life” can be useful for creating the model. If we look at [natural selection postulates](#s1_1) the only candidates for the “meaning of life” are 1) the competition between evolutionary branches (survival of the particular evolutionary branch not the other branches), 2) survival and complication of the all branches hence the complication of awareness of individuals of the environment and themselves. The first point seem to be more likely but the second one is also worth consideration. And embracing 1) or 2) has different impact on the properties of the model to create. As described above, the model likely should get a hierarchy of “layers” (not the time layers) and the inner / higher levels should be able to contain more complexity than the previous layers. If we are to assume 2) then the model should have (by design) the chance of reseting to the previous simple layer so that the “life” in the next more complex layer “died” (in this case the meaning is to continue complication and evolution avoiding extinction and reset). But if we are only to assume 1) then that reset mechanism is not that necessary.
 
-* For simplicity the rules of “structure” changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff?](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection. But on the other hand the complete immanence of both rules/laws and meta-laws/meta-rules (when they always have a material carrier) are very attractive concept as it's a simpler one hence it's better from Occam Razor point of view. But I have a guess that immanence of meta-laws leads to the [strange loop](https://en.wikipedia.org/wiki/Strange_loop). But what if the strange loop is a valid building block of the Universe?
+* For simplicity the rules of “structure” changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff](https://en.wikipedia.org/wiki/William_Kingdon_Clifford)?, neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection. But on the other hand the complete immanence of both rules/laws and meta-laws/meta-rules (when they always have a material carrier) are very attractive concept as it's a simpler one hence it's better from Occam Razor point of view. But I have a guess that immanence of meta-laws leads to the [strange loop](https://en.wikipedia.org/wiki/Strange_loop). But what if the strange loop is a valid building block of the Universe?
 
-* The atomic parts of the graph might be something that is convenient to call “actors”
+* The atomic parts of the graph might be something that is convenient to call “actors”.
 
 
 ### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
@@ -352,14 +352,14 @@ Seems like the weighted edges are required… There are more randomly selected o
    And this model is a request from philosophy. It’s actually a philosophical mathematics that uses physics and natural selection theory for inspiration. It’s a task to create explanation framework that answers any “why questions” in the same way that theory of evolution answers lots of why questions on origin of different life forms. If this explanation framework exist then it should answer the ancient question “Why is there something rather than nothing?”. It is rather strange to use laws of nature to answer this question. It’s like a joke about creationist-evolutionist debate: “The God created all the evidence of the evolution”, says creationist. Then the evolutionist replies: “It’s the same as to assume that the God created the world this morning. And he has created me already unshaven”. So all pre-existing structures need explanation (including laws of nature). My current guess is that the model I started to build in chapter **4** “The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)” lacks something like the “Law of habit” by Charles Peirce or the “Principle of Precedence” by Lee Smolin.
 
 
-## 6. P.S. [≡][toc]
+## 6. P.S. [≡][toc]{#ps}
 
 I would be grateful for any feedback and advice.
 
 Peter Zagubisalo, January 2016, minor update July 2018  
 
 
-## 7. References [≡][toc]
+## 7. References [≡][toc]{#references}
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -380,7 +380,7 @@ Peter Zagubisalo, January 2016, minor update July 2018
 [9] Alastair Channon page that has the description of Open-ended evolution, [channon.net/alastair](http://www.channon.net/alastair/)
 
 
-## 8. Links and discuss [≡][toc]
+## 8. Links and discuss [≡][toc]{#links-and-discuss}
 
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
 * You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
@@ -391,6 +391,6 @@ Peter Zagubisalo, January 2016, minor update July 2018
 [**Return to root**](https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details)
 
 [toc]: #contents
-[ref]: #7-references-≡
-[ps]: #6-ps-≡
-[links]: #8-links-and-discuss-≡
+[ref]: #references
+[ps]: #ps
+[links]: #links-and-discuss
