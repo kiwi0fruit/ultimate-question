@@ -8,6 +8,9 @@
 :: git checkout gh-pages
 :: git push origin gh-pages
 
+set "script_dir=%~dp0"
+cd /d "%script_dir%"
+
 :: install the plugins and build the static site
 call gitbook install
 call gitbook build
