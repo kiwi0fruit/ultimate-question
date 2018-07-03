@@ -1,15 +1,14 @@
 /* CSS for website */
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;subset=greek,greek-ext,latin-ext");
 @import url("https://fontlibrary.org/face/libertinus-serif");
-@import url("https://fontlibrary.org/face/libertinus-math");
 
 body .font-family-0, .book.font-family-0 {
     font-size: 20px;
-    font-family: 'Libertinus Serif', 'Libertinus Math', Georgia, Times, 'Noto Serif', serif;
+    font-family: 'Libertinus Serif', Georgia, Times, 'Noto Serif', serif;
 }
 body, body .font-family-1, .book.font-family-1 {
     font-size: 16px;
-    font-family: 'Noto Sans', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'DejaVu Sans', 'Libertinus Math', sans-serif;
+    font-family: 'Noto Sans', 'Segoe UI', 'San Francisco', 'Helvetica Neue', 'DejaVu Sans', sans-serif;
 }
 .book.font-size-0 .book-body .page-inner section {
     font-size: 80%;
