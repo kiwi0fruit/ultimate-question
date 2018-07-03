@@ -29,6 +29,22 @@
     font-style: normal;
       }
 
+book-body {
+   left: 0 !important;
+   -webkit-transform: none !important;
+   -moz-transform: none !important;
+   -ms-transform: none !important;
+   -o-transform: none !important;
+   transform: none !important;
+   overflow-y: visible !important;
+}
+.body-inner {
+   overflow-y: visible !important;
+}
+.book-summary {
+    display: none;
+}
+
 body .font-family-0, .book.font-family-0 {
     font-size: 20px;
     font-family: 'Libertinus Serif', Georgia, Times, 'Noto Serif', serif;
