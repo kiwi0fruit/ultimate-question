@@ -1,11 +1,15 @@
 :: https://gist.githubusercontent.com/SangsooNam/aa73c3e1ff88d30433e4020f1275242a/raw/b5fdc4d1cc44be63dc272a42b55524a1cf32d595/publish_gitbook.sh
 
 :: npm install -g gitbook-cli
-:: run `gitbook serve` to test the gitbook offline: run `index.html` or `http://localhost:4000`
+:: run 'gitbook serve' to test the gitbook offline
+:: then run 'index.html' or 'http://localhost:4000'
 :: create GitHub pages branch:
 :: git checkout -b gh-pages
 :: git checkout gh-pages
 :: git push origin gh-pages
+
+set "script_dir=%~dp0"
+cd /d "%script_dir%"
 
 :: install the plugins and build the static site
 call gitbook install
