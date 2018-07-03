@@ -1,6 +1,33 @@
 /* CSS for website */
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;subset=greek,greek-ext,latin-ext");
-@import url("https://fontlibrary.org/face/libertinus-serif");
+/* @import url("https://fontlibrary.org/face/libertinus-serif"); */
+@font-face {
+    font-family: 'Libertinus Serif';
+        src: url('https://fontlibrary.org/assets/fonts/libertinus-serif/064f563b9f38a48199d290c167997a6c/b8df7ce5c492ba3e7e2a79be794d2ed7/LibertinusSerifBold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'Libertinus Serif';
+        src: url('https://fontlibrary.org/assets/fonts/libertinus-serif/064f563b9f38a48199d290c167997a6c/41ab17fb57e7e928726c12a333f773e8/LibertinusSerifBoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Libertinus Serif';
+        src: url('https://fontlibrary.org/assets/fonts/libertinus-serif/064f563b9f38a48199d290c167997a6c/e44ba87dfec80d0fa5a92709da194053/LibertinusSerifItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Libertinus Serif';
+        src: url('https://fontlibrary.org/assets/fonts/libertinus-serif/064f563b9f38a48199d290c167997a6c/2cfcdbd569ec4ca2a4afbf3943fc0017/LibertinusSerifRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
 
 body .font-family-0, .book.font-family-0 {
     font-size: 20px;
