@@ -224,7 +224,7 @@ Here is an attempt to describe the restrictions and constraints mentioned in sec
     - 6.1 Do not draw the history of rules application. First step: o, Second step: o―o. Here the rule of reproduction was applied.
     - 6.2 Do draw the history of rules application. First step: o, Second step:
 
-    [<img src="https://raw.githubusercontent.com/kiwi0fruit/ultimate-question/master/1to2.png" width="50">](https://raw.githubusercontent.com/kiwi0fruit/ultimate-question/master/1to2.png) In this picture the history of reproduction was taken into account. And directed edges are used to denote events of application of the rules to the graph (or to the subgraph of it).  
+    [<img src="https://raw.githubusercontent.com/kiwi0fruit/ultimate-question/master/files/1to2.png" width="50">](https://raw.githubusercontent.com/kiwi0fruit/ultimate-question/master/files/1to2.png) In this picture the history of reproduction was taken into account. And directed edges are used to denote events of application of the rules to the graph (or to the subgraph of it).  
 
 7. During the process of rules application (partially randomly) we get the history of graph changes. The process of creating such a history is an infinite process.
 
