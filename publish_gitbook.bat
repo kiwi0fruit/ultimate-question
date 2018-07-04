@@ -3,13 +3,14 @@
 :: git checkout gh-pages
 :: git push origin gh-pages
 
-set "script_dir=%~dp0"
-cd /d "%script_dir%"
-
-:: install Gitbook
-call npm install -g gitbook-cli
+:: install gitbook-cli
+:: npm install -g gitbook-cli
 ::     if install fails because of the 'ansistyles'
 ::     try delete '%AppData%\npm' and '%AppData%\npm-cache'
+
+
+set "script_dir=%~dp0"
+cd /d "%script_dir%"
 
 :: https://gist.githubusercontent.com/SangsooNam/aa73c3e1ff88d30433e4020f1275242a/raw/b5fdc4d1cc44be63dc272a42b55524a1cf32d595/publish_gitbook.sh
 

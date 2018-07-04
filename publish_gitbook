@@ -5,11 +5,14 @@
 # git checkout gh-pages
 # git push origin gh-pages
 
+# install gitbook-cli
+# npm install -g gitbook-cli
+#     if install fails because of the 'ansistyles'
+#     try delete '%AppData%\npm' and '%AppData%\npm-cache'
+
+
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "${script_dir}"
-
-# install Gitbook
-npm install -g gitbook-cli
 
 # optionally run 'gitbook serve' to test the gitbook offline
 # then run 'index.html' or 'http://localhost:4000'
