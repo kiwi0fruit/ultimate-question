@@ -1,11 +1,10 @@
-:: create GitHub pages branch:
-:: git checkout -b gh-pages
-:: git checkout gh-pages
-:: git push origin gh-pages
+:: create GitHub pages branch
+::git checkout -b gh-pages
+::git checkout gh-pages
+::git push origin gh-pages
 
 :: install gitbook-cli
-:: drag'n'drop 'this.bat' to the command prompt
-:: npm install -g gitbook-cli
+::npm install -g gitbook-cli
 ::     if install fails because of the 'ansistyles'
 ::     try delete '%AppData%\npm' and '%AppData%\npm-cache'
 
