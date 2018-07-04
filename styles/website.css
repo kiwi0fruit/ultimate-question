@@ -31,7 +31,7 @@
 /* Fix Android scroll & PDF print bug: */ 
 /*.book-body {
    overflow-y: visible;
-}*/
+}
 .book {
     height: 2000%;
 }
@@ -42,6 +42,7 @@
 .color-theme-2 .body-inner, .color-theme-2 .navigation {
     background: #1c1f2b;
 }
+*/
 
 /* Serif and sans-serif fonts: */
 body .font-family-0, .book.font-family-0 {
