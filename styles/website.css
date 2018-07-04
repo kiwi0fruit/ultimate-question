@@ -28,15 +28,15 @@
     font-style: normal;
       }
 
-/* Fix scroll bug: */ 
-body * {
-   overflow-y: visible !important;
+/* Fix Android scroll & PDF print bug: */ 
+.book-body {
+   overflow-y: visible;
 }
-.color-theme-1 .body-inner {
+.color-theme-1 .body-inner, .color-theme-1 .navigation {
     background: #f3eacb;
 }
-.color-theme-2 .body-inner {
-    background: #1c1f2b
+.color-theme-2 .body-inner, .color-theme-2 .navigation {
+    background: #1c1f2b;
 }
 
 /* Serif and sans-serif fonts: */
