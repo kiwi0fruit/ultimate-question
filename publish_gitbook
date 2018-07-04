@@ -10,6 +10,7 @@
 #     if install fails because of the 'ansistyles'
 #     try delete '%AppData%\npm' and '%AppData%\npm-cache'
 
+# npm install https://github.com/kiwi0fruit/theme-default
 
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "${script_dir}"
