@@ -1,7 +1,8 @@
 {
     "plugins": [
         "mathjax",
-        "heading-anchors"
+        "heading-anchors",
+        "theme-default"
     ],
     "pluginsConfig": {
         "fontsettings": {
