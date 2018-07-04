@@ -39,7 +39,7 @@ cp -R _book/* .
 git add .
 
 # commit
-git commit -a -m "Update docs"
+git commit -a -m "Update GitHub Pages"
 
 # push to the origin
 git push origin gh-pages

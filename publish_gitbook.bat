@@ -28,7 +28,7 @@ pause
 git checkout gh-pages
 
 :: pull the latest updates
-git pull origin gh-pages --rebase
+git pull origin gh-pages
 
 :: copy the static site files into the current directory.
 robocopy _book . /s /e
@@ -41,7 +41,7 @@ robocopy _book . /s /e
 git add .
 
 :: commit
-git commit -a -m "Update docs"
+git commit -a -m "Update GitHub Pages"
 
 :: push to the origin
 git push origin gh-pages
