@@ -16,11 +16,13 @@ cd /d "%script_dir%"
 
 :: install the plugins and build the static site
 call gitbook install
+pause
 
 :: optionally run 'gitbook serve' to test the Gitbook offline
 :: then run 'index.html' or 'http://localhost:4000'
 
 call gitbook build
+pause
 
 :: checkout to the gh-pages branch
 git checkout gh-pages
