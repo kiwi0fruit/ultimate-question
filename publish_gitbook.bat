@@ -11,6 +11,8 @@
 set "script_dir=%~dp0"
 cd /d "%script_dir%"
 
+:: checkout to the master branch
+git checkout master
 :: pull the latest updates
 git pull
 
@@ -20,14 +22,12 @@ git pull
 call gitbook install
 call npm uninstall gitbook-plugin-theme-default
 call npm install https://github.com/kiwi0fruit/theme-default
-pause
 
 :: optionally run 'gitbook serve' to test the Gitbook offline
 :: then run 'index.html' or 'http://localhost:4000'
 
 :: build the static site
 call gitbook build
-pause
 
 :: add all files
 git add .
