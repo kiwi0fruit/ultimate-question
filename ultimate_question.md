@@ -15,7 +15,7 @@ Unfortunately, I have not succeeded in creating the model. And at this point I h
 
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
-_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question/) (better with Javascript on)_.
+_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question/ultimate_question.html) (better with Javascript on)_.
 
 **_Concise formulation of the question_**: [**short_question**](short_question.md)
 
@@ -384,11 +384,12 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
 * You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
-  or [in the Disqus powered blog](http://zagubisalo.tumblr.com/discussletter),
-* [Markdown source code](https://github.com/kiwi0fruit/ultimate-question),
+* Or send me Email:  
+  <img src="https://78.media.tumblr.com/e11f74e198e07709d1d22ef380cef1a2/tumblr_inline_mqqmymPPYj1qd1fz4.png" width="250">
+* [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
 
 
-[**Return to root**](https://kiwi0fruit.github.io/ultimate-question/)
+[**Return to root**](https://github.com/kiwi0fruit/ultimate-question)
 
 [toc]: #contents
 [ref]: #references
