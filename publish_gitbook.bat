@@ -4,6 +4,7 @@
 :: git push origin gh-pages
 
 :: install gitbook-cli
+:: drag'n'drop 'this.bat' to the command prompt
 :: npm install -g gitbook-cli
 ::     if install fails because of the 'ansistyles'
 ::     try delete '%AppData%\npm' and '%AppData%\npm-cache'
