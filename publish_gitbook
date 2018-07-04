@@ -10,18 +10,21 @@
 #     if install fails because of the 'ansistyles'
 #     try delete '%AppData%\npm' and '%AppData%\npm-cache'
 
-# npm install https://github.com/kiwi0fruit/theme-default
-
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "${script_dir}"
 
 # https://gist.githubusercontent.com/SangsooNam/aa73c3e1ff88d30433e4020f1275242a/raw/b5fdc4d1cc44be63dc272a42b55524a1cf32d595/publish_gitbook.sh
 
-# install the plugins and build the static site
-gitbook install && gitbook build
+# install the plugins
+gitbook install
+npm uninstall gitbook-plugin-theme-default
+npm install https://github.com/kiwi0fruit/theme-default
 
 # optionally run 'gitbook serve' to test the gitbook offline
 # then run 'index.html' or 'http://localhost:4000'
+
+# build the static site
+gitbook build
 
 # checkout to the gh-pages branch
 git checkout gh-pages
