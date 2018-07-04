@@ -8,24 +8,26 @@
 ::     if install fails because of the 'ansistyles'
 ::     try delete '%AppData%\npm' and '%AppData%\npm-cache'
 
-
 set "script_dir=%~dp0"
 cd /d "%script_dir%"
 
 :: https://gist.githubusercontent.com/SangsooNam/aa73c3e1ff88d30433e4020f1275242a/raw/b5fdc4d1cc44be63dc272a42b55524a1cf32d595/publish_gitbook.sh
 
-:: install the plugins and build the static site
+:: install the plugins
 call gitbook install
-pause
+call npm uninstall gitbook-plugin-theme-default
+call npm install https://github.com/kiwi0fruit/theme-default
 
 :: optionally run 'gitbook serve' to test the Gitbook offline
 :: then run 'index.html' or 'http://localhost:4000'
 
+:: build the static site
 call gitbook build
 pause
 
 :: checkout to the gh-pages branch
 git checkout gh-pages
+pause
 
 :: pull the latest updates
 git pull origin gh-pages
@@ -39,10 +41,8 @@ robocopy _book . /s /e
 
 :: add all files
 git add .
-
 :: commit
 git commit -a -m "Update GitHub Pages"
-
 :: push to the origin
 git push origin gh-pages
 
