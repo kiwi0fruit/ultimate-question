@@ -29,9 +29,13 @@
       }
 
 /* Fix Android scroll & PDF print bug: */ 
-.book-body {
+/*.book-body {
    overflow-y: visible;
+}*/
+.book {
+    height: 200%;
 }
+
 .color-theme-1 .body-inner, .color-theme-1 .navigation {
     background: #f3eacb;
 }
