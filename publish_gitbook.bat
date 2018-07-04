@@ -7,15 +7,18 @@ set "script_dir=%~dp0"
 cd /d "%script_dir%"
 
 :: install Gitbook
-npm install -g gitbook-cli
-
-:: optionally run 'gitbook serve' to test the Gitbook offline
-:: then run 'index.html' or 'http://localhost:4000'
+call npm install -g gitbook-cli
+::     if install fails because of the 'ansistyles'
+::     try delete '%AppData%\npm' and '%AppData%\npm-cache'
 
 :: https://gist.githubusercontent.com/SangsooNam/aa73c3e1ff88d30433e4020f1275242a/raw/b5fdc4d1cc44be63dc272a42b55524a1cf32d595/publish_gitbook.sh
 
 :: install the plugins and build the static site
 call gitbook install
+
+:: optionally run 'gitbook serve' to test the Gitbook offline
+:: then run 'index.html' or 'http://localhost:4000'
+
 call gitbook build
 
 :: checkout to the gh-pages branch
