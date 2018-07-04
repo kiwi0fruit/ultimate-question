@@ -32,6 +32,8 @@ I'm absolutely serious in spite of the fact that the title was borrowed from the
 
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
 * You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
+* Or send me Email:  
+  <img src="https://78.media.tumblr.com/e11f74e198e07709d1d22ef380cef1a2/tumblr_inline_mqqmymPPYj1qd1fz4.png" width="250">
 * [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
 
 [**Return to root**](https://github.com/kiwi0fruit/ultimate-question)
