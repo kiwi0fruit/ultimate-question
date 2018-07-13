@@ -178,7 +178,7 @@ There are some other properties of the mathematical model to create that can be 
 
 * For simplicity the rules of “structure” changing might be encapsulated to the structure itself (may be atomic parts of the structure can “memorize” rules. How can this be? [mind-stuff](https://en.wikipedia.org/wiki/William_Kingdon_Clifford)?, neural networks?). But I guess some meta-rules are inevitable but at least they desired to be derived from the simplest beginning of the Universe assumption and postulates of natural selection. But on the other hand the complete immanence of both rules/laws and meta-laws/meta-rules (when they always have a material carrier) are very attractive concept as it's a simpler one hence it's better from Occam Razor point of view. But I have a guess that immanence of meta-laws leads to the [strange loop](https://en.wikipedia.org/wiki/Strange_loop). But what if the strange loop is a valid building block of the Universe?
 
-* The atomic parts of the graph might be something that is convenient to call “actors”.
+* The atomic parts of the graph might be something that is convenient to call “actors” that have an “intention” to randomly choose from available actions that change themselves and other actors. So each actor is described by the algorithm that changes it's connected neighborhood and hence changes algorithms (including the algorithm of itself). This swarm of algorithms should be capable of producing more and more complex algorithms via natural selection.
 
 
 ### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
@@ -353,6 +353,8 @@ Seems like the weighted edges are required… There are more randomly selected o
 
 
 ## 6. P.S. [≡][toc]{#ps}
+
+I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
 
 I would be grateful for any feedback and advice.
 
