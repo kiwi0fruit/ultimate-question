@@ -30,7 +30,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Other properties of the model: separability, meaning of life, strange loop, agents with free will](#s2_5)
+    - 2.5 [Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms](#s2_5)
     - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
@@ -168,7 +168,7 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will [≡][toc]{#s2_5}
+### 2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms [≡][toc]{#s2_5}
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
