@@ -30,7 +30,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Other properties of the model: separability, meaning of life, strange loop](#s2_5)
+    - 2.5 [Other properties of the model: separability, meaning of life, strange loop, agents with free will](#s2_5)
     - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
@@ -63,7 +63,7 @@ The idea is attractive because it assumes that the beginning of the Universe was
 * (**p4**) Heredity: properties of the individuals are inherited in reproduction.
 * (**p5**) Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (under a given set of postulates).
 
-As noted by Karl Popper the theory of evolution is a theory of gradual (!) changes that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapient. And they differ much in complexity.
+As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapient. And they differ much in complexity.
 
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
@@ -119,7 +119,7 @@ The mathematical model is constructed in the framework of research task describe
 
    There is a short list of the postulates of natural selection (there is a more detailed list of the postulates in section **1**):
 
-* (**p1**) Individuals and the environment (individuals ARE the environment?)
+* (**p1**) Individuals and the environment (individuals **are** the only environment?)
 * (**p2**) Selection
 * (**p3**) Reproduction (doubling?)
 * (**p4**) Heredity (conservation/invariability?)
@@ -127,7 +127,7 @@ The mathematical model is constructed in the framework of research task describe
 
    The process of natural selection can be viewed as the process of transferring information from the individual to it’s offspring. It is the information about possible interactions of the individual with the environment (and about reactions of the individual to these interactions). Among others this point of view is being promoted by Chris Adami [[3][ref]]. Something like BVSR (“blind variation with selective retention” introduced by Donald T. Campbell [[4][ref]]) can be mentioned as an example. If a specific structure of the individual promotes that the number of it’s offspring is larger than the number of competing individuals offspring then that specific structure will spread. Individuals that are less “fit” will die, and more “fit” individuals will multiply. So the information about the environment “imprints” into the structure of individuals.
 
-* Most likely, in the mathematical model to be created the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means).
+* Most likely, in the mathematical model to be created the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means). Presumably the [**Red Queen hypothesis**](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) is the main evolution driving factor.
 
 * For natural selection to work, individual and its descendants must meet very similar events and interactions. Otherwise the information will not be imprinted in the structure of the individual (actually any imprinted information will not be useful).
 
@@ -168,7 +168,7 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Other properties of the model: separability, meaning of life, strange loop [≡][toc]{#s2_5}
+### 2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will [≡][toc]{#s2_5}
 
 There are some other properties of the mathematical model to create that can be assumed. These points are even more intuitive and far-fetched than the previous.
 
