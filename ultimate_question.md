@@ -189,12 +189,16 @@ There are some other properties of the mathematical model to create that can be 
     * Complex algorithms require isolation of the _“internal”_ from _“external”_ – leads to appearing of “borders” and “shells”,
     * What does _“spatial link”_ mean? I always meant by this the possibility of agent's action-impact. But the _“link”_ can also mean entanglement – restrictions on possible simultaneous states of linked objects. As John Preskill defines it [[10][ref]]: “we can split a system into parts, and there is some correlation among the parts so I can learn something about one part by observing another part”. How does these two definitions relate to each other? The simplest way to combine them might be to embrace the _“Spooky Action at a Distance”_ (gravity via entanglement theories?) and define entanglement via action-impact links,
     * All my reflections and thinking on computability and recursive functions did not give anything. What if at least partially it's because of the [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) that is a hypothesis about equivalence between the intuitive notion of algorithmic computability and strictly formalized notions of a partially recursive function and a function computable on a Turing machine. So until I get an intuitive grasp about it's main workings it's useless to dig into formalizations.
+    * Atomic _“agent”_ (whatever it is) can be called _“atomos automaton”_ (from Greek ἄτομος αὐτόματος átomos autómatos – indivisible and self-willed),
 
 * **Spontaneous symmetry breaking** might be an important idea regarding random variation in the natural selection. _“Spontaneous”_ might refer to the immanence of _intention_ to the agents. And _“symmetry breaking”_ is necessary for random events to occur: if the symmetry doesn't break then all outcomes/impacts are equivalent and there's no randomness (“All roads lead to Rome”).
 
-#### To sum up:
+* At the moment the picture in which we represent the Universe in the form of **unstable energy flows** (plus **“batteries”**) is completely ignored in my speculations. But I can't help but think that it's a very convenient point of view and language if we are to think about life and natural selection dynamics. This reminds me about [Unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover) but it's really a far fetched association.
 
-The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**spontaneous symmetry breaking** and **natural selection** seem to be among the keys to understanding novelty creation and the Universe development from the simplest state at the beginning of time.
+
+#### To sum up:
+The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**spontaneous symmetry breaking** and **natural selection** seem to be among the keys to understanding novelty creation and the Universe development from the simplest state at the beginning of time. And what about **energy flows**?
+
 
 
 ### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
