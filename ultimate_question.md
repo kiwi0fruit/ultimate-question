@@ -194,7 +194,7 @@ There are some other properties of the mathematical model to create that can be 
 
 #### To sum up:
 
-The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**spontaneous symmetry breaking** and **natural selection** seem to be among the keys to understanding novelty creation and Universe development from the simplest state at the beginning of time.
+The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**spontaneous symmetry breaking** and **natural selection** seem to be among the keys to understanding novelty creation and the Universe development from the simplest state at the beginning of time.
 
 
 ### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
