@@ -212,10 +212,15 @@ The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**sp
 
 * Seems like postulates of natural selection is not enough for creation the desired mathematical model. Do we need one more simple postulate? Or do we need something completely new? Or may be we simply need another point of view?
 
+#### Chaotic thoughts
 
-#### [Chaotic thoughts](chaotic_thoughts.md)
+There is also a list of thoughts, notes and questions that at some point seemed relevant to me but are such a mess actually:
 
-There is also a [**list**](chaotic_thoughts.md) of thoughts, notes and questions that at some point seemed relevant to me but are such a mess actually...
+* [Here](http://www.math.columbia.edu/~woit/wordpress/?p=10314) Sabine Hossenfelder writes that beauty is not that importaint. But we actually should not expect it everywhere if we are to assume natural selection.
+* The picture of a graph in which the vertices send each other quants of action-energy looks like a neural network. Neural networks can work well in a stream. That is, the continuous flow for them is OK. Close related tensor networks are used in fundamental physics, theories of consciousness and AI development (deep learning).
+* Do we really need the notion of information? Information - is the reflection of the the structure of the environment in the structure of the agent. And the process of transmitting the information – is the process of updating the structure of the agent to better fit the environment.
+* For better understanding may be useful to clarify the analogy between the interpretations of quantum mechanics (Many-worlds vs. Copenhagen) and the descriptions of series of random events (like coin tosses): when we describe all future possible outcomes as a single expression (are they all real?) **vs.** when we remember that only one “branch” would be real.
+* The drawback of the schemes proposed in the [section 4.2](#s4_2): any stages of copying must be ontologically real and meaningful. And if the algorithm for forming the structure at a new time step based on the old time step one has stages, then these stages must be split into real time steps.
 
 
 ## 3. On artificial life, open ended evolution and “why these laws of nature?” question [≡][toc]{#s3}
