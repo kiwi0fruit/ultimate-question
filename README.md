@@ -7,10 +7,10 @@ Greetings.
 
    I have spent more than two years creating a specific mathematical model. It’s origin is at the intersection of the following areas:
 
-* fundamental physics
-* the theory of evolution
-* metaphysics
-* foundations of mathematics.
+* fundamental physics (a bit),
+* the theory of evolution (a lot),
+* metaphysics (a lot),
+* foundations of mathematics  (a bit).
 
 Unfortunately, I have not succeeded in creating the model. And at this point I have become exhausted. I ask your advice or any other help available regarding creating that model.
 
