@@ -425,6 +425,7 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 ## 8. Links and discuss [≡][toc]{#links-and-discuss}
 
+* If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request, 
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
 * You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
 * Or send me Email:  
