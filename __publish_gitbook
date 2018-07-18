@@ -17,8 +17,8 @@ cd "${script_dir}"
 
 # install the plugins
 gitbook install
-npm uninstall gitbook-plugin-theme-default
-npm install https://github.com/kiwi0fruit/theme-default
+#npm uninstall gitbook-plugin-theme-default
+#npm install https://github.com/kiwi0fruit/theme-default
 
 # optionally run 'gitbook serve' to test the gitbook offline
 # then run 'index.html' or 'http://localhost:4000'
