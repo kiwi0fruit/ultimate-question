@@ -39,9 +39,10 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
         - 4.2.1 [The first example](#s4_2_1)
         - 4.2.2 [The second example](#s4_2_2)
 5. [Why this task? On “Why is there something rather than nothing?” question](#s5)
-6. [P.S.][ps]
-7. [References][ref]
-8. [Links and discuss][links]
+6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theries vs. "how?" answering theries](#s6)
+7. [P.S.][ps]
+8. [References][ref]
+9. [Links and discuss][links]
 
 
 ## 1. The physical and philosophical background of this problem [≡][toc]{#s1}
@@ -391,7 +392,16 @@ Seems like the weighted edges are required… There are more randomly selected o
 **UPD**. Examples of models from [section 4](#s4) have highlighted the need for a more consistent justification of the original rules for modifying the graph.
 
 
-## 6. P.S. [≡][toc]{#ps}
+## 6. Infinite elephants, indeterminism vs. determinism, "why?" answering theries vs. "how?" answering theries [≡][toc]{#s6}
+
+The desired model assumes [indeterminism](https://en.wikipedia.org/wiki/Indeterminism). And I actually have some consideration why [determinism](https://en.wikipedia.org/wiki/Determinism) is wrong. For this we need to remember some ancient Greeks and the law of gravitation. Some of them formulated the law as _“everything falls down”_. And immediately were faced with the question _“Why does not the ground then fall down?”_. And they gave the answer _“It is standing on the elephant”_. On a reasonable next question _“Why does not the elephant fall down?”_ they gave the answer _“The elephant is standing on another elephant”_. On reasonable _“WTF???”_ they gave an answer _“There are infinite number of elephants”_. And then they came to a bizzare picture with an infinite number of elephants. Then some cleverer ancient Greek reformulated the law as _“everything falls to the ground”_ - and removed the infinite chain of elephants. As we found out, he was right.
+
+If we are to explain history and answer _“why?”_ questions we either should embrace [countably infinite](https://en.wikipedia.org/wiki/Countable_set) causal chains that go to the past or to have finite causal chains that go to the past but with randomness that creates novelty. The latter is better from Ockham’s razor point of view.  I'm already under assumption that [countably infinite](https://en.wikipedia.org/wiki/Countable_set) is better than [uncountably infinite](https://en.wikipedia.org/wiki/Uncountable_set) from Ockham’s razor point of view.
+
+As said in [Section 3](#s3) the desired model is a perfect candidate for theory that answers any _“why?”_ questions. But that's not the case for your typical physics theory: it assumes lots of complex mathematical objects to be present without explanation how they emerged. So it's like postulating an elephant in example above - except that the theories were tested against reality and they precisely describe **how** processes work. If we would create yet another theory that postulates some complex mathematical objects we still would need an answer  to _“why these objects?”_ question. So the right way of answering _“why?”_ questions should be aware of the described problem right from the start - something like self-justifying comes to mind (whatever that means). This inevitably raises meta-laws question that mentioned in [Section 2.5](#s2_5) so even the  desired model still doesn't have a complete answer to this problem (actually this acticle has much more questions than answers...).
+
+
+## 7. P.S. [≡][toc]{#ps}
 
 I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
 
@@ -400,7 +410,7 @@ I would be grateful for any feedback and advice.
 Peter Zagubisalo, January 2016, minor update July 2018  
 
 
-## 7. References [≡][toc]{#references}
+## 8. References [≡][toc]{#references}
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -423,7 +433,7 @@ Peter Zagubisalo, January 2016, minor update July 2018
 [10] Jennifer Ouellette, How Quantum Pairs Stitch Space-Time [quantamagazine.org/tensor-networks-and-entanglement-20150428](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428)
 
 
-## 8. Links and discuss [≡][toc]{#links-and-discuss}
+## 9. Links and discuss [≡][toc]{#links-and-discuss}
 
 * If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request, 
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
