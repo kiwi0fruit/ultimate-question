@@ -39,7 +39,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
         - 4.2.1 [The first example](#s4_2_1)
         - 4.2.2 [The second example](#s4_2_2)
 5. [Why this task? On “Why is there something rather than nothing?” question](#s5)
-6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theries vs. "how?" answering theries](#s6)
+6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
 7. [P.S.][ps]
 8. [References][ref]
 9. [Links and discuss][links]
@@ -392,7 +392,7 @@ Seems like the weighted edges are required… There are more randomly selected o
 **UPD**. Examples of models from [section 4](#s4) have highlighted the need for a more consistent justification of the original rules for modifying the graph.
 
 
-## 6. Infinite elephants, indeterminism vs. determinism, "why?" answering theries vs. "how?" answering theries [≡][toc]{#s6}
+## 6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories [≡][toc]{#s6}
 
 The desired model assumes [indeterminism](https://en.wikipedia.org/wiki/Indeterminism). And I actually have some consideration why [determinism](https://en.wikipedia.org/wiki/Determinism) is wrong. For this we need to remember some ancient Greeks and the law of gravitation. Some of them formulated the law as _“everything falls down”_. And immediately were faced with the question _“Why does not the ground then fall down?”_. And they gave the answer _“It is standing on the elephant”_. On a reasonable next question _“Why does not the elephant fall down?”_ they gave the answer _“The elephant is standing on another elephant”_. On reasonable _“WTF???”_ they gave an answer _“There are infinite number of elephants”_. And then they came to a bizzare picture with an infinite number of elephants. Then some cleverer ancient Greek reformulated the law as _“everything falls to the ground”_ - and removed the infinite chain of elephants. As we found out, he was right.
 
