@@ -13,43 +13,107 @@ Greetings.
 
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
-The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure.
-
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question/ultimate_question.html) (better with Javascript on)_.
-
-**_Concise formulation of the question_**: [**short_question**](short_question.md)
 
 
 ## Contents:
 
-1. [The physical and philosophical background of this problem](#s1)
+* 0. [Short formulation of the problem](#s0)
+    - 0.1 [The two hardest problems I struggled and haven't solved](#s0_1)
+* 1. [The physical and philosophical background of this problem](#s1)
     - 1.1 [Reminding the foundations of the theory of evolution](#s1_1)
     - 1.2 [The description of the research program](#s1_2)  
-2. [The main features and problems of/in the mathematical model to create](#s2)
+* 2. [The main features and problems of/in the mathematical model to create](#s2)
     - 2.1 [First overview of the mathematical model to create](#s2_1)
     - 2.2 [The model as the process of natural selection](#s2_2)
     - 2.3 [The model as the structure that changes in time](#s2_3)
     - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
     - 2.5 [Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms](#s2_5)
     - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
-3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
-4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
+* 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
+* 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
     - 4.1 [Possible restrictions and constraints of the model](#s4_1)
     - 4.2 [Examples of the models that resemble the desired model](#s4_2)  
         - 4.2.1 [The first example](#s4_2_1)
         - 4.2.2 [The second example](#s4_2_2)
-5. [Why this task? On “Why is there something rather than nothing?” question](#s5)
-6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
-7. [P.S.][ps]
-8. [References][ref]
-9. [Links and discuss][links]
+* 5. [Why this task? On “Why is there something rather than nothing?” question](#s5)
+* 6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
+* 7. [P.S.][ps]
+* 8. [References][ref]
+* 9. [Links and discuss][links]
+
+
+## 0. Short formulation of the problem [≡][toc]{#s0}
+
+The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure.
+
+The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them.
+
+
+#### A. The model as the process of natural selection
+
+The postulates of natural selection:
+
+* (**p1**) Individuals and the environment (individuals are the environment?)
+* (**p2**) Natural selection
+* (**p3**) Reproduction (doubling?)
+* (**p4**) Heredity (conservation/invariability?)
+* (**p5**) Variation (spontaneous/random?)
+
+During natural selection the information about the environment “imprints” into the structure of individuals.
+
+Presumably the environment will be other individuals, and there would be nothing but individuals. It may even be very primitive “atomic” individuals (whatever that means).
+
+For natural selection to work, individual and its descendants must meet very similar events and interactions. “Reproduction” (p3) provides an environment of identical individuals. But apart from similar events they meet new and unique ones, which are provided by “variation” (p5).
+
+#### B. The model as the structure that changes in time
+
+It can be assumed that individuals are stable patterns like waves existing in the discrete structure. Their origin may even be the topological curvature (knots? braids?). The patterns should be resistant to perturbations. Presumably perturbations arise from reproduction and variation postulates of natural selection.
+
+The process starts from a very simple state of the structure. It may be something like “nothing”, the empty set, “unity” or “one”. But the state of minimum complexity from which the process begins is still under consideration.
+
+The rules or meta-rules of changing this simple state must be initially defined.
+
+Presumably, the rules at the same time give rise to the structure that consist of interconnected atomic parts, and produce the natural selection of patterns in the structure.
+
+The structure is discrete and finite. Steps of time that correspond to changes in the structure, are also discrete.
+
+#### C. So the two views on the model to create:
+
+1. The model as the process of natural selection
+2. The model as the structure that changes in time.
+
+**The subproblem I’m trying to solve at the moment is the following:**
+
+1) How is it that the pattern in the structure is the same as the individual in the natural selection? So it’s necessary to combine two views on the process and create a complete and holistic picture. And the pattern and the individual are the same in that picture.
+
+2) What are the “atoms” in this structure? What’s the basis of this picture? May be the atomic parts in the structure similar to a graph are the atomic individuals. And these atomic individuals easily increase their number. Then how do non-atomic individuals appear?
+
+So my question is a request for intuitions on how to create that complete picture that satisfies the constraints.
+
+
+### 0.1 The two hardest problems I struggled and haven't solved [≡][toc]{#s0_1}
+
+The two hardest problems I struggled and haven't solved are about 1) how to define fixed laws that govern structure change (meta-laws?) and 2) what means **the simplest model**. And even more: that two problems seem to be two sides of the same single problem.
+
+From simple point of view we should not really expect to get **all** laws of nature from our particular real universe if we are to discover laws via natural selection modelling. The laws of nature should be populations of individuals that share quite similar features (like “genes”). That populations slowly change in time but we are to expect them to change **gradually** and **slowly** so if we are to examine/investigate simulation of the desired mathematical model we can distinguish periods when population features are more or less stable. That populations also do not stop their evolution on some fixed level of complexity ([see open-ended evolution](https://kiwi0fruit.github.io/ultimate-question/ultimate_question.html#s3)) - they should be capable of producing complex “intelligent” agents after some presumably **great** time (to actually get intelligent agents in simulation is impossible with our limited resources/abilities).
+
+But from the second point of view we should define laws of nature in a common way: the laws (meta-laws?) that govent natural selection and provide postulates of natural selection to the model. And this is where we get metaphysics involved with Occam's razor and the question of “What is the simplest?”. The guiding constraint of my research program is that the desired model should be the simplest to the point of being self-justifying. That's important because I only have metaphysics philosophy considerations for this. And philosophy considerations should be **obvious** (or close to it) to be useful. For example from philosophy point of view we can argue that the Universe should've had the simplest first state at the first moment of time (1: [the World wasn't created this morning with me unshaven](#s5), 2: we do not [hide behind infinite causal chain](#s6) that goes back to the past like ancient Greek hide gravitation pull to the Earth behind infinite elephants that the great turtle rest on). Or that discrete countable infinite time and discrete finite space is [preferable](#s6) over uncountably infinite time and infinite space. And Occam's razor presumption is quite good for justifying it. That's good but drastically not enough to build a math model.
+
+So we need to define these **meta-laws that simple to the point of being self-justifying**... It's still possible to go with for no reason particular laws that are not self-justifying but with this we lose the only way of pure philosophy justifying. And we also already do not have empirical justifying because if we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. So our real universe would definitely be out of our modelling abilities even if we have the desired model formulated. So we have no choise but to define these **meta-laws that simple to the point of being self-justifying**.
+
+I have an intuitive feeling that some intuitive concepts like **causation**, **recursion**, **reproduction/doubling**, **randomness/spontaneous symmetry breaking**, **natural selection** can be obvious and self-justifying to be at that simple first state but at the moment my thoughts about them is more like a mess than something useful. The part that saddens me most is the desire to get rid of meta-laws completely and to “incapsulate” them into the graph-like structure (whatever that means), to make them “[immanent](#s2_5)”...
+
+But at the same time the self-justification mentioned is based on my own sense of what should be done (aesthetics of a brain - trained neural network). And it might be not enough to properly define and justify the initial hardcoded meta-laws that provide medium for natural selection to work on. I believe some of that aesthetics are good to go and should not be revised as they are **enough** self-justified: like discrete time and space, the first "simplest" state at the first moment of time, incorporation of natural selection postulates in some way. But what means “simplest” and details how to include natural selection are not-yet-defined so it's the target of research.
+
+Rest of my aesthetics try to guide me how to add that. But problems arise... Actually there might be **another way: to solve “[open-ended evolution](#s3)” problem** (OEE) by chance or blind variation (or any other way). Then try to strip as much from the model as possible and see if it's can be viewed as self-justifying from philosophical point of view. But it's a risky way as it may be that we would not be able to strip enough to justify. But considering the complexity of the OEE problem itself stripping still can be possible as OEE problem is not solved and still lack some important “puzzle piece”. But it may also be that my aesthetics of minimality of the model can actually help to build a model of OEE.
+
+This whole task mostly is in the metaphysics and mathematics intersection. The one to accomplish it should be serious about both 1) precise math definitions and processes descriptiopns and 2) metaphysics problems and reasoning. If one to ignore, belittle or downplay either of two components then he is unlikely to succeed in this particular direction.
 
 
 ## 1. The physical and philosophical background of this problem [≡][toc]{#s1}
 
    **The general idea** of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time. It also might be that there exist convincing arguments in favor the impossibility of creating that mathematical model.
-
-The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them.
 
 
 ### 1.1 Reminding the foundations of the theory of evolution [≡][toc]{#s1_1}
