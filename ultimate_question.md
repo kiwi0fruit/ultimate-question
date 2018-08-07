@@ -18,29 +18,29 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
 ## Contents:
 
-* 0. [Short formulation of the problem](#s0)
-    - 0.1 [The two hardest problems I struggled and haven't solved](#s0_1)
-* 1. [The physical and philosophical background of this problem](#s1)
-    - 1.1 [Reminding the foundations of the theory of evolution](#s1_1)
-    - 1.2 [The description of the research program](#s1_2)  
-* 2. [The main features and problems of/in the mathematical model to create](#s2)
-    - 2.1 [First overview of the mathematical model to create](#s2_1)
-    - 2.2 [The model as the process of natural selection](#s2_2)
-    - 2.3 [The model as the structure that changes in time](#s2_3)
-    - 2.4 [The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - 2.5 [Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms](#s2_5)
-    - 2.6 [Some questions and Chaotic thoughts](#s2_6)  
-* 3. [On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
-* 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
-    - 4.1 [Possible restrictions and constraints of the model](#s4_1)
-    - 4.2 [Examples of the models that resemble the desired model](#s4_2)  
-        - 4.2.1 [The first example](#s4_2_1)
-        - 4.2.2 [The second example](#s4_2_2)
-* 5. [Why this task? On “Why is there something rather than nothing?” question](#s5)
-* 6. [Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
-* 7. [P.S.][ps]
-* 8. [References][ref]
-* 9. [Links and discuss][links]
+* [0. Short formulation of the problem](#s0)
+    - [0.1 The two hardest problems I struggled and haven't solved](#s0_1)
+* [1. The physical and philosophical background of this problem](#s1)
+    - [1.1 Reminding the foundations of the theory of evolution](#s1_1)
+    - [1.2 The description of the research program](#s1_2)  
+* [2. The main features and problems of/in the mathematical model to create](#s2)
+    - [2.1 First overview of the mathematical model to create](#s2_1)
+    - [2.2 The model as the process of natural selection](#s2_2)
+    - [2.3 The model as the structure that changes in time](#s2_3)
+    - [2.4 The pattern in the structure is the same as the individual in the natural selection](#s2_4)
+    - [2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms](#s2_5)
+    - [2.6 Some questions and Chaotic thoughts](#s2_6)  
+* [3. On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
+* [4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
+    - [4.1 Possible restrictions and constraints of the model](#s4_1)
+    - [4.2 Examples of the models that resemble the desired model](#s4_2)  
+        - [4.2.1 The first example](#s4_2_1)
+        - [4.2.2 The second example](#s4_2_2)
+* [5. Why this task? On “Why is there something rather than nothing?” question](#s5)
+* [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
+* [7. P.S.][ps]
+* [8. References][ref]
+* [9. Links and discuss][links]
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
