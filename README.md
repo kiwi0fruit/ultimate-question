@@ -19,6 +19,8 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them. This research program is a special case of the _Artificial life_ / _Open-ended evolution_ problem (OEE) that has extra constraints that come from metaphysics (I also hope they may help to solve OEE problem).
 
+**(Update)**
+
    This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
 
    And there are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beggining of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of cource) comes from natural selection. And natural selection postulates hold in the universe formulation.
