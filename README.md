@@ -1,19 +1,37 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
-## (On the task to create the simplest model in which the evolution of the laws of nature arises from the natural selection of structures)
+## (On the simplest model in which the evolution of the laws of nature arises from the natural selection of structures, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor)
 
-Greetings.
+Greetings,
 
    I seek advice or any other help available regarding creating a specific mathematical model. It’s origin is at the intersection of the following areas:
 
 * fundamental physics (a bit),
 * the theory of evolution (a lot),
 * metaphysics (a lot),
-* foundations of mathematics (should be a lot).
+* foundations of mathematics and computability (should be a lot).
+
+_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
-_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
+   The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure (it should be capable of producing even complex “intelligent” agents after some presumably great time). And this discrete structure is a medium on which the natural selection works on (there can be selected individuals and environment, natural selection postulates hold).
+
+   The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them. This research program is a special case of the _Artificial life_ / _Open-ended evolution_ problem (OEE) that has extra constraints that come from metaphysics (I also hope they may help to solve OEE problem).
+
+   This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
+
+   And there are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beggining of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of cource) comes from natural selection. And natural selection postulates hold in the universe formulation.
+
+   Both these intuitions give hope that the model to build would be simple and obvious in retrospect like postulates of natural selection are simple and obvious in **retrospect**. So there is a hope that it's feasible task.
+
+   The "only" thing is left is to precisely define what are individuals and environment in the model (environment should be other individuals presumably - again from simplicity considerations) and how the process of their replication and death takes place. At the moment I'm not even sure if the individuals should be bult-in or to be emergent... (but I lean to the first option).
+
+   And sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way".
+
+**(On computability)**
+
+   The only connection to computability is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
 
 
 ## Contents:
@@ -44,11 +62,6 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
-
-The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure.
-
-The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them.
-
 
 #### A. The model as the process of natural selection
 
