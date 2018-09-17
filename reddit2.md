@@ -29,7 +29,7 @@ As was described in the [previous post](https://www.reddit.com/r/compsci/comment
 Use idea of the artificial life model with natural selection as a basis for the self-justifying theory of everything. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture.
 
 * Time is discrete and countable infinite, there was the first moment of existence of the Universe, space is discrete and finite (OR). We can start thinking about it with a graph-like structure.
-* The are individuals and environment (NS). The individuals are the environment for other individuals (OR). At the beginning of the Universe there were only one or two individuals (OR).
+* The are individuals and environment (NS). The individuals are the environment for other individuals - there is nothing except individuals (OR). At the beginning of the Universe there were only one or two individuals (OR).
 * Reproduction: individual has a potential to reproduce itself (NS). Individuals can double (OR).
 * Heredity: properties of the individuals are inherited in reproduction (NS).
 * Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (NS).
