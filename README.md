@@ -537,7 +537,7 @@ Ideas about possible solutions:
 * Somehow add inanimate matter into the model. But what would it be? And why this particular way?
 * Use an analogy with stem cells, ordinary cells and already dead skin cells: that there can be a fundamental transition to a state in which it is impossible to reproduce.
 * Particles can be as though encoded as resistant to interference, self-correcting code, etc.
-* Do not forget that if then we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This may expand possible ways of explaining the inanimate matter.
+* If we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This may expand possible ways of explaining the inanimate matter.
 
 
 ## 8. P.S. [≡][toc]{#ps}
