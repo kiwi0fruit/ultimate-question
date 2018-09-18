@@ -26,7 +26,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
 
-   And there are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beggining of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of cource) comes from natural selection. And natural selection postulates hold in the universe formulation.
+   And there are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beginning of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of cource) comes from natural selection. And natural selection postulates hold in the universe formulation.
 
    Both these intuitions give hope that the model to build would be simple and obvious in retrospect like postulates of natural selection are simple and obvious in **retrospect**. So there is a hope that it's feasible task.
 
