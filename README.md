@@ -9,7 +9,7 @@ Greetings,
 * fundamental physics (a bit),
 * the theory of evolution (a lot),
 * metaphysics (a lot),
-* foundations of mathematics and computability (should be a lot).
+* foundations of mathematics and theory of computation (should be a lot).
 
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
