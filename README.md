@@ -40,7 +40,8 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
 **(Update 2)**
 
-[**Artificial life model as a self-justifying theory of everything (Help needed to solve the question: What is the inanimate matter?)**](#s7)
+[7. Artificial life model as a self-justifying theory of everything (Help needed)](https://kiwi0fruit.github.io/ultimate-question/#s7)  
+[7.3 **Help needed to solve the question**: What is the inanimate matter?](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
 
 
 ## Contents:
