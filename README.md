@@ -13,15 +13,16 @@ Greetings,
 
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
+**// SEE UPDATE 1**
+**// SEE UPDATE 2**
+
    The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
 
    The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure (it should be capable of producing even complex “intelligent” agents after some presumably great time). And this discrete structure is a medium on which the natural selection works on (there can be selected individuals and environment, natural selection postulates hold).
 
    The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them. This research program is a special case of the _Artificial life_ / _Open-ended evolution_ problem (OEE) that has extra constraints that come from metaphysics (I also hope they may help to solve OEE problem).
 
-**(Update)** New reddit post: [**Artificial life model as a self-justifying theory of everything (Help needed to solve the question: What is the inanimate matter?)**](reddit2.md)
-
-**(Update)**
+**(Update 1)**
 
    This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
 
@@ -37,11 +38,15 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    The only connection to computability is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
 
+**(Update 2)**
+
+[**Artificial life model as a self-justifying theory of everything (Help needed to solve the question: What is the inanimate matter?)**](#s7)
+
 
 ## Contents:
 
 * [0. Short formulation of the problem](#s0)
-    - [0.1 The two hardest problems I struggled and haven't solved](#s0_1)
+    - [0.1 The first two hardest problems I struggled and haven't solved](#s0_1)
 * [1. The physical and philosophical background of this problem](#s1)
     - [1.1 Reminding the foundations of the theory of evolution](#s1_1)
     - [1.2 The description of the research program](#s1_2)  
@@ -60,9 +65,13 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
         - [4.2.2 The second example](#s4_2_2)
 * [5. Why this task? On “Why is there something rather than nothing?” question](#s5)
 * [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
-* [7. P.S.][ps]
-* [8. References][ref]
-* [9. Links and discuss][links]
+* [7. Artificial life model as a self-justifying theory of everything (Help needed)](#s7)
+    - [7.1 Self-justifying theory of everything](#s7_1)
+    - [7.2 Artificial life model as a self-justifying theory of everything](#s7_2)
+    - [7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter?](#s7_3)
+* [8. P.S.][ps]
+* [9. References][ref]
+* [10. Links and discuss][links]
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
@@ -109,7 +118,7 @@ The structure is discrete and finite. Steps of time that correspond to changes i
 So my question is a request for intuitions on how to create that complete picture that satisfies the constraints.
 
 
-### 0.1 The two hardest problems I struggled and haven't solved [≡][toc]{#s0_1}
+### 0.1 The first two hardest problems I struggled and haven't solved [≡][toc]{#s0_1}
 
 The two hardest problems I struggled and haven't solved are about 1) how to define fixed laws that govern structure change (meta-laws?) and 2) what means **the simplest model**. And even more: that two problems seem to be two sides of the same single problem.
 
@@ -482,7 +491,55 @@ If we are to explain history and answer _“why?”_ questions we either should 
 As said in [Section 3](#s3) the desired model is a perfect candidate for theory that answers any _“why?”_ questions. But that's not the case for your typical physics theory: it assumes lots of complex mathematical objects to be present without explanation how they emerged. So it's like postulating an elephant in example above - except that the theories were tested against reality and they precisely describe **how** processes work. If we would create yet another theory that postulates some complex mathematical objects we still would need an answer  to _“why these objects?”_ question. So the right way of answering _“why?”_ questions should be aware of the described problem right from the start - something like self-justifying comes to mind (whatever that means). This inevitably raises meta-laws question that mentioned in [Section 2.5](#s2_5) so even the  desired model still doesn't have a complete answer to this problem (actually this acticle has much more questions than answers...).
 
 
-## 7. P.S. [≡][toc]{#ps}
+## 7. Artificial life model as a self-justifying theory of everything (Help needed to solve the latest question I got stuck: What is the inanimate matter?) [≡][toc]{#s7}
+
+First I'll add some details about notion of **self-justifying** that show _more_ about the motivation behind the research. Then I describe the the latest question I got stuck (question about the model to build).
+
+
+### 7.1 Self-justifying theory of everything [≡][toc]{#s7_1}
+
+Potential theories of everything can be **self-justifying** or not. It means that the theory is:
+
+1. **theory of everything**: capable of answering all questions like "why these structures exist / processes take place instead of the other ones?". I.e. given all knowledge about the past they can (at least theoretically) track chains of causes back to the past to the moments where they came to existence.
+2. **self-justifying**: capable of answering question "why the theory of everything works this way not another?". And answer "because it's predictions are in agreement with experiments" is not enough because there can be infinite number of such theories that differ in things we cannot test (yet? never? who knows...). So we can either wait for General relativity + Quantum mechanics unification (and see if there would be the same problem :) or we can try to answer this question via self-justifying. It relies on philosophical necessity, Occam's razor, Captain Obvious considerations and common sense.
+
+As far as I know candidates for theory of everything that are being developed by physicists are not meant to be build self-justifying. But in the past the self-justifying cosmogonies were build. The simplest one starts from the sentient god-creator. The god was at the beginning of time and he is self-justifying. It can be imagined as the Universe starts with artificial general intelligence agent with goals. Then AGI creates everything else...
+
+I suggest use similar approach but use natural selection instead of AGI. We know that biological natural selection is capable of producing sentient individuals and it's simpler than AGI from Occam's razor point of view. This assumes that the fundamental aspect of the Universe if the life (instead of AGI/god or predefined mechanical-like laws).
+
+
+### 7.2 Artificial life model as a self-justifying theory of everything [≡][toc]{#s7_2}
+
+As was described in the [previous post](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) there are some properties of the model we can assume and go with:
+
+Use idea of the artificial life model with natural selection as a basis for the self-justifying theory of everything. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture.
+
+* Time is discrete and countable infinite, there was the first moment of existence of the Universe, space is discrete and finite (OR). We can start thinking about it with a graph-like structure.
+* The are individuals and environment (NS). The individuals are the environment for other individuals - there is nothing except individuals (OR). At the beginning of the Universe there were only one or two individuals (OR).
+* Reproduction: individual has a potential to reproduce itself (NS). Individuals can double (OR).
+* Heredity: properties of the individuals are inherited in reproduction (NS).
+* Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (NS).
+* Natural selection: the individuals that are more adapted to the environment survive more often (NS). It actually Captain Obvious says that "survive those who survive" (OR). If we use analogue with biological life then we can assume something like living in the stream of energy using the difference in entropy (so stream-like behavior can be put to the model).
+* Natural selection and evolution are open-ended: they do not stop on a fixed level of complexity but instead progresses further. And they are capable of producing sentient individuals.
+* The Turing-completeness is desired for the model: in theory there can emerge (be?) complex individuals performing algorithms. Presumably complex algorithms require a lot of space and time.
+* More intuitions about the model to build are in the [original article](https://kiwi0fruit.github.io/ultimate-question/).
+
+
+## 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? [≡][toc]{#s7_3}
+
+If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter**?
+
+As for biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our Universe is so stable? Because in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever "mutate"? (only expanding space puts some doubts to the picture but it doesn't seem to be related to the question). **This requires explaining via model assumptions or correcting them**.
+
+Ideas about possible solutions:
+
+* Somehow add inanimate matter into the model. But what would it be? And why this particular way?
+* Use an analogy with stem cells, ordinary cells and already dead skin cells: that there can be a fundamental transition to a state in which it is impossible to reproduce.
+* Particles can be as though encoded as resistant to interference, self-correcting code, etc.
+* Do not forget that if then we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This may expand possible ways of explaining the inanimate matter.
+
+
+## 8. P.S. [≡][toc]{#ps}
 
 I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
 
@@ -491,7 +548,7 @@ I would be grateful for any feedback and advice.
 Peter Zagubisalo, January 2016, minor update July 2018  
 
 
-## 8. References [≡][toc]{#references}
+## 9. References [≡][toc]{#references}
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -514,7 +571,7 @@ Peter Zagubisalo, January 2016, minor update July 2018
 [10] Jennifer Ouellette, How Quantum Pairs Stitch Space-Time [quantamagazine.org/tensor-networks-and-entanglement-20150428](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428)
 
 
-## 9. Links and discuss [≡][toc]{#links-and-discuss}
+## 10. Links and discuss [≡][toc]{#links-and-discuss}
 
 * If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request,
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com), [Subscibe to RSS](http://zagubisalo.tumblr.com/rss),
