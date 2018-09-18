@@ -4,7 +4,7 @@
 
 Greetings,
 
-   I seek advice or any other help available regarding creating a specific mathematical model. It’s origin is at the intersection of the following areas:
+   I seek advice or any other help available regarding (_mostly interested in the question in **Update 2**_) creating a specific mathematical model. It’s origin is at the intersection of the following areas:
 
 * fundamental physics (a bit),
 * the theory of evolution (a lot),
@@ -22,7 +22,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them. This research program is a special case of the _Artificial life_ / _Open-ended evolution_ problem (OEE) that has extra constraints that come from metaphysics (I also hope they may help to solve OEE problem).
 
-**(Update 1)**
+### (Update 1)
 
    This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
 
@@ -34,11 +34,11 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    And sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way".
 
-**(On computability)**
+### (On computability)
 
    The only connection to computability is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
 
-**(Update 2)**
+### (Update 2)
 
 [7. Artificial life model as a self-justifying theory of everything (Help needed)](https://kiwi0fruit.github.io/ultimate-question/#s7)  
 [7.3 **Help needed to solve the question**: What is the inanimate matter?](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
