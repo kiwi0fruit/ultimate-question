@@ -34,9 +34,9 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
    And sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way".
 
-### (On computability)
+### (On theory of computation)
 
-   The only connection to computability is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
+   The only connection to theory of computation is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
 
 ### (Update 2)
 
