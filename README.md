@@ -41,7 +41,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 ### (Update 2)
 
 [7. Artificial life model as a self-justifying theory of everything (Help needed)](https://kiwi0fruit.github.io/ultimate-question/#s7)  
-[7.3 **Help needed to solve the question**: What is the inanimate matter?](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
+[7.3 **Help needed to solve the question**: What is the inanimate matter? (and why these laws?)](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
 
 
 ## Contents:
@@ -69,7 +69,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 * [7. Artificial life model as a self-justifying theory of everything (Help needed)](#s7)
     - [7.1 Self-justifying theory of everything](#s7_1)
     - [7.2 Artificial life model as a self-justifying theory of everything](#s7_2)
-    - [7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter?](#s7_3)
+    - [7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?)](#s7_3)
 * [8. P.S.][ps]
 * [9. References][ref]
 * [10. Links and discuss][links]
@@ -511,7 +511,7 @@ I suggest use similar approach but use natural selection instead of AGI. We know
 
 ### 7.2 Artificial life model as a self-justifying theory of everything [≡][toc]{#s7_2}
 
-As was described in the [previous post](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) there are some properties of the model we can assume and go with:
+As was described above in the article there are some properties of the model we can assume and go with:
 
 Use idea of the artificial life model with natural selection as a basis for the self-justifying theory of everything. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture.
 
@@ -523,14 +523,16 @@ Use idea of the artificial life model with natural selection as a basis for the 
 * Natural selection: the individuals that are more adapted to the environment survive more often (NS). It actually Captain Obvious says that "survive those who survive" (OR). If we use analogue with biological life then we can assume something like living in the stream of energy using the difference in entropy (so stream-like behavior can be put to the model).
 * Natural selection and evolution are open-ended: they do not stop on a fixed level of complexity but instead progresses further. And they are capable of producing sentient individuals.
 * The Turing-completeness is desired for the model: in theory there can emerge (be?) complex individuals performing algorithms. Presumably complex algorithms require a lot of space and time.
-* More intuitions about the model to build are in the [original article](https://kiwi0fruit.github.io/ultimate-question/).
+* More intuitions about the model to build are in the [original article](https://kiwi0fruit.github.io/ultimate-question).
 
 
-## 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? [≡][toc]{#s7_3}
+## 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?) [≡][toc]{#s7_3}
 
 If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter**?
 
 As for biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our Universe is so stable? Because in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever "mutate"? (only expanding space puts some doubts to the picture but it doesn't seem to be related to the question). **This requires explaining via model assumptions or correcting them**.
+
+The question of inanimate matter is related to the question of "**why these laws?**" that can be asked about the assumed set of rules/laws above. The intuition suggests to try to make them immanent to the (atomic?) individuals somehow so the rules that govern changes in the model are also part of the natural selection. But that's a vague thought... (see point 3 in [Section 2.5](https://kiwi0fruit.github.io/ultimate-question/#s2_5) for more details).
 
 Ideas about possible solutions:
 
