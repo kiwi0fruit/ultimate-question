@@ -4,6 +4,8 @@
 
 ### (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor)
 
+### (Artificial life with Open-ended evolution for the simplest and self-justifying artificial universe)
+
 Greetings,
 
    I seek advice or any other help available regarding (_mostly interested in the question in **Update 2**_) creating a specific mathematical model. It’s origin is at the intersection of the following areas:
