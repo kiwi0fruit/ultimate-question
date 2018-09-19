@@ -1,6 +1,8 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
-## (On the simplest model in which the evolution of the laws of nature arises from the natural selection of structures, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor)
+## (On the simplest and self-justifying model in which the evolution of the laws of nature arises from the natural selection of structures)
+
+## (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor)
 
 Greetings,
 
