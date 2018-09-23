@@ -549,6 +549,7 @@ Ideas about possible solutions:
   * change pairings so that they both don't get corrupted algorithms simultaneously,
   * preserve the emergent structures,
   * Looks like it may need something like fine-tuned juggling or splitting the universe into two halves that "swap" periodically...
+* If these well-protected algorithms get corrupted and something like cancer happen then we always have the anthropic principle to explain why we haven't seen anything like that before ;)
 
 
 ## 8. P.S. [≡][toc]{#ps}
