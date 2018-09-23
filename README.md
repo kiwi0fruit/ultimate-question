@@ -530,7 +530,7 @@ Use idea of the artificial life model with natural selection as a basis for the 
 * More intuitions about the model to build are in the [original article](https://kiwi0fruit.github.io/ultimate-question).
 
 
-## 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?) [≡][toc]{#s7_3}
+### 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?) [≡][toc]{#s7_3}
 
 If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter**?
 
@@ -544,6 +544,11 @@ Ideas about possible solutions:
 * Use an analogy with stem cells, ordinary cells and already dead skin cells: that there can be a fundamental transition to a state in which it is impossible to reproduce.
 * Particles can be as though encoded as resistant to interference, self-correcting code, etc.
 * If we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This may expand possible ways of explaining the inanimate matter.
+* Another speculative idea is sweeping under the carpet and assuming that there is no problem actually: the particles are emergent from some underlying stable substrate (ether? lol). This substrate is made of units that reproduce and maintain stability. They were fueled with energy and can examine each other and kill if errors in their algorithms are found. This way they may need to:
+  * change roles: reproducing unit / inspector,
+  * change pairings so that they both don't get corrupted algorithms simultaneously,
+  * preserve the emergent structures,
+  * It's all looks like it needs something like fine-tuned juggling or splitting the universe into two halves that "swap" periodically :)
 
 
 ## 8. P.S. [≡][toc]{#ps}
