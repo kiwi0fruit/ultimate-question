@@ -548,7 +548,7 @@ Ideas about possible solutions:
   * change roles: reproducing unit / inspector,
   * change pairings so that they both don't get corrupted algorithms simultaneously,
   * preserve the emergent structures,
-  * It's all looks like it needs something like fine-tuned juggling or splitting the universe into two halves that "swap" periodically :)
+  * Looks like it may need something like fine-tuned juggling or splitting the universe into two halves that "swap" periodically...
 
 
 ## 8. P.S. [≡][toc]{#ps}
