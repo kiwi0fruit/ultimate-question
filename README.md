@@ -48,7 +48,7 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 [7.3 **Help needed to solve the question**: What is the inanimate matter? (and why these laws?)](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
 
 
-## (Update 3)
+### (Update 3)
 
 I started to think that this my idea of self-justification can be split into (1) something incomprehensible OR like provability (that seem useless untill analyzing the complete model). So it's better to throw it out and go with fallibilism and falsificationism. (2) something about not using global laws but instead having algorithms inside individuals that change environment. It's not really clear too but... This second part is only a hypothesis under (1) govern: the main point if the model works open-ended. Then if our universe is possible in the model, etc... (3) Using simplicity and Occam's razor a lot.
 
