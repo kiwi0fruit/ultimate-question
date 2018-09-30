@@ -5,16 +5,17 @@
 Introduction contents:
 
 * [Intro pt.1](#i1)
-* [Intro pt.2: key ideas](#i2)
-* [Intro pt.3: justification and best tools](#i3)
-* [Intro pt.4: the model](#i4)
-* [Intro pt.5: obvious problems, inc. what is inanimate matter?](#i5)
+* [Intro pt.2: Key ideas](#i2)
+* [Intro pt.3: Justification and best tools](#i3)
+* [Intro pt.4: The model](#i4)
+* [Intro pt.5: Obvious problems, inc. what is inanimate matter?](#i5)
 * [Intro pt.6: P.S., links and discuss](#i6)
+* [Appendix contents][toc]
 
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
 
-### Introduction pt.1 [≡][itoc]{#i1}
+### Intro pt.1 [≡][itoc]{#i1}
 
 Greetings,
 
@@ -28,7 +29,7 @@ I seek advice or any other help available regarding creating a specific mathemat
 The problem I’m trying to solve can be described as **to create the simplest artificial life model possible with open-ended evolution** (open-endedness means that the evolution doesn't stop on some level of complexity but **can** progress further to the intelligent agents after some **great** time). There are analogues to laws of nature in this dynamic model: 1) postulates of natural selection + some unknown ontological basis, 2) pool of phenotypes of evolving populations that are relatively stable on some time periods so they can be considered "laws". This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the first moment of existence with relatively simple structure.
 
 
-### Introduction pt.2: key ideas [≡][itoc]{#i2}
+### Intro pt.2: Key ideas [≡][itoc]{#i2}
 
 The key idea of this research program is to create an artificial universe in which we can answer any questions like "why is the present is this way not another?", "because of what?" (it's a better formulated ancient question "Why is there something rather than nothing?"). So any existing structures can be explained: as much entities as possible should have a history how they appeared/emerged - instead of postulating them directly. Moreover the model itself needs to have some justification (to be a candidate for model of the our real universe).
 
@@ -37,7 +38,7 @@ There are two main intuitions-constraints for this universe: 1) the start from t
 **The model to build is a model of complexity generation. At later steps the complexity should be capable of intelligence and self-knowledge.** Sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way"
 
 
-### Introduction pt.3: justification and best tools [≡][itoc]{#i3}
+### Intro pt.3: Justification and best tools [≡][itoc]{#i3}
 
 Those two intuitions come from the following:
 
@@ -48,7 +49,7 @@ If we are to go with natural selection as novelty generating mechanism then we s
 Luckily we also have an artificial life open-ended evolution (a-life OEE) restriction and Occam's razor. OEE means that at least in itself the model must show specific dynamics. And we already can assume that the model should be as simple as possible (and if the assumed simplicity is not enough then we should make it more complex). Though simplicity by itself cannot be a justification I have a hope that selecting the simplest workings from many **working** a-life OEE models could be a justification (proof of the theorem that the selected workings should be in every a-life OEE would be even better). And I mean a justification for basic rules that govern the dynamic of the model. By the way, this way we can justify a model obtained via any other research program. So if some "Theory of everything" appears we don't need to ask "why this particular theory?". Instead we should check for other (simpler?) models that do their work as good and then reason of necessary and sufficient criteria.
 
 
-### Introduction pt.4: the model [≡][itoc]{#i4}
+### Intro pt.4: The model [≡][itoc]{#i4}
 
 The research program uses the artificial life model with natural selection as a basis. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture. In order to continue we need to precisely define what are individuals in the model (and environment if needed) and how the process of their replication and death takes place. There are some properties of the model we can assume and go with:
 
@@ -64,7 +65,7 @@ The research program uses the artificial life model with natural selection as a 
 * More **complex laws are emergent** from algorithms formed by surviving stable individuals that **change other individuals** (or environment if there's any).
 
 
-### Introduction pt.5: obvious problems, inc. what is inanimate matter? [≡][itoc]{#i5}
+### Intro pt.5: Obvious problems, inc. what is inanimate matter? [≡][itoc]{#i5}
 
 If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter?**
 
@@ -82,7 +83,7 @@ Ideas about possible solutions:
 * If these well-protected algorithms get corrupted and something like cancer happen then we always have the anthropic principle to explain why we haven't seen anything like that before ;)
 
 
-### Introduction pt.6: P.S., links and discuss [≡][itoc]{#i6}
+### Intro pt.6: P.S., links and discuss [≡][itoc]{#i6}
 
 **This introduction actually contains everything important that is in this article. So the rest text at best can add some details to the picture or answer some questions. At worst it can be outdated and no longer reflects my opinion.**
 
@@ -94,8 +95,9 @@ Ideas about possible solutions:
 * [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
 
 
-## Appendix contents:
+## Appendix contents: [≡][toc]{#contents}
 
+* [Introduction contents][itoc]
 * [0. Short formulation of the problem](#s0)
     - [0.1 The first two hardest problems I struggled and haven't solved](#s0_1)
 * [1. The physical and philosophical background of this problem](#s1)
