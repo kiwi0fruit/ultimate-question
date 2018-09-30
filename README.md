@@ -1,66 +1,100 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
-### (On the simplest and self-justifying model in which the evolution of the laws of nature arises from the natural selection of structures)
+# The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor [≡][itoc]{#intro-contents}
 
-### (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor)
+Introduction contents:
 
-### (Artificial life with Open-ended evolution for the simplest and self-justifying artificial universe)
+* [Intro pt.1](#i1)
+* [Intro pt.2: key ideas](#i2)
+* [Intro pt.3: justification and best tools](#i3)
+* [Intro pt.4: the model](#i4)
+* [Intro pt.5: obvious problems, inc. what is inanimate matter?](#i5)
+* [Intro pt.6: P.S., links and discuss](#i6)
+
+_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
+
+
+### Introduction pt.1 [≡][itoc]{#i1}
 
 Greetings,
 
-   I seek advice or any other help available regarding (_mostly interested in the question in **Update 2**_) creating a specific mathematical model. It’s origin is at the intersection of the following areas:
+I seek advice or any other help available regarding creating a specific mathematical model. It’s origin is at the intersection of the following areas:
 
-* fundamental physics (a bit),
+* fundamental physics (an important bit),
 * the theory of evolution (a lot),
 * metaphysics (a lot),
 * foundations of mathematics and theory of computation (should be a lot).
 
-_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
-
-**// SEE UPDATE 1**  
-**// SEE UPDATE 2**
-
-   The problem I’m trying to solve can be described as **to create the simplest model possible in which the evolution of the laws of nature arises from the natural selection of structures**. This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the beginning (the first moment of existence). This task is meant to provide the tychism doctrine by Charles Peirce with a mathematically accurate dynamic model.
-
-   The mathematical model is intended to describe the process of changing of a discrete structure (like graph, consisting of interconnected atomic parts). Moreover, it should be the process of development and complication of the structure (it should be capable of producing even complex “intelligent” agents after some presumably great time). And this discrete structure is a medium on which the natural selection works on (there can be selected individuals and environment, natural selection postulates hold).
-
-   The idea is attractive because it assumes that the beginning of the Universe was simple and self-justifying and can be described by the mathematical model that is obvious in the retrospective: just like Darwin's idea of evolution and natural selection: they are obvious, but until they were formulated it was really hard to assume them. This research program is a special case of the _Artificial life_ / _Open-ended evolution_ problem (OEE) that has extra constraints that come from metaphysics (I also hope they may help to solve OEE problem).
-
-### (Update 1)
-
-   This whole article is a description of the research program aimed to create an atrificial universe in which we can answer any questions like "why is the present is this way not another?" (it's a better formulated ancient question "Why is there something rather than nothing?"). And this universe formulation should be enough simple and self-justifying to be a candidate for model of the our real universe.
-
-   And there are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beginning of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of cource) comes from natural selection. And natural selection postulates hold in the universe formulation.
-
-   Both these intuitions give hope that the model to build would be simple and obvious in retrospect like postulates of natural selection are simple and obvious in **retrospect**. So there is a hope that it's feasible task.
-
-   The "only" thing is left is to precisely define what are individuals and environment in the model (environment should be other individuals presumably - again from simplicity considerations) and how the process of their replication and death takes place. At the moment I'm not even sure if the individuals should be bult-in or to be emergent... (but I lean to the first option).
-
-   And sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way".
-
-### (On theory of computation)
-
-   The only connection to theory of computation is that individuals in the model to build presumably should incorporate recursive algorithms that change the environment (that is presumably the other individuals). I tried to imagine lambda functions or primitive recursive functions as basic ontological atoms (to incorporate to graph-like space) but failed miserably.
-
-### (Update 2)
-
-[7. Artificial life model as a self-justifying theory of everything (Help needed)](https://kiwi0fruit.github.io/ultimate-question/#s7)  
-[7.3 **Help needed to solve the question**: What is the inanimate matter? (and why these laws?)](https://kiwi0fruit.github.io/ultimate-question/#s7_3)
+The problem I’m trying to solve can be described as **to create the simplest artificial life model possible with open-ended evolution** (open-endedness means that the evolution doesn't stop on some level of complexity but **can** progress further to the intelligent agents after some **great** time). There are analogues to laws of nature in this dynamic model: 1) postulates of natural selection + some unknown ontological basis, 2) pool of phenotypes of evolving populations that are relatively stable on some time periods so they can be considered "laws". This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the first moment of existence with relatively simple structure.
 
 
-### (Update 3)
+### Introduction pt.2: key ideas [≡][itoc]{#i2}
 
-I started to think that this my idea of self-justification can be split into (1) something incomprehensible OR like provability (that seem useless untill analyzing the complete model). So it's better to throw it out and go with fallibilism and falsificationism. (2) something about not using global laws but instead having algorithms inside individuals that change environment. It's not really clear too but... This second part is only a hypothesis under (1) govern: the main point if the model works open-ended. Then if our universe is possible in the model, etc... (3) Using simplicity and Occam's razor a lot.
+The key idea of this research program is to create an artificial universe in which we can answer any questions like "why is the present is this way not another?", "because of what?" (it's a better formulated ancient question "Why is there something rather than nothing?"). So any existing structures can be explained: as much entities as possible should have a history how they appeared/emerged - instead of postulating them directly. Moreover the model itself needs to have some justification (to be a candidate for model of the our real universe).
 
-What I first and foremost want to create is a framework within which every "why?"
- ("because of what?") question has an answer stating how historically (via natural selection) it came to existence.
+There are two main intuitions-constraints for this universe: 1) the start from the simple enough state (the beginning of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of course) comes from natural selection which postulates are provided by universe model rules. The two intuitions give hope that **the model to build would be simple and obvious in retrospect** like postulates of natural selection are simple and obvious in **retrospect** (they are obvious, but until Darwin formulated them it was really hard to assume them). So there is a hope that **it's feasible task**.
 
-But no matter how I think about it I cannot image any justification for ontology postulates except "to make it simpler" or "as much entities as possible should have a history how they appeared - instead of postulating them directly". This seems interesting but it's not what I expected - I wanted a better justification.
-
-Man, this article needs a concise rewrite...
+**The model to build is a model of complexity generation. At later steps the complexity should be capable of intelligence and self-knowledge.** Sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way"
 
 
-## Contents:
+### Introduction pt.3: justification and best tools [≡][itoc]{#i3}
+
+Those two intuitions come from the following:
+
+The best tool I know that can historically explain why the particular structures exist is Darwin's evolution with natural selection. And the best tools to justify the model of reality are [falsifiability](https://en.wikipedia.org/wiki/Falsifiability) and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor). First states that the theory should work and be capable of predictions. The second states that among models similar in respect to falsifiability the simplest one should be chosen.
+
+If we are to go with natural selection as novelty generating mechanism then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) (CNS) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This means that it would be really hard to apply falsifiability to the model to build. In the best case when built (sic!) it could provide the basis for General relativity + Quantum mechanics unification theory (or could not...). In the worst case we only get the restriction that our universe is possible in the model. I.e the populations of individuals that **resemble** our laws of physics should be **probable** to appear and our **particular** laws of physics are definitely **possible** to appear (either it's a group dynamic or a single individual universe like in CNS).
+
+Luckily we also have an artificial life open-ended evolution (a-life OEE) restriction and Occam's razor. OEE means that at least in itself the model must show specific dynamics. And we already can assume that the model should be as simple as possible (and if the assumed simplicity is not enough then we should make it more complex). Though simplicity by itself cannot be a justification I have a hope that selecting the simplest workings from many **working** a-life OEE models could be a justification (proof of the theorem that the selected workings should be in every a-life OEE would be even better). And I mean a justification for basic rules that govern the dynamic of the model. By the way, this way we can justify a model obtained via any other research program. So if some "Theory of everything" appears we don't need to ask "why this particular theory?". Instead we should check for other (simpler?) models that do their work as good and then reason of necessary and sufficient criteria.
+
+
+### Introduction pt.4: the model [≡][itoc]{#i4}
+
+The research program uses the artificial life model with natural selection as a basis. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture. In order to continue we need to precisely define what are individuals in the model (and environment if needed) and how the process of their replication and death takes place. There are some properties of the model we can assume and go with:
+
+* The are **individuals and environment** (NS). _**Either**_: the individuals are the environment for other individuals - there is nothing except individuals (OR). At the beginning of the Universe there were only one or two individuals (OR). _**Or**_: there's environment of which individuals are built (and environment may not be governed by NS postulates).
+* **Time is discrete and countable infinite**, there was the **first moment of existence of the Universe**, **space is discrete and finite** (OR). We can start thinking about it with a graph-like structure with individuals of NS as nodes - graph is the simplest space possible (OR, NS).
+* **Reproduction**: individual has a potential to reproduce itself (NS). Individuals can **double** (OR).
+* **Heredity**: properties of the individuals are inherited in reproduction (NS).
+* **Variation**: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly **random/spontaneous** (NS).
+* **Natural selection**: the individuals that are more adapted to the environment survive more often (NS). It actually Captain Obvious says that "**survive those who survive**" (OR). If we use analogue with biological life then we can assume something like living in the stream of energy using the difference in entropy (so **stream-like behavior** can be put to the model). If there's nothing except individuals (no environment) then maybe node-like individuals can not only come to existence but also die and disappear.
+* Natural selection and evolution are **open-ended**: they do not stop on a fixed level of complexity but instead progresses further. And they are capable of producing sentient individuals.
+* The **Turing-completeness** is desired for the model: in theory there can emerge (be?) complex emergent individuals performing algorithms. Presumably **complex algorithms require a lot of space and time** so they are made up from many basic individuals.
+* ...
+* More **complex laws are emergent** from algorithms formed by surviving stable individuals that **change other individuals** (or environment if there's any).
+
+
+### Introduction pt.5: obvious problems, inc. what is inanimate matter? [≡][itoc]{#i5}
+
+If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter?**
+
+For biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our Universe is so stable? After all in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever "mutate"? (only expanding space puts some doubts to the picture but it doesn't seem to be related to the question). **This requires explaining via model assumptions or correcting them**.
+
+Ideas about possible solutions:
+
+* Add inanimate matter as environment.
+* Use an analogy with stem cells, ordinary cells and already dead skin cells: that there can be a fundamental transition to a state in which it is impossible to reproduce.
+* Remembering [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) with a very large number of universes-ancestors and assume there is no problem actually (speculate hard!): the particles are emergent from some underlying stable substrate (ether? LOL). This substrate is made of units that reproduce and maintain stability. They were fueled with energy and can examine each other and kill if errors in their algorithms are found. This way they may need to:
+  * change roles: reproducing unit / inspector,
+  * change pairings so that they both don't get corrupted algorithms simultaneously,
+  * preserve the emergent structures,
+  * looks like it may need something like fine-tuned "juggling" or splitting the universe into parts that "swap" periodically...
+* If these well-protected algorithms get corrupted and something like cancer happen then we always have the anthropic principle to explain why we haven't seen anything like that before ;)
+
+
+### Introduction pt.6: P.S., links and discuss [≡][itoc]{#i6}
+
+**This introduction actually contains everything important that is in this article. So the rest text at best can add some details to the picture or answer some questions. At worst it can be outdated and no longer reflects my opinion.**
+
+* If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request,
+* You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
+* News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com) ([subscibe to RSS](http://zagubisalo.tumblr.com/rss)), [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/),
+* You can send me Email:  
+  <img src="https://78.media.tumblr.com/e11f74e198e07709d1d22ef380cef1a2/tumblr_inline_mqqmymPPYj1qd1fz4.png" width="250">
+* [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
+
+
+## Appendix contents:
 
 * [0. Short formulation of the problem](#s0)
     - [0.1 The first two hardest problems I struggled and haven't solved](#s0_1)
@@ -82,13 +116,9 @@ Man, this article needs a concise rewrite...
         - [4.2.2 The second example](#s4_2_2)
 * [5. Why this task? On “Why is there something rather than nothing?” question](#s5)
 * [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
-* [7. Artificial life model as a self-justifying theory of everything (Help needed)](#s7)
-    - [7.1 Self-justifying theory of everything](#s7_1)
-    - [7.2 Artificial life model as a self-justifying theory of everything](#s7_2)
-    - [7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?)](#s7_3)
-* [8. P.S.][ps]
+* [7. Artificial life model as a self-justifying theory of everything](#s7)
+* [8. P.S.](#ps)
 * [9. References][ref]
-* [10. Links and discuss][links]
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
@@ -508,14 +538,17 @@ If we are to explain history and answer _“why?”_ questions we either should 
 As said in [Section 3](#s3) the desired model is a perfect candidate for theory that answers any _“why?”_ questions. But that's not the case for your typical physics theory: it assumes lots of complex mathematical objects to be present without explanation how they emerged. So it's like postulating an elephant in example above - except that the theories were tested against reality and they precisely describe **how** processes work. If we would create yet another theory that postulates some complex mathematical objects we still would need an answer  to _“why these objects?”_ question. So the right way of answering _“why?”_ questions should be aware of the described problem right from the start - something like self-justifying comes to mind (whatever that means). This inevitably raises meta-laws question that mentioned in [Section 2.5](#s2_5) so even the  desired model still doesn't have a complete answer to this problem (actually this acticle has much more questions than answers...).
 
 
-## 7. Artificial life model as a self-justifying theory of everything (Help needed to solve the latest question I got stuck: What is the inanimate matter?) [≡][toc]{#s7}
+## 7. Artificial life model as a self-justifying theory of everything [≡][toc]{#s7}
 
-First I'll add some details about notion of **self-justifying** that show _more_ about the motivation behind the research. Then I describe the the latest question I got stuck (question about the model to build).
+### [7.1 redirect to 7](#s7) [≡][toc]{#s7_1}
 
+### [7.2 redirect to Introduction 4](#i4) [≡][toc]{#s7_2}
 
-### 7.1 Self-justifying theory of everything [≡][toc]{#s7_1}
+### [7.3 redirect to Introduction 5](#i5) [≡][toc]{#s7_3}
 
-Potential theories of everything can be **self-justifying** or not. It means that the theory is:
+**THIS 7. SECTION IS OUTDATED: I NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**
+
+First I'll add some details about notion of **self-justifying** that show _more_ about the motivation behind the research. Potential theories of everything can be **self-justifying** or not. It means that the theory is:
 
 1. **theory of everything**: capable of answering all questions like "why these structures exist / processes take place instead of the other ones?". I.e. given all knowledge about the past they can (at least theoretically) track chains of causes back to the past to the moments where they came to existence.
 2. **self-justifying**: capable of answering question "why the theory of everything works this way not another?". And answer "because it's predictions are in agreement with experiments" is not enough because there can be infinite number of such theories that differ in things we cannot test (yet? never? who knows...). So we can either wait for General relativity + Quantum mechanics unification (and see if there would be the same problem :) or we can try to answer this question via self-justifying. It relies on philosophical necessity, Occam's razor, Captain Obvious considerations and common sense.
@@ -523,45 +556,6 @@ Potential theories of everything can be **self-justifying** or not. It means tha
 As far as I know candidates for theory of everything that are being developed by physicists are not meant to be build self-justifying. But in the past the self-justifying cosmogonies were build. The simplest one starts from the sentient god-creator. The god was at the beginning of time and he is self-justifying. It can be imagined as the Universe starts with artificial general intelligence agent with goals. Then AGI creates everything else...
 
 I suggest use similar approach but use natural selection instead of AGI. We know that biological natural selection is capable of producing sentient individuals and it's simpler than AGI from Occam's razor point of view. This assumes that the fundamental aspect of the Universe if the life (instead of AGI/god or predefined mechanical-like laws).
-
-
-### 7.2 Artificial life model as a self-justifying theory of everything [≡][toc]{#s7_2}
-
-As was described above in the article there are some properties of the model we can assume and go with:
-
-Use idea of the artificial life model with natural selection as a basis for the self-justifying theory of everything. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture.
-
-* Time is discrete and countable infinite, there was the first moment of existence of the Universe, space is discrete and finite (OR). We can start thinking about it with a graph-like structure.
-* The are individuals and environment (NS). The individuals are the environment for other individuals - there is nothing except individuals (OR). At the beginning of the Universe there were only one or two individuals (OR).
-* Reproduction: individual has a potential to reproduce itself (NS). Individuals can double (OR).
-* Heredity: properties of the individuals are inherited in reproduction (NS).
-* Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (NS).
-* Natural selection: the individuals that are more adapted to the environment survive more often (NS). It actually Captain Obvious says that "survive those who survive" (OR). If we use analogue with biological life then we can assume something like living in the stream of energy using the difference in entropy (so stream-like behavior can be put to the model).
-* Natural selection and evolution are open-ended: they do not stop on a fixed level of complexity but instead progresses further. And they are capable of producing sentient individuals.
-* The Turing-completeness is desired for the model: in theory there can emerge (be?) complex individuals performing algorithms. Presumably complex algorithms require a lot of space and time.
-* More intuitions about the model to build are in the [original article](https://kiwi0fruit.github.io/ultimate-question).
-
-
-### 7.3 Help needed to solve the latest question I got stuck: What is the inanimate matter? (and why these laws?) [≡][toc]{#s7_3}
-
-If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter**?
-
-As for biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our Universe is so stable? Because in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever "mutate"? (only expanding space puts some doubts to the picture but it doesn't seem to be related to the question). **This requires explaining via model assumptions or correcting them**.
-
-The question of inanimate matter is related to the question of "**why these laws?**" that can be asked about the assumed set of rules/laws above. The intuition suggests to try to make them immanent to the (atomic?) individuals somehow so the rules that govern changes in the model are also part of the natural selection. But that's a vague thought... (see point 3 in [Section 2.5](https://kiwi0fruit.github.io/ultimate-question/#s2_5) for more details).
-
-Ideas about possible solutions:
-
-* Somehow add inanimate matter into the model. But what would it be? And why this particular way?
-* Use an analogy with stem cells, ordinary cells and already dead skin cells: that there can be a fundamental transition to a state in which it is impossible to reproduce.
-* Particles can be as though encoded as resistant to interference, self-correcting code, etc.
-* If we are to go with natural selection thing then we should think that Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Lee_Smolin#Cosmological_natural_selection) hypothesis is likely to be true. And that means that our observable universe could have had a very large number of universes-ancestors. This may expand possible ways of explaining the inanimate matter.
-* Another speculative idea is sweeping under the carpet and assuming that there is no problem actually: the particles are emergent from some underlying stable substrate (ether? lol). This substrate is made of units that reproduce and maintain stability. They were fueled with energy and can examine each other and kill if errors in their algorithms are found. This way they may need to:
-  * change roles: reproducing unit / inspector,
-  * change pairings so that they both don't get corrupted algorithms simultaneously,
-  * preserve the emergent structures,
-  * Looks like it may need something like fine-tuned juggling or splitting the universe into two halves that "swap" periodically...
-* If these well-protected algorithms get corrupted and something like cancer happen then we always have the anthropic principle to explain why we haven't seen anything like that before ;)
 
 
 ## 8. P.S. [≡][toc]{#ps}
@@ -596,19 +590,10 @@ Peter Zagubisalo, January 2016, minor update July 2018
 [10] Jennifer Ouellette, How Quantum Pairs Stitch Space-Time [quantamagazine.org/tensor-networks-and-entanglement-20150428](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428)
 
 
-## 10. Links and discuss [≡][toc]{#links-and-discuss}
-
-* If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request,
-* You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
-* News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com) ([subscibe to RSS](http://zagubisalo.tumblr.com/rss)), [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/),
-* Or send me Email:  
-  <img src="https://78.media.tumblr.com/e11f74e198e07709d1d22ef380cef1a2/tumblr_inline_mqqmymPPYj1qd1fz4.png" width="250">
-* [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
-
+----
 
 [**Return to root**](https://github.com/kiwi0fruit/ultimate-question)
 
+[itoc]: #intro-contents
 [toc]: #contents
 [ref]: #references
-[ps]: #ps
-[links]: #links-and-discuss
