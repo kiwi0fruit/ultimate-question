@@ -1,3 +1,0 @@
-# The Ultimate Question of Life, the Universe, and Everything #2
-
-...
