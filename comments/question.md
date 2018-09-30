@@ -1,4 +1,4 @@
-Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?
+# Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?
 
 I'm investigating possibilities and tools for creating a model of the Universe in which all Why? (Because of what?) questions can be answered.
 
