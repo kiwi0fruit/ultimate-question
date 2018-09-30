@@ -88,7 +88,7 @@ Ideas about possible solutions:
 **This introduction actually contains everything important that is in this article. So the rest text at best can add some details to the picture or answer some questions. At worst it can be outdated and no longer reflects my opinion.**
 
 * If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request,
-* You can discuss the letter [on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2),
+* You can discuss the letter [on GitHub or Reddit](https://github.com/kiwi0fruit/ultimate-question/issues/2),
 * News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com) ([subscibe to RSS](http://zagubisalo.tumblr.com/rss)), [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/),
 * You can send me Email:  
   <img src="https://78.media.tumblr.com/e11f74e198e07709d1d22ef380cef1a2/tumblr_inline_mqqmymPPYj1qd1fz4.png" width="250">
