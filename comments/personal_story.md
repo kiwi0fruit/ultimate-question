@@ -22,6 +22,8 @@ This way I at least can have my own meaning of my life - to create such a meanin
 
 ### Ultimate Question of Life, the Universe, and Everything
 
+_**THIS SECTION IS OUTDATED: I'M NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**_
+
 This also inevitably lead to the attempt to find or create the theory of everything. Search didn't give me a satisfactory theory. I had already known that the answer to the *Ultimate Question of Life, the Universe, and Everything* is 42 but this too was unsatisfactory. So I ended trying to create the theory myself. It turned out that this is a difficult task :)
 
 Potential theories of everything can be **self-justifying** or not. It means that the theory is:
@@ -38,6 +40,6 @@ And natural selection requires random events for it's postulates so it's good fi
 
 ### Artificial life with Open-ended evolution for the simplest and self-justifying artificial universe, On natural selection of the laws of nature
 
-My latest attempt to find the theory of everything can be described as *"Artificial life with Open-ended evolution for the simplest and self-justifying artificial universe, On natural selection of the laws of nature"* and discussed in [this post](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/).
+My latest attempt to find the theory of everything can be described as *"The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor"* and discussed in [this post](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/).
 
 I noted that communities of both physicists and philosophers are not fond of my research idea. I've got the best feedback in Computer Science and in Artificial life communities. But still it is somewhat alien there. So I lacked subreddit so that such ideas are right fit there and found out that the research best fits to Digital Philosophy ideas that uses theory of computation and discrete ontology. So I invite you to the new [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) subreddit.
