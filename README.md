@@ -548,7 +548,7 @@ As said in [Section 3](#s3) the desired model is a perfect candidate for theory 
 
 ### [7.3 redirect to Introduction 5](#i5) [≡][toc]{#s7_3}
 
-**THIS 7. SECTION IS OUTDATED: I NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**
+**THIS 7. SECTION IS OUTDATED: I'M NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**
 
 First I'll add some details about notion of **self-justifying** that show _more_ about the motivation behind the research. Potential theories of everything can be **self-justifying** or not. It means that the theory is:
 
