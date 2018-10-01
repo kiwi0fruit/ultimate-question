@@ -48,6 +48,8 @@ If we are to go with natural selection as novelty generating mechanism then we s
 
 Luckily we also have an artificial life open-ended evolution (a-life OEE) restriction and Occam's razor. OEE means that at least in itself the model must show specific dynamics. And we already can assume that the model should be as simple as possible (and if the assumed simplicity is not enough then we should make it more complex). Though simplicity by itself cannot be a justification I have a hope that selecting the simplest workings from many **working** a-life OEE models could be a justification (proof of the theorem that the selected workings should be in every a-life OEE would be even better). And I mean a justification for basic rules that govern the dynamic of the model. By the way, this way we can justify a model obtained via any other research program. So if some "Theory of everything" appears we don't need to ask "why this particular theory?". Instead we should check for other (simpler?) models that do their work as good and then reason of necessary and sufficient criteria.
 
+More about justification: [Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](articles/answer_all_why_questions.md)
+
 
 ### Intro pt.4: The model [≡][itoc]{#i4}
 
