@@ -8,7 +8,7 @@ Introduction contents:
 * [Intro pt.2: Key ideas](#i2)
 * [Intro pt.3: Justification and best tools](#i3)
 * [Intro pt.4: The model](#i4)
-* [Intro pt.5: Obvious problems, inc. what is inanimate matter?](#i5)
+* [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#i5)
 * [Intro pt.6: P.S, discussion, subscribe, source code repository](#i6)
 * [Appendix contents][toc]
 
@@ -67,9 +67,13 @@ The research program uses the artificial life model with natural selection as a 
 * More **complex laws are emergent** from algorithms formed by surviving stable individuals that **change other individuals** (or environment if there's any).
 
 
-### Intro pt.5: Obvious problems, inc. what is inanimate matter? [≡][itoc]{#i5}
+### Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers? [≡][itoc]{#i5}
 
-If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter?**
+1\. If we assume that complex laws are emergent from algorithms then **what about quantum computers?** question needs answering. It can be formulated as "Is bounded-error **quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?**"
+
+What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time (BQP) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory?
+
+2\. If we go with natural selection, use biological life as inspiration and go with assumptions above then we should answer the question: **what is the inanimate matter?**
 
 For biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our Universe is so stable? After all in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever "mutate"? (only expanding space puts some doubts to the picture but it doesn't seem to be related to the question). **This requires explaining via model assumptions or correcting them**.
 
