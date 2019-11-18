@@ -1,6 +1,6 @@
 # Simplest open-ended evolution model as a theory of everything
 
-Year ago I abandoned [the research project](https://www.reddit.com/r/DigitalPhilosophy/comments/9hd81s/on_natural_selection_of_the_laws_of_nature/) ([repo](https://github.com/kiwi0fruit/ultimate-question)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
+Year ago I abandoned [the research project](https://www.reddit.com/r/DigitalPhilosophy/comments/9hd81s/on_natural_selection_of_the_laws_of_nature/) ([old discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [repo](https://github.com/kiwi0fruit/ultimate-question)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
 
 
 1) **Open-ended evolution** (OEE) model:
