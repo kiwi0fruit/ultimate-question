@@ -21,5 +21,5 @@ Year ago I abandoned [the research project](https://www.reddit.com/r/DigitalPhil
 * As less axioms that govern evolution of the model as possible: **Occam's razor** (OR) plus extracting **necessary and sufficient** (NaS) system transition rules that still give OEE (it may even be some equivalence class property like turing-completeness).
 * In the model time is **discrete** and **countable infinite** (given by random events), there was the **first moment** of existence, space is **discrete** and **finite**. We can try starting thinking about it with a graph-like structure with individuals of NS as nodes - graph is the simplest space possible.
 * This raises question: What about quantum computers? Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with **discrete ontology**? And if yes what should this ontology be?
-* Also I guess some may argue for lack of random events and going Everett many world quantum mechanics (CM) interpretation way. Can model
-be viewed as a "superposition" of random events happened in different universes? If yes then we may get uncountable infinite space-time (btw: would superposition in CM preserve countable infinity for space-time?).
+* Also I guess some may argue for lack of random events and going Everett many world quantum mechanics (QM) interpretation way. Can model
+be viewed as a "superposition" of random events happened in different universes? If yes then we may get uncountable infinite space-time (btw: would superposition in QM preserve countable infinity for space-time?).
