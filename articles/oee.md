@@ -40,5 +40,5 @@ be viewed as a "superposition" of random events happened in different universes?
 
 ## 4. Discussion
 
-* [Reddit/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/), [Reddit/compsci](https://www.reddit.com/r/compsci/comments/dygfuq/openendedness_as_turing_completeness_analogue_for/), [Reddit/alife](https://www.reddit.com/r/alife/comments/dygtxv/openendedness_as_turing_completeness_analogue_for/), [Reddit/oee](https://www.reddit.com/r/oee/comments/dygzey/openendedness_as_turing_completeness_analogue_for/), [Reddit/algorithms](https://www.reddit.com/r/algorithms/comments/dyh6j8/openendedness_as_turing_completeness_analogue_for/)
-* [Github/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2)
+* Reddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/), [r/compsci](https://www.reddit.com/r/compsci/comments/dygfuq/openendedness_as_turing_completeness_analogue_for/), [r/alife](https://www.reddit.com/r/alife/comments/dygtxv/openendedness_as_turing_completeness_analogue_for/), [r/oee](https://www.reddit.com/r/oee/comments/dygzey/openendedness_as_turing_completeness_analogue_for/), [r/algorithms](https://www.reddit.com/r/algorithms/comments/dyh6j8/openendedness_as_turing_completeness_analogue_for/)
+* Github: [kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2)
