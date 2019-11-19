@@ -36,3 +36,9 @@ By **simplest** I means:
 * This raises question: What about quantum computers? Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with **discrete ontology**? And if yes what should this ontology be?
 * Also I guess some may argue for lack of random events and going Everett many world quantum mechanics (QM) interpretation way. Can model
 be viewed as a "superposition" of random events happened in different universes? If yes then we may get uncountable infinite space-time (btw: would superposition in QM preserve countable infinity for space-time?).
+
+
+## 4. Discussion
+
+* [Reddit/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/),
+* [Github/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2).
