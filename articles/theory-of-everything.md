@@ -14,6 +14,7 @@ Year ago I abandoned [the research project](https://www.reddit.com/r/DigitalPhil
 
 * dynamic model of an artificial universe in which after some enormous simulation time properties of our universe is **possible** (but not necessary highly probable) but existing of intelligent life is highly **probable**.
 * model that is capable of answering **all** in-model "**why these** structures exist and processes take place instead of the other?" questions by combination of transition rules postulates application and history of events (including completely random events).
+* it may be desirable to have a **universal description tool** that can be applied to any "level" of the model (where "higher" levels are built upon many smaller modules. But the picture would be more complicated if strange loops are possible). Level hierarchy can be alike to organelles -> cells -> species individuals -> packs/tribes -> populations.
 
 
 3) By **simplest** I means:
