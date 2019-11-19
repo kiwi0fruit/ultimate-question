@@ -43,4 +43,5 @@ be viewed as a "superposition" of random events happened in different universes?
 * [Reddit/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/),
 * [Reddit/compsci](https://www.reddit.com/r/compsci/comments/dygfuq/openendedness_as_turing_completeness_analogue_for/),
 * [Reddit/alife](https://www.reddit.com/r/alife/comments/dygtxv/openendedness_as_turing_completeness_analogue_for/),
+* [Reddit/oee](https://www.reddit.com/r/oee/comments/dygzey/openendedness_as_turing_completeness_analogue_for/),
 * [Github/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2).
