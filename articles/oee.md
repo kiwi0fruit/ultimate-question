@@ -29,7 +29,7 @@ By **Theory of everything** I mean:
 
 ## 3. Simplest
 
-By **simplest** I means:
+By **simplest** I mean:
 
 * As less axioms that govern evolution of the model as possible: **Occam's razor** (OR) plus extracting **necessary and sufficient** (NaS) system transition rules that still give OEE (it may even be some equivalence class property like turing-completeness).
 * In the model time is **discrete** and **countable infinite** (given by random events), there was the **first moment** of existence, space is **discrete** and **finite**. We can try starting thinking about it with a graph-like structure with individuals of NS as nodes - graph is the simplest space possible.
