@@ -1,6 +1,12 @@
-# Simplest open-ended evolution model as a theory of everything
+# Open-endedness as Turing completeness analogue for population of self organizing algorithms
 
-Year ago I abandoned [the research project](https://www.reddit.com/r/DigitalPhilosophy/comments/9hd81s/on_natural_selection_of_the_laws_of_nature/) ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [repo](https://github.com/kiwi0fruit/ultimate-question)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
+Recently I wrote small article named "Simplest open-ended evolution model as a theory of everything". But right after finishing it I noticed that theory of everything part was just a guide and crutch to a more interesting point of view.
+
+Specifically that property of open-endedness (that is yet to be discovered) can be viewed as Turing completeness analogue for population of self organizing algorithms (where each program is also data). And my research program was essentially about finding **necessary and sufficient** criteria for open-endedness (plus may be some intuitions about directions in which it can be found).
+
+*Text of the original article*:
+
+Year ago I abandoned the research project ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [repository](https://github.com/kiwi0fruit/ultimate-question), [subscribe on Reddit](https://www.reddit.com/r/DigitalPhilosophy)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
 
 
 ## 1. Open-ended evolution
