@@ -2,7 +2,7 @@
 
 Recently I wrote small article named "Simplest open-ended evolution model as a theory of everything". But right after finishing it I noticed that theory of everything part was just a guide and crutch to a more interesting point of view.
 
-Specifically that property of open-endedness (that is yet to be discovered) can be viewed as Turing completeness analogue for population of self organizing algorithms (where each program is also data). And my research program was essentially about finding **necessary and sufficient** criteria for open-endedness (plus may be some intuitions about directions in which it can be found). Hence all philosophic questions that bothered me are now reduced to necessary and sufficient criteria for open-endedness that is no longer a philosophical question at all.
+Specifically that property of open-endedness (that is yet to be discovered) can be viewed as Turing completeness analogue for population of self organizing algorithms (where each program is also data). And my research program was essentially about finding **necessary and sufficient** criteria for open-endedness (plus may be some intuitions about directions in which it can be found). Hence all philosophical questions that bothered me are now reduced to necessary and sufficient criteria for open-endedness that is no longer a philosophical question at all.
 
 *Text of the original article*:
 
