@@ -15,6 +15,11 @@ Introduction contents:
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
 
+### NEW
+
+* [Open-endedness as Turing completeness analogue for population of self organizing algorithms](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)
+
+
 ### Intro pt.1 [≡][itoc]{#i1}
 
 Greetings,
