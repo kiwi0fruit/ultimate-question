@@ -4,7 +4,14 @@ Recently I wrote small article named "Simplest open-ended evolution model as a t
 
 Specifically that property of open-endedness (that is yet to be discovered) can be viewed as Turing completeness analogue for population of self organizing algorithms under natural selection (where each program is also data). And my research program was essentially about finding **necessary and sufficient** criteria for open ended evolution (OEE). Plus may be some intuitions about directions in which it can be found (most notable is applying simplest OEE model to the beginning of the artificial universe). Hence all philosophical questions that bothered me are now reduced to necessary and sufficient criteria for open ended evolution that is no longer a philosophical question at all.
 
+### UPD
+
+If turing completeness is a formalization of algorithms (that previously were performed by humans only). I'm interested in formalization of natural selection open-endedness that is now observed in nature (called OEE). That's what my post is about essentially. That formalization is still not there. It's an open and a hard question.
+
 *Text of the original article*:
+
+
+## Simplest open-ended evolution model as a theory of everything
 
 Year ago I abandoned the research project ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [repository](https://github.com/kiwi0fruit/ultimate-question), [subscribe on Reddit](https://www.reddit.com/r/DigitalPhilosophy)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
 
@@ -18,7 +25,7 @@ Year ago I abandoned the research project ([old Reddit discussion](https://www.r
 * that should presumably incorporate: **turing-completeness** (or it's weaker "future potency" form) and **Red Queen hypothesis**.
 
 
-## 2. Theory of everything
+### 2. Theory of everything
 
 By **Theory of everything** I mean:
 
@@ -27,7 +34,7 @@ By **Theory of everything** I mean:
 * it may be desirable to have a **universal description tool** that can be applied to any "level" of the model (where "higher" levels are built upon many smaller modules. But the picture would be more complicated if strange loops are possible). Level hierarchy can be alike to organelles -> cells -> species individuals -> packs/tribes -> populations.
 
 
-## 3. Simplest
+### 3. Simplest
 
 By **simplest** I mean:
 
@@ -38,7 +45,12 @@ By **simplest** I mean:
 be viewed as a "superposition" of random events happened in different universes? If yes then we may get uncountable infinite space-time (btw: would superposition in QM preserve countable infinity for space-time?).
 
 
-## 4. Discussion
+### 4. UPD
+
+I dropped seriously investing in my research not long before I discovered connections with OEE and even then I wasn't aware that the only notable part of my research is OEE question part (hence I simply reinvented the ~~wheel~~ question but moved from philosophy side). Since publication of this post I'm aware of that so investing in finding out what is open-endedness is inevitable if I want to progress on this task.
+
+
+## 5. Discussion
 
 * Reddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/), [r/compsci](https://www.reddit.com/r/compsci/comments/dygfuq/openendedness_as_turing_completeness_analogue_for/)
 * Github: [kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2)
