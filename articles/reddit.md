@@ -14,7 +14,7 @@ Introduction contents:
 * [Intro pt.4: The model](https://kiwi0fruit.github.io/ultimate-question/#i4)
 * [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](https://kiwi0fruit.github.io/ultimate-question/#i5)
 * [Intro pt.6: P.S., links and discuss](https://kiwi0fruit.github.io/ultimate-question/#i6)
-* [Appendix contents](https://kiwi0fruit.github.io/ultimate-question/#contents)
+* [Appendix: contents of the previous article on the topic](https://kiwi0fruit.github.io/ultimate-question/#contents)
 
 
 ## Intro pt.1
