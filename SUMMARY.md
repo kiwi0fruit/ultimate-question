@@ -1,7 +1,7 @@
 # Summary
 
 * [Ultimate Question](README.md)
-* [Open ended natural selection of interacting code-data dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)
+* [Open ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)
 * [TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)
 * [Open-endedness as Turing completeness analogue for population of self organizing algorithms](./articles/oee.md)
 * [Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](./articles/answer_all_why_questions.md)
