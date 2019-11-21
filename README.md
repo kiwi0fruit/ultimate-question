@@ -219,7 +219,7 @@ This whole task mostly is in the metaphysics and mathematics intersection. The o
 * (**p4**) Heredity: properties of the individuals are inherited in reproduction.
 * (**p5**) Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (under a given set of postulates).
 
-As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapient. And they differ much in complexity.
+As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as Boltzmann brain. This theory explains the entire path traversed by the life from the first unicellular organisms to Homo sapiens. And they differ much in complexity.
 
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
