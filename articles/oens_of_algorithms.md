@@ -1,3 +1,3 @@
-# Open ended natural selection of interacting algorithms as Turing completeness analogue
+# Open ended natural selection of interacting algorithms as property analogous to Turing completeness
 
 To be added.
