@@ -17,7 +17,7 @@ Just as algorithms performed by humans were formalized and property of Turing co
 
 And the concise formulation of this process would be something like **Open-ended natural selection of interacting code-data-dual algorithms**.
 
-I can guess that open-endedness may incorporate some weaker "future potency" form of Turing completeness (if assuming discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
+Code-data duality is needed for algorithms being able to modify each other or even themselves. I can guess that open-endedness may incorporate some weaker "future potency" form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
 
 Please consider if it's an interesting research question and share your thoughts.
 
