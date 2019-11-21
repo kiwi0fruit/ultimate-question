@@ -11,7 +11,7 @@ Introduction contents:
 * [Intro pt.4: The model](#i4)
 * [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#i5)
 * [Intro pt.6: P.S, discussion, subscribe, source code repository](#i6)
-* [Appendix contents][toc]
+* [Appendix: contents of the previous article on the topic][toc]
 
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
