@@ -6,7 +6,7 @@ The goal of this article is to promote an unsolved mathematical question. And un
 
 ### Preamble
 
-The notion of Turing completeness is a formalization of computability and algorithms (that previously were performed by humans and DNA). There are different formalizations (incl. Turing machine, μ-recursive functions, and λ-calculus) but they all share the Turing completeness property and can perform equivalent algorithms. Thus they form an equivalence class.
+The notion of Turing completeness is a formalization of computability and algorithms (that previously were performed by humans and DNA). There are different formalizations (incl. Turing machine, μ-recursive functions and λ-calculus) but they all share the Turing completeness property and can perform equivalent algorithms. Thus they form an equivalence class.
 
 The open-ended evolution is a not very popular research program which goal is to build an artificial life model with natural selection which evolution doesn't stop on some level of complexity but can progress further (ultimately to the intelligent agents after some enormous simulation time). I'm not aware of the state of the progress of open-endedness criteria formulation but I'm almost sure that it's still doesn't exist: as it's either connected to results of a successful simulation or to actually understanding and confirming what is required for open-endedness (I haven't heard of both).
 
