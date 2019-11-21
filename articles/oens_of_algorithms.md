@@ -2,7 +2,7 @@
 
 <!-- [this time no redundant info] -->
 
-The goal of this article is to promote an unsolved mathematical question. And unlike typical math questions it still doesn't have a formal definition. But I still find it clear enough and quite interesting. I came to this question from a philosophy direction but the question is interesting in itself.
+The goal of this article is to promote an unsolved mathematical question. And unlike typical math question it still doesn't have a formal definition. But I still find it clear enough and quite interesting. I came to this question from a philosophy direction but the question is interesting in itself.
 
 ### Preamble
 
