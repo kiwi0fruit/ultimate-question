@@ -2,6 +2,7 @@
 
 # The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor [≡][itoc]{#intro-contents}
 
+
 Introduction contents:
 
 * [Intro pt.1](#i1)
@@ -15,7 +16,11 @@ Introduction contents:
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
 
-### NEW: [Open-endedness as Turing completeness analogue for population of self organizing algorithms](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)
+## NEW:
+
+* **[Open-endedness as Turing completeness analogue for population of self organizing algorithms](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)**
+
+* **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
 
 
 ### Intro pt.1 [≡][itoc]{#i1}
