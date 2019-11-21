@@ -19,8 +19,8 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 ## NEW:
 
 * **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
-* **[Open-endedness as Turing completeness analogue for population of self organizing algorithms](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)**
-* **[Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/answer_all_why_questions.md)**
+* **[Open-endedness as Turing completeness analogue for population of self organizing algorithms](./articles/oee.md)**
+* **[Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](./articles/answer_all_why_questions.md)**
 
 
 ### Intro pt.1 [≡][itoc]{#i1}
