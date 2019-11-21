@@ -15,7 +15,11 @@ The open-ended evolution is a not very popular research program which goal is to
 
 Just as algorithms performed by humans were formalized and property of Turing completeness was defined: the same formalization presumably can be done to the open-ended evolution observed in nature. It went from precellular organisms to unicellular organisms and finally to Homo sapiens driven by natural selection postulates (reproduction-doubling, heredity, variation-random, selection-death, individuals-and-environment/individuals-are-environment) and the Red Queen hypothesis that resulted in increasing complexity. Open-endedness property here is analogous to Turing completeness property. It could be formalized differently but it still would form an equivalence class.
 
-And the concise formulation of this process would be something like **Open-ended natural selection of interacting code-data-dual algorithms**. Please consider if it's an interesting research question and share your thoughts.
+And the concise formulation of this process would be something like **Open-ended natural selection of interacting code-data-dual algorithms**.
+
+I can guess that open-endedness may incorporate some weaker "future potency" form of Turing completeness (if assuming discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
+
+Please consider if it's an interesting research question and share your thoughts.
 
 
 ### Further info links
