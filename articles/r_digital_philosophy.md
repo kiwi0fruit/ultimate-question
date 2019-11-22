@@ -1,4 +1,4 @@
-[Digital philosophy](https://en.wikipedia.org/wiki/Digital_philosophy) is a direction in philosophy/metaphysics that relies on computer science and theory of computation. It commonly assumes discrete and finite/countable ontology.
+[Digital philosophy](https://en.wikipedia.org/wiki/Digital_philosophy) is a direction in philosophy and cosmology that relies on computer science and theory of computation. It commonly assumes discrete and finite/countable ontology.
 
 Posts about digital philosophy together with posts close in spirit (or logically connected) are welcome in this subreddit. For example the welcomed posts may be about:
 
