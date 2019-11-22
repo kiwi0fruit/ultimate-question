@@ -15,7 +15,7 @@ So the two key ideas that close philosophical questions are:
 * "They just are"
 * Abstracting into single equivalence class all differences that are left
 
-So what is left for metaphysics then? The good example of using metaphysical considerations in aide of creating of ToE is a [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin. There metaphysics ideas are used for creating a scientific theory (applied!).
+So what is left for metaphysics then? The good example of using metaphysical considerations in aid of creating of ToE is a [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin. There metaphysics ideas are used for creating a scientific theory (applied!).
 
 Metaphysics is dead, long live the Applied Metaphysics!
 
