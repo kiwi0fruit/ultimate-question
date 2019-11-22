@@ -28,3 +28,9 @@ Please consider if it's an interesting mathematical modelling problem for resear
 * [article on my (futile) efforts](https://github.com/kiwi0fruit/ultimate-question) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)
 * [predecessor of this promotion article](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)
 * [digital philosophy subreddit](https://www.reddit.com/r/DigitalPhilosophy/) (posts by kiwi0fruit)
+
+
+### Discussion
+
+* Reddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/)
+* Github: [kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2)
