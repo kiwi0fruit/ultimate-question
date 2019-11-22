@@ -52,5 +52,5 @@ I dropped seriously investing in my research not long before I discovered connec
 
 ## 5. Discussion
 
-* Reddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dygeti/openendedness_as_turing_completeness_analogue_for/)
+* Reddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/)
 * Github: [kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question/issues/2)
