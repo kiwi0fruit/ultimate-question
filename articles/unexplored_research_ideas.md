@@ -15,4 +15,10 @@
 Some details: https://www.reddit.com/r/DigitalPhilosophy/comments/9lyeft/is_boundederror_quantum_polynomial_time_bqp_class/
 
 
-### ...
+### Self-reference as a key to OEE?
+
+* [ ] Inspect [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://www.reddit.com/r/DigitalPhilosophy/comments/dy1sgh/selfreferential_basis_of_undecidable_dynamics/)
+
+
+### xxx
+
