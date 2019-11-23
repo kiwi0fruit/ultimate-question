@@ -20,5 +20,7 @@ Some details: https://www.reddit.com/r/DigitalPhilosophy/comments/9lyeft/is_boun
 * [ ] Inspect [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://www.reddit.com/r/DigitalPhilosophy/comments/dy1sgh/selfreferential_basis_of_undecidable_dynamics/)
 
 
-### xxx
+### Discrete energy flow as a base for space and time -> hierarchy of energy levels
+
+Base level can convert only a small amount of energy to small chunks of space (I don't know what this nonsense means). The next level can combine chunks from the previous level and hence get access to higher total energies (and more complex space structures).
 
