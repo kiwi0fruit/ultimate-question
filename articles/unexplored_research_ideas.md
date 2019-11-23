@@ -12,7 +12,7 @@
 
 * [ ] PHYS771 Lecture 9: Quantum (by Scott Aaronson): https://www.scottaaronson.com/democritus/lec9.html
 
-Some details: https://www.reddit.com/r/DigitalPhilosophy/comments/9lyeft/is_boundederror_quantum_polynomial_time_bqp_class/
+[more details](https://www.reddit.com/r/DigitalPhilosophy/comments/9lyeft/is_boundederror_quantum_polynomial_time_bqp_class/)
 
 
 ### Self-reference as a key to OEE?
