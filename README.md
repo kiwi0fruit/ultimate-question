@@ -1,5 +1,14 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
+## NEW:
+
+* **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)**
+* **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
+* **[Metaphysics is dead, long live the Applied Metaphysics! (on closing philosophical questions)](./articles/metaphysics_is_dead.md)**
+* **[Open-endedness as Turing completeness analogue for population of self organizing algorithms](./articles/oee.md)**
+* **[Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](./articles/answer_all_why_questions.md)**
+
+
 # The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor [≡][itoc]{#intro-contents}
 
 
@@ -14,15 +23,6 @@ Introduction contents:
 * [Appendix: contents of the previous article on the topic][toc]
 
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
-
-
-## NEW:
-
-* **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)**
-* **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
-* **[Metaphysics is dead, long live the Applied Metaphysics! (on closing philosophical questions)](./articles/metaphysics_is_dead.md)**
-* **[Open-endedness as Turing completeness analogue for population of self organizing algorithms](./articles/oee.md)**
-* **[Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](./articles/answer_all_why_questions.md)**
 
 
 ### Intro pt.1 [≡][itoc]{#i1}
