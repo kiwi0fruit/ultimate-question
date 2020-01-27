@@ -27,6 +27,8 @@ _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](h
 
 ### Intro pt.1 [≡][itoc]{#i1}
 
+_**UPD**: It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article._
+
 Greetings,
 
 I seek advice or any other help available regarding creating a specific mathematical model. It’s origin is at the intersection of the following areas:
