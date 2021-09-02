@@ -8,7 +8,7 @@ The goal of this article is to promote an unsolved mathematical modelling proble
 
 The notion of Turing completeness is a formalization of computability and algorithms (that previously were performed by humans and DNA). There are different formalizations (incl. Turing machine, μ-recursive functions and λ-calculus) but they all share the Turing completeness property and can perform equivalent algorithms. Thus they form an equivalence class.
 
-The open-ended evolution is a not very popular research program which goal is to build an artificial life model with natural selection which evolution doesn't stop on some level of complexity but can progress further (ultimately to the intelligent agents after some enormous simulation time). I'm not aware of the state of the progress of open-endedness criteria formulation but I'm almost sure that it's still doesn't exist: as it's either connected to results of a successful simulation or to actually understanding and confirming what is required for open-endedness (I haven't heard of either).
+The open-ended evolution (OEE) is a not very popular research program which goal is to build an artificial life model with natural selection which evolution doesn't stop on some level of complexity but can progress further (ultimately to the intelligent agents after some enormous simulation time). I'm not aware of the state of the progress of open-endedness criteria formulation but I'm almost sure that it's still doesn't exist: as it's either connected to results of a successful simulation or to actually understanding and confirming what is required for open-endedness (I haven't heard of either).
 
 
 ### The modelling problem
@@ -20,6 +20,11 @@ And the concise formulation of this process would be something like **Open-ended
 Code-data duality is needed for algorithms being able to modify each other or even themselves. I can guess that open-endedness may incorporate some weaker "future potency" form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
 
 Please consider if it's an interesting mathematical modelling problem for research and share your thoughts.
+
+
+### PS
+
+My contribution to OEE research program comes from philosophy direction. The minimal model with *Open-ended natural selection of interacting code-data-dual algorithms* (or an equivalence class of minimal models) is a quite good canditate for a model of the Universe on the deepest level - as models with OEE are models of novelty emegrence. If so then we can investigate very simple models for being suitable to contain OEE - as it's philosophically intuitive for a deepest level of the Universe to be relatively simple with even space and most of the laws of nature being emergent (formed as a result of [natural selection for a very long time](https://en.wikipedia.org/wiki/Cosmological_natural_selection)). We can even assume beginning of the Universe from a very simple (may be even singular) state that with time became more complex via dynamic with Natural Selection postulates (reproduction, heredity, variation aka random, selection aka death, individuals and/are environment). Novelty and complication of structure comes from random-variation influensing heredity laws (code-data-dual algorithms reproducing and partially randomly modifying each other). Hence simple and ontologically basic models seem to be promising investigation direction for OEE research program.
 
 
 ### Further info links
