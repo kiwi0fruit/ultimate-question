@@ -24,8 +24,8 @@ Please consider if it's an interesting mathematical modelling problem for resear
 
 ### Further info links
 
+* [article on my (futile) efforts to solve this problem](https://github.com/kiwi0fruit/ultimate-question) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) (lots of comments)
 * [open-ended evolution subreddit](https://www.reddit.com/r/oee/)
-* [article on my (futile) efforts](https://github.com/kiwi0fruit/ultimate-question) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)
 * [predecessor of this promotion article](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oee.md)
 * [digital philosophy subreddit](https://www.reddit.com/r/DigitalPhilosophy/) (posts by kiwi0fruit)
 
