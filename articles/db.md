@@ -1,3 +1,42 @@
+# DB
+
+Contents:
+
+* [Meaning of the meaning](#meaning-of-the-meaning)
+* [Science-compatible Cosmogonic myth](#science-compatible-cosmogonic-myth)
+  * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
+
+
+# Meaning of the meaning
+
+Looking ahead, I will say that this article will define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
+
+But first, let's start from afar. In the common sense way there are two notions of the word "meaning". First meaning of the object/subject (x-bject) comes from their place in the grander system - which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future - that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
+
+
+# Science-compatible Cosmogonic myth
+
+## Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
+
+Remembering these two notions of "meaning " let's put them in the perspective of the cosmogonic myth that is compatible with modern science.
+
+In mathematics there is a notion of [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness) (TC) that is a property of languages that describe algorithms. Simply put TC means that all fully understood data-manipulation algorithms and formal actions can be expressed via TC language. There can be many such languages, but for all of them mathematicians prove equivalence in the ability to execute the same algorithms.
+
+Evolution and [natural selection](https://en.wikipedia.org/wiki/Natural_selection) (NS) are, albeit incomplete, but models for the generation, accumulation and preserving of innovations and the complication of the structure of agents (called individuals) in competition. This all is happens with access to energy batteries. NS explains the entire path traversed by the life from the first unicellular organisms to Homo sapiens. And they differ much in complexity accumulated novelty.
+
+By analogy with Turing complete languages for describing algorithms, it can be assumed that it is possible to build dynamic models in which natural selection takes place. And more, let's assume that it's possible to build models in which natural selection does not stop at some fixed level of complexity of individuals, but leads to their further complication and, after an enormous simulation time, leads to the emergence of intelligent agents. Such models are called [Open ended evolution](https://www.reddit.com/r/oee/) (OEE) models. Presumably they are also [Autoconstructive](https://en.wikipedia.org/wiki/Autoconstructive_evolution).
+
+After any OEE model would be built we can do the same as we did with Turing completeness (TC) and prove equivalence of other OEE models to the first one. One can even optimistically expect the identification of a class of models whose dynamics of events probabilities can be reduced to each other. Hence we would extract invariant events dynamics. It can even be expected that individuals in the OEE models would be able to perform TC algorithms in the infinite time limit.
+
+If we remember that OEE models, if discovered, would be models of the novelty emergence then it would be natural to believe-assume that the entire universe itself is also described by this invariant OEE dynamics that can be called the simples OEE model. An endless process of survival and accumulation of novelty. This view is consistent with Lee Smolin's [Cosmological natural selection](https://en.wikipedia.org/wiki/Cosmological_natural_selection).
+
+Now let's talk about properties of OEE model applied to the entire universe. As it's a model of novelty emergence and accumulation then we can safely expect that at the basic level it contains only what is necessary. And everything else, for example, the topology of space and a decent part of the known laws of physics appeared as a result of natural selection.
+
+Hence, it's a relatively simple model that generates complex structures. This assumption may even facilitate the discovery of the first OEE model (or may not). But I digress. Within the framework of the cosmogonic myth, we will simply believe that the universe is described by such simplest OEE model.
+
+
+# Section X
+
 > “All right,” said Ford, “forget that. I mean… I mean, look, do you know—do you know how the Universe actually began for a kick off?”
 > 
 > “Probably not,” said Arthur, who wished he’d never embarked on any of this.
