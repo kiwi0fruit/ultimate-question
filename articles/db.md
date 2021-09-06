@@ -1,6 +1,6 @@
 # DB
 
-<img src="./db.png" alt="dxb" width="150"> (dxb).
+<img src="./db.png" alt="dxb" width="100"> - dxb
 
 Contents:
 
