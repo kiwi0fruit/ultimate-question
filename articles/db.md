@@ -14,15 +14,11 @@
 > 
 > “All right.”
 > 
-> “You get this bath, see? Imagine you’ve got this bath. And it’s ebony.
-> 
-> And it’s conical.”
+> “You get this bath, see? Imagine you’ve got this bath. And it’s ebony. And it’s conical.”
 > 
 > “Conical?” said Arthur. “What sort of…”
 > 
-> “Shhh!” said Ford. “It’s conical. So what you do is, you see, you fill it with fine white sand, all right? Or sugar. Fine white sand, and/or sugar.
-> 
-> Anything. Doesn’t matter. Sugar’s fine. And when it’s full, you pull the plug out… are you listening?”
+> “Shhh!” said Ford. “It’s conical. So what you do is, you see, you fill it with fine white sand, all right? Or sugar. Fine white sand, and/or sugar. Anything. Doesn’t matter. Sugar’s fine. And when it’s full, you pull the plug out… are you listening?”
 > 
 > “I’m listening.”
 > 
@@ -30,15 +26,11 @@
 > 
 > “I see.”
 > 
-> “You don’t see. You don’t see at all. I haven’t got to the clever bit yet.
-> 
-> You want to hear the clever bit?”
+> “You don’t see. You don’t see at all. I haven’t got to the clever bit yet. You want to hear the clever bit?”
 > 
 > “Tell me the clever bit.”
 > 
-> “I’ll tell you the clever bit.”
-> 
-> Ford thought for a moment, trying to remember what the clever bit was.”
+> “I’ll tell you the clever bit.” Ford thought for a moment, trying to remember what the clever bit was.”
 > 
 > “The clever bit,” he said, “is this. You film it happening.”
 > 
