@@ -18,7 +18,7 @@ But first, let's start from afar. In the common sense way there are two notions 
 
 ## Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
 
-Remembering these two notions of "meaning " let's put them in the perspective of the cosmogonic myth that is compatible with modern science.
+Remembering two mentioned notions of "meaning" let's put them in the perspective of the cosmogonic myth that is compatible with modern science.
 
 In mathematics there is a notion of [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness) (TC) that is a property of languages that describe algorithms. Simply put TC means that all fully understood data-manipulation algorithms and formal actions can be expressed via TC language. There can be many such languages, but for all of them mathematicians prove equivalence in the ability to execute the same algorithms.
 
