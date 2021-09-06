@@ -1,6 +1,7 @@
 # DB
 
-<img src="./db.png" alt="dxb" width="100"> - dxb
+dxb symbol:  
+<img src="./db.png" alt="dxb" height="60px">
 
 Contents:
 
