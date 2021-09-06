@@ -35,6 +35,11 @@ Now let's talk about properties of OEE model applied to the entire universe. As 
 Hence, it's a relatively simple model that generates complex structures. This assumption may even facilitate the discovery of the first OEE model (or may not). But I digress. Within the framework of the cosmogonic myth, we will simply believe that the universe is described by such simplest OEE model.
 
 
+## My contribution to the Open ended evolution research program 
+
+My contribution to OEE research programcomes from philosophy direction. The minimal model with *Open-ended natural selection of interacting code-data-dual algorithms* (or an equivalence class of minimal models) is a quite good canditate for a model of the Universe on the deepest level - as models with OEE are models of novelty emegrence. If so then we can investigate very simple models for being suitable to contain OEE - as it's philosophically intuitive for a deepest level of the Universe to be relatively simple with even space and most of the laws of nature being emergent (formed as a result of [natural selection for a very long time](https://en.wikipedia.org/wiki/Cosmological_natural_selection)). We can even assume beginning of the Universe from a very simple (may be even singular) state that with time became more complex via dynamic with Natural Selection postulates: reproduction, heredity, variation aka random, selection aka death, individuals and (are?) environment. Novelty and complication of structure comes from random-variation influensing heredity laws (code-data-dual algorithms reproducing and partially randomly modifying each other). Hence simple and ontologically basic models seem to be promising investigation direction for OEE research program (and may make it easier to solve).
+
+
 # Section X
 
 > “All right,” said Ford, “forget that. I mean… I mean, look, do you know—do you know how the Universe actually began for a kick off?”
