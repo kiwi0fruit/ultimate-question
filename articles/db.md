@@ -48,7 +48,7 @@ Let's note what properties of the OEE model can be confidently assumed. Obviousl
 
 As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain).
 
-Finally, I would like to point out that it can be helpful to think of the simplest OEE model on the base level as interacting code-data-dual algorithms. This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution).
+Finally, I would like to point out that it can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual algorithms](https://en.wikipedia.org/wiki/Code_as_data). This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution).
 
 
 ## My contribution to the Open ended evolution research program
