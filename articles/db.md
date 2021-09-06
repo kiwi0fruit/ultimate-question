@@ -41,7 +41,7 @@ Now let's talk about properties of OEE model applied to the entire universe. As 
 
 Hence, it's a relatively simple model that generates complex structures. This assumption may even facilitate the discovery of the first OEE model (or may not). But I digress. Within the framework of the cosmogonic myth, we will simply believe that the universe is described by such simplest OEE model.
 
-Let's note what properties of the OEE model can be confidently assumed. Obviously it obeys the postulates of the natural selection: individuals and (are?) environment aka ontology, reproduction aka doubling, heredity, variation aka random, selection aka death. In more details:
+Let's note what properties of the OEE model can be confidently assumed. Obviously it obeys the postulates of the natural selection: individuals and (are?) environment (aka ontology), reproduction (aka doubling), heredity, variation (aka random), selection (aka death). In more details:
 
 * Population of individuals and (are?) the environment. The individuals themselves are part of the environment for other individuals.
 * Reproduction: each individual has a potential to reproduce itself. At least it has a potential to double the number of approximate copies of itself.
