@@ -1,5 +1,7 @@
 # DB
 
+<img src="./db.png" alt="db" width="150">
+
 Contents:
 
 * [Meaning of the meaning](#meaning-of-the-meaning)
