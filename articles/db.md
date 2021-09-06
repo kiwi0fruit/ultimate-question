@@ -81,10 +81,10 @@ But what is the philosophical justification for The Ultimate Theory? How can it 
 So the key ideas are:
 
 * “They just are”,
-* The more probable is better,
+* The one where our Universe is more probable is better,
 * The one with fewer assumptions is better,
-* Abstracting into single equivalence class (“Gauging away”) all differences that are left (exсept for events probabilities).
-* Hoping that there are no events probabilities differnces after “Gauging away”.
+* Abstracting into single equivalence class (“Gauging away”) all differences that are left (exсept for “real” events probabilities).
+* Hoping that there are no “real” events probabilities differnces after “Gauging away”.
 
 
 ## My contribution to the Open ended evolution research program
