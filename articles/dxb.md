@@ -87,6 +87,8 @@ So the key ideas about theories are:
 * Hoping that there are no “real” events probabilities differences after “Gauging away”,
 * Differences that are left — “They just are”.
 
+This way of using metaphysical considerations is like in [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin where metaphysics ideas are used for creating a scientific theory (are applied).
+
 
 ## My contribution to the Open ended evolution research program
 
