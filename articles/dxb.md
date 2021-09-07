@@ -49,9 +49,13 @@ Let's note what properties of the OEE model can be confidently assumed. Obviousl
 * Variation: when the individual reproduces itself, the reproduction does not occur precisely but with changes that are partly random/spontaneous (under a given set of postulates).
 * Natural selection: the individuals that are more adapted to the environment survive more often.
 
-As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain). Also the [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) can be useful to explain why complexity is increasing in Natural selection.
+Some useful notes:
 
-Finally, I would like to point out that it can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual algorithms](https://en.wikipedia.org/wiki/Code_as_data). This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution). Code-data duality is needed for algorithms being able to modify each other or even themselves. I can also guess that open-endedness may incorporate some weaker “future potency” form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
+* As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain).
+* The [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) can be useful to explain why complexity is increasing in Natural selection.
+* Natural selection postulates require “variation” that need random events. If we are to apply Occam's Razor then that random events just are and do not have a cause (the flip of a coin has a reason but whether it's heads or tails doesn't have a reason). Hence OEE models are [indeterministic](https://en.wikipedia.org/wiki/Indeterminism) by construction.
+* It can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual algorithms](https://en.wikipedia.org/wiki/Code_as_data). This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution). Code-data duality is needed for algorithms being able to modify each other or even themselves.
+* I guess that open-endedness may incorporate some weaker “future potency” form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
 
 
 ## Epistemological point of view on the Cosmogonic myth
