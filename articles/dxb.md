@@ -117,6 +117,28 @@ There are two main intuitions: 1) the start from the simple enough state (the be
 
 # Section X
 
+In this section, I move from the rather philosophically sound cosmogonic assumptions of the previous sections to intuitive speculations. And that's good as it allows to paint a much more interesting picture.
+
+Let's speculate how an open-ended evolution model applied to the beginning of the artificial universe can look like. First let's reiterate points from previous sections with additional specualtions:
+
+* individuals and environment / individuals are environment (aka ontology). **Either**: the individuals are the environment for other individuals - there is nothing except individuals. At the beginning of the Universe there were only one or two individuals. **Or**: there's environment of which individuals are built (and environment may not be governed by natural selection postulates).
+* reproduction (aka doubling),
+* heredity,
+* variation (aka random),
+* selection (aka death),
+* gradual changes during natural selection,
+* natural selection open-endedness,
+* *may be* code-data duality,
+* Red Queen hypothesis is at play: “Now, **here**, you see, it takes all the running you can do, to keep in the same place.”,
+* “future potency” form of Turing completeness. During natural selection complex emergent individuals performing algorithms can appear. Presumably *complex algorithms require a lot of space and time* so they are made up from many basic individuals.
+* *We can add some more considerations from Occam's razor point of view*:
+* time is **discrete** and **[countable infinite](https://en.wikipedia.org/wiki/Countable_set)**,
+* there was the **first moment** of existence,
+* space is **discrete** and **finite**. We can try starting thinking about it with a graph-like structure with individuals of natural selection as nodes - graph is the simplest space possible. Nodes of the graph can somehow atomically act on the neighbor nodes.
+  * BUT. The discrete ontology might not be enough to express our current universe. See [discussion](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/) for “*Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?*”. More details are in [this section](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough). That is, we may have to use the fundamental real continuity. But it's desirable to avoid this as the real continuity [implicitly contains infinite chains of random discrete events](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_(%D0%B8%D0%BD%D1%82%D1%83%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC)) (that are better to define explicitly).
+
+That was the boring part of the picture.
+
 > “All right,” said Ford, “forget that. I mean… I mean, look, do you know—do you know how the Universe actually began for a kick off?”
 > 
 > “Probably not,” said Arthur, who wished he’d never embarked on any of this.
