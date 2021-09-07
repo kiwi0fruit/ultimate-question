@@ -94,6 +94,8 @@ So the key ideas about theories are:
 
 This way of using metaphysical considerations is like in [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin where metaphysics ideas are used for creating a scientific theory (are applied).
 
+See my previous research on this topic [here](https://github.com/kiwi0fruit/ultimate-question).
+
 
 ## My contribution to the Open ended evolution research program
 
