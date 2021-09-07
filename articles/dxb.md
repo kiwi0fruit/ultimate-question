@@ -22,7 +22,7 @@ But first, let's start from afar. In the common sense way there are two notions 
 
 # Science-compatible Cosmogonic myth
 
-Remembering two mentioned notions of "meaning" let's put them in the perspective of the cosmogonic myth that is compatible with modern science.
+Remembering two mentioned notions of “meaning” let's put them in the perspective of the cosmogonic myth that is compatible with modern science.
 
 ## Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
 
@@ -53,7 +53,7 @@ Let's note what properties of the OEE model can be confidently assumed. Obviousl
 Some useful notes:
 
 * As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain).
-* The [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) can be useful to explain why complexity is increasing in Natural selection.
+* The [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) can be useful to explain why complexity is increasing in Natural selection: “Now, **here**, you see, it takes all the running you can do, to keep in the same place.”,
 * Natural selection postulates require “variation” that need random events. If we are to apply Occam's Razor then that random events just are and do not have a cause (the flip of a coin has a reason but whether it's heads or tails doesn't have a reason). Hence OEE models are [indeterministic](https://en.wikipedia.org/wiki/Indeterminism) by construction.
 * It can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual](https://en.wikipedia.org/wiki/Code_as_data) algorithms. This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution). Code-data duality is needed for algorithms being able to modify each other or even themselves.
 * I guess that open-endedness may incorporate some weaker “future potency” form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
