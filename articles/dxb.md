@@ -70,6 +70,8 @@ It states that our understanding of anything is limited to expected experimental
 
 I'm sure that past events and “virtual” events that are described by the theory also form our understanding of the universe. We should not deny them realism. The problem is that we are not completly sure that the theory really describes events of the past. There can be many different theories that make the same predictions of the experimental results but differ in descriptions of the past and "virtual" events. One or them is the real one that corresponds to the history of the universe.
 
+First way to judge such theories is to only use stochastic theories that generate evolution histories. This way we could range them by probability to obtain our universe in one of the histories. The one where our Universe is more probable is better. But this still leaves too many free parameters to finetune.
+
 [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) is good enough arbiter: “*when presented with competing hypotheses about the same prediction, one should select the solution with the fewest assumptions*”. But we are still not sure about it completely. In local theories, it would be nice to have the probability distributions of hypotheses (which require the assumption of more or less probable events). But for the choice of theories of evolution of the entire universe, this will not be available. So all that remains is to use Occam's Razor.
 
 Now that we have some context on how to define understanding let's return to the Cosmogonic myth that answers ancient philosophical questions.
