@@ -136,6 +136,8 @@ Let's speculate how an open-ended evolution model applied to the beginning of th
 * there was the **first moment** of existence,
 * space is **discrete** and **finite**. We can try starting thinking about it with a graph-like structure with individuals of natural selection as nodes - graph is the simplest space possible. Nodes of the graph can somehow atomically act on the neighbor nodes.
   * BUT. The discrete ontology might not be enough to express our current universe. See [discussion](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/) for “*Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?*”. More details are in [this section](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough). That is, we may have to use the fundamental real continuity. But it's desirable to avoid this as the real continuity [implicitly contains infinite chains of random discrete events](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_(%D0%B8%D0%BD%D1%82%D1%83%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC)) (that are better to define explicitly).
+* if we use analogue with biological life then we can assume something like living in the stream of energy using the difference in entropy (so **stream-like behavior** can be put to the model).
+* if there's nothing except individuals (no environment) then maybe node-like individuals can not only come to existence but also die and disappear.
 
 That was the boring part of the picture.
 
