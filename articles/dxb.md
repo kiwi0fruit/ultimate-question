@@ -104,7 +104,7 @@ Other possible research directions:
 
 * [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://arxiv.org/abs/1711.02456),
 * The discrete ontology might not be enough to express our current universe. See [discussion](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/) for “*Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?*”:
-  > What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time (BQP) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory? By discrete I meant countable.
+  > What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time ([BQP](https://en.wikipedia.org/wiki/BQP)) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory? By discrete I meant countable.
 
 
 # Section X
