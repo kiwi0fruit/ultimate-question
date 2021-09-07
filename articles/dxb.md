@@ -100,6 +100,12 @@ This way of using metaphysical considerations is like in [Temporal naturalism](h
 
 My contribution to Open ended evolution (OEE) research program comes from philosophy direction. The minimal model with *Open-ended natural selection of interacting code-data-dual algorithms* (or an equivalence class of minimal models) is a quite good canditate for a model of the Universe on the deepest level — as models with OEE are models of novelty emegrence. If so then we can investigate very simple models for being suitable to contain OEE - as it's philosophically intuitive for a deepest level of the Universe to be relatively simple with even space and most of the laws of nature being emergent (formed as a result of [natural selection for a very long time](https://en.wikipedia.org/wiki/Cosmological_natural_selection)). We can even assume beginning of the Universe from a very simple (may be even singular) state that with time became more complex via dynamic with Natural Selection postulates. Novelty and complication of structure comes from random-variation influensing heredity laws (code-data-dual algorithms reproducing and partially randomly modifying each other). Hence simple and ontologically basic models seem to be promising investigation direction for OEE research program (and may make it easier to solve).
 
+Other possible research directions:
+
+* [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://arxiv.org/abs/1711.02456),
+* The discrete ontology might not be enough to express our current universe. See [discussion](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/) for “*Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?*”:
+  > What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time (BQP) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory? By discrete I meant countable.
+
 
 # Section X
 
