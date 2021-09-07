@@ -66,7 +66,7 @@ But what justification can the aforementioned Cosmogonic myth have? Let's start 
 
 ([Charles Sanders Peirce, 1902-1905](https://en.wikipedia.org/wiki/Pragmatic_maxim))
 
-It states that our understanding of anything is limited to expected experimental results of actions (“practical consequences”). But certainly we can do better and also obtain understanding about the past events or “virtual” events that precede results of actions-experiments. Good way for this is to extend pragmatic maxim with [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability). It states that all useful theories should have precise predictions about experimental results of actions. And such predictions should be possible to refute in the experiment. A useful theory would "survive" all such attempts to refute it. A useless theory won't provide experiments to refute it. 
+It states that our understanding of anything is limited to expected experimental results of actions (“practical consequences”). But certainly we can do better and also obtain understanding about the past events or “virtual” events that precede results of actions-experiments. Good way for this is to extend pragmatic maxim with [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability). It states that all useful theories should have precise predictions about experimental results of actions. And such predictions should be possible to refute in the experiment. A useful theory would “survive” all such attempts to refute it. A useless theory won't provide experiments to refute it. 
 
 I'm sure that past events and “virtual” events that are described by the theory also form our understanding of the universe. We should not deny them realism. The problem is that we are not completly sure that the theory really describes events of the past. There can be many different theories that make the same predictions of the experimental results but differ in descriptions of the past and "virtual" events. One or them is the real one that corresponds to the history of the universe.
 
@@ -78,13 +78,14 @@ Ancient metaphysical question **“[Why is there something rather than nothing?]
 
 But what is the philosophical justification for The Ultimate Theory? How can it even claim to answer all **“Why these structures exist instead of other structures?”** questions? Let's assume that we have a theory that can answer all questions about reality. Such answers would either be postulates of the model or conclusions from the postulates. Conclusions part is obvious - that's exactly the meaning of "answering". But what about postulates? Why are they the way they are? And the obvious answer is **“They just are”** - we should start from something after all. If the theory is capable of answering all those questions then it's enough. That's our best idea about TUT. What if there would be another TUT? The one in which our Universe is more probable is better (assuming that they are equal in other aforementioned regards). If we would have several theories with equal probability of our Universe then the one with fewer assumptions is better. And if there are several simplest models we can only hope that they would constitute an equivalence class with isomorphic events probabilities (if events probs. are not isomorphic then this line of thought should be revised). And the objective part is abstracted this way. Like the notion of computability is abstracted in Turing completeness property or [Gauge invariance](https://physics.stackexchange.com/questions/266992/what-in-simplest-terms-is-gauge-invariance/267044#267044) to some constant (“Gauging away” as Lee Smolin called it).
 
-So the key ideas are:
+So the key ideas about theories are:
 
-* “They just are”,
+* The one which “survived” as much experimental attempts to refute it as possible is better,
 * The one where our Universe is more probable is better,
 * The one with fewer assumptions is better,
-* Abstracting into single equivalence class (“Gauging away”) all differences that are left (exсept for “real” events probabilities).
-* Hoping that there are no “real” events probabilities differnces after “Gauging away”.
+* Abstracting into single equivalence class (“Gauging away”) all differences that are left (exсept for “real” events probabilities),
+* Hoping that there are no “real” events probabilities differnces after “Gauging away”,
+* Differences that are left - “They just are”.
 
 
 ## My contribution to the Open ended evolution research program
