@@ -16,7 +16,7 @@ Contents:
 
 Looking ahead, I will say that this article will define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
 
-But first, let's start from afar. In the common sense way there are two notions of the word "meaning". First meaning of the object/subject (x-bject) comes from their place in the grander system - which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future - that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
+But first, let's start from afar. In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system - which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future - that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
 
 
 # Science-compatible Cosmogonic myth
@@ -51,7 +51,7 @@ Let's note what properties of the OEE model can be confidently assumed. Obviousl
 
 As noted by Karl Popper the theory of evolution is a theory of **gradual changes** that does not permit spontaneous appearance of monsters such as [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain). Also the [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis) can be useful to explain why complexity is increasing in Natural selection.
 
-Finally, I would like to point out that it can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual algorithms](https://en.wikipedia.org/wiki/Code_as_data). This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution).
+Finally, I would like to point out that it can be helpful to think of the simplest OEE model on the base level as interacting [code-data-dual algorithms](https://en.wikipedia.org/wiki/Code_as_data). This is in line with [Autoconstructive evolution](https://en.wikipedia.org/wiki/Autoconstructive_evolution). Code-data duality is needed for algorithms being able to modify each other or even themselves. I can also guess that open-endedness may incorporate some weaker “future potency” form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
 
 
 ## Epistemological point of view on the Cosmogonic myth
