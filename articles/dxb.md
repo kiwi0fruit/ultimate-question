@@ -84,7 +84,7 @@ So the key ideas about theories are:
 * The one where our Universe is more probable is better,
 * The one with fewer assumptions is better,
 * Abstracting into single equivalence class (“Gauging away”) all differences that are left (exсept for “real” events probabilities),
-* Hoping that there are no “real” events probabilities differnces after “Gauging away”,
+* Hoping that there are no “real” events probabilities differences after “Gauging away”,
 * Differences that are left - “They just are”.
 
 
