@@ -6,7 +6,7 @@ dxb symbol:
 Contents:
 
 * [Meaning of the meaning](#meaning-of-the-meaning)
-* [Сosmogonic myth of Darwinian natural selection](#cosmogonic-myth-of-darwinian-natural-selection)
+* [Cosmogonic myth of Darwinian natural selection](#cosmogonic-myth-of-darwinian-natural-selection)
   * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
   * [Epistemological point of view on the Cosmogonic myth](#epistemological-point-of-view-on-the-cosmogonic-myth)
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
@@ -20,7 +20,7 @@ Looking ahead, I will say that this article will define objective part of the me
 But first, let's start from afar. In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system — which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future — that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
 
 
-# Сosmogonic myth of Darwinian natural selection
+# Cosmogonic myth of Darwinian natural selection
 
 Remembering two mentioned notions of “meaning” let's put them in the perspective of the cosmogonic myth of the universe.
 
