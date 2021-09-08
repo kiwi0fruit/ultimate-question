@@ -140,6 +140,10 @@ Let's speculate how an open-ended evolution model applied to the beginning of th
 
 That was the boring part of the picture.
 
+If we continue the line of thinking with flows of energy, then where does the flow of energy come from? This is the first question. There is also a second one: if we use biological life as inspiration for our model then **what is the inanimate matter** of our universe in this model? For biological life the inanimate matter is only an environment. And if we have only individuals in the model then why the inanimate matter in our universe is so stable? After all, in the biological life there is always the threat of cancer that is an error in the reproduction algorithm. Why some elemental particles never ever “mutate”?
+
+----
+
 > “All right,” said Ford, “forget that. I mean… I mean, look, do you know—do you know how the Universe actually began for a kick off?”
 > 
 > “Probably not,” said Arthur, who wished he’d never embarked on any of this.
