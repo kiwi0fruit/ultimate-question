@@ -2,6 +2,7 @@
 
 dxb symbol:  
 <img src="./db.png" alt="dxb" height="60px">
+<img src="./dxb.png" alt="dxb" height="60px">
 
 Contents:
 
