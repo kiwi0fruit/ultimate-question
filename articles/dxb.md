@@ -1,4 +1,5 @@
-# DB
+DB
+======
 
 dxb symbol:  
 <img src="./dxb.png" alt="dxb" height="60px">
@@ -13,18 +14,21 @@ Contents:
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
 
 
-# Meaning of the meaning
+Meaning of the meaning
+======================
 
 Looking ahead, I will say that this article will define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
 
 But first, let's start from afar. In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system — which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future — that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
 
 
-# Cosmogonic myth of Darwinian natural selection
+Cosmogonic myth of Darwinian natural selection
+==============================================
 
 Remembering two mentioned notions of “meaning” let's put them in the perspective of the cosmogonic myth of the universe.
 
-## Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
+Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
+--------------------------------------------------------------------------------------------------------------------
 
 *This section contains the core hypothesis of the Cosmogonic myth.*
 
@@ -59,7 +63,8 @@ Some useful notes:
 * I guess that open-endedness may incorporate some weaker “future potency” form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
 
 
-## Epistemological point of view on the Cosmogonic myth
+Epistemological point of view on the Cosmogonic myth
+----------------------------------------------------
 
 *This section contains some philosophy heavy commentary to the core hypothesis of the Cosmogonic myth. Can be skipped.*
 
@@ -97,7 +102,8 @@ This way of using metaphysical considerations is like in [Temporal naturalism](h
 *See my previous research on this topic [here](https://github.com/kiwi0fruit/ultimate-question).*
 
 
-## My contribution to the Open ended evolution research program
+My contribution to the Open ended evolution research program
+------------------------------------------------------------
 
 *This section reiterates and emphasizes my idea on how to search for OEE model. Can be skipped.*
 
@@ -106,7 +112,8 @@ My contribution to Open ended evolution (OEE) research program comes from philos
 There are two main intuitions: 1) the start from the simple enough state (the beginning of time), 2) the complexity capable of producing sentient beings (after enormous simulation time of course) comes from natural selection. The two intuitions give hope that **the model to build would be simple and obvious in retrospect** like postulates of natural selection are simple and obvious in **retrospect** (they are obvious, but until Darwin formulated them it was really hard to assume them). So there is a hope that **it's feasible task**.
 
 
-## Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough
+Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough
+----------------------------------------------------------------------------------------------------------
 
 *This section lists my other guesses on how to search for OEE model. Can be skipped.*
 
@@ -115,7 +122,8 @@ There are two main intuitions: 1) the start from the simple enough state (the be
   > What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time ([BQP](https://en.wikipedia.org/wiki/BQP)) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory? By discrete I meant countable.
 
 
-# Section X
+Section X
+====================================
 
 In this section, I move from the rather philosophically sound cosmogonic assumptions of the previous sections to intuitive speculations. And that's good as it allows to paint a much more interesting picture.
 
