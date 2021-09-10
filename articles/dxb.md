@@ -94,9 +94,9 @@ So the key ideas about theories are:
 * The one which “survived” as much experimental attempts to refute it as possible is better,
 * The one where our Universe is more probable is better,
 * The one with fewer assumptions is better,
-* Abstracting into single equivalence class (“Gauging away”) all differences that are left (except for “real” events probabilities),
+* Abstracting into single equivalence class (“Gauging away”) all differences amoung equal models that are left (except for “real” events probabilities),
 * Hoping that there are no “real” events probabilities differences after “Gauging away”,
-* Differences that are left — “They just are”.
+* All that is left — “They just are”.
 
 This way of using metaphysical considerations is like in [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin where metaphysics ideas are used for creating a scientific theory (are applied).
 
