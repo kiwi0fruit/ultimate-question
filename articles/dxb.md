@@ -25,7 +25,8 @@ But first, let's start from afar. In the common sense way there are two notions 
 Cosmogonic myth of Darwinian natural selection
 ==============================================
 
-Remembering two mentioned notions of “meaning” let's put them in the perspective of the cosmogonic myth of the universe.
+Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
+
 
 Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
 --------------------------------------------------------------------------------------------------------------------
