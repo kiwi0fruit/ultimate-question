@@ -1,11 +1,11 @@
-DB
-======
+Origin: Darwin-Buddhism on objective meaning of life separated from subjective meaning of life (dxb: Сosmogonic myth of Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)
+=======================================================
 
-dxb symbol:  
 <img src="./dxb.png" alt="dxb" height="40px">
 
 Contents:
 
+* [Introduction to Darwin-Buddhism](#introduction-to-darwin-buddhism)
 * [Meaning of the meaning](#meaning-of-the-meaning)
 * [Cosmogonic myth of Darwinian natural selection](#cosmogonic-myth-of-darwinian-natural-selection)
   * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
@@ -13,6 +13,24 @@ Contents:
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
+* [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
+* [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
+* [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#)
+
+
+Introduction to Darwin-Buddhism
+=====================================================
+
+Meaning of the Darwin Buddhism “dxb” symbol that encodes key ideas of the Darwin Buddhism:
+
+<img src="./dxb.png" alt="dxb" height="40px">
+
+* (**d**) Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
+* (**∞** infinity) Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not any self-sustaining process is a quasi-immortal entity. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
+* (**U** openness) Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
+* (**b**) Buddhism-like illusion of Self: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity (and we are actually free to choose one or several of many to be our meaning of life). Preserving Self helps to achieve this goal in most cases. But there are notable and important cases when preserving Self impedes to achieve this goal.
+
+*From all Buddhism only the illusion of Self is used in Darwin Buddhism. So Buddhist-Darwinism would be a more correct term - but that sounds worse. The name Darwin-Buddhism can also be justified because the part about illusion of Self is the most difficult to accept.*
 
 
 Meaning of the meaning
@@ -26,7 +44,9 @@ But first, let's start from afar. In the common sense way there are two notions 
 Cosmogonic myth of Darwinian natural selection
 ==============================================
 
-Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
+**d**
+
+Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
 
 
 Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
@@ -235,3 +255,27 @@ Here is such an existential picture. But do not forget that this is just a specu
 Douglas Adams. The Restaurant at the End of the Universe (The Hitch Hiker's Guide to the Galaxy #2)
 
 Now after we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvelous way”, let's move from the cosmogonic myth to the next section :)
+
+
+Quasi-immortality as a meaning of life
+======================================
+
+**∞**
+
+Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not any self-sustaining process is a quasi-immortal entity. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
+
+
+Free will as a necessity to maximize survival probability
+=========================================================
+
+**U**
+
+Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
+
+
+Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?
+==============================================================================================
+
+**d**
+
+“Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity (and we are actually free to choose one or several of many to be our meaning of life). Preserving Self helps to achieve this goal in most cases. But there are notable and important cases when preserving Self impedes to achieve this goal.
