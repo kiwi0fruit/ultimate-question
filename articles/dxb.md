@@ -15,7 +15,7 @@ Contents:
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
-* [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#)
+* [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
 
 
 Introduction to Darwin-Buddhism
