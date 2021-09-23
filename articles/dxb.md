@@ -12,7 +12,7 @@ Contents:
   * [Epistemological point of view on the Cosmogonic myth](#epistemological-point-of-view-on-the-cosmogonic-myth)
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
-  * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#)
+  * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
 
 
 Meaning of the meaning
