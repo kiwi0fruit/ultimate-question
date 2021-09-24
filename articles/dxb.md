@@ -6,7 +6,6 @@ Origin: Darwin-Buddhism on objective meaning of life separated from subjective m
 Contents:
 
 * [Introduction to Darwin-Buddhism](#introduction-to-darwin-buddhism)
-* [Meaning of the meaning](#meaning-of-the-meaning)
 * [Cosmogonic myth of Darwinian natural selection (relevant for dxb)](#cosmogonic-myth-of-darwinian-natural-selection-relevant-for-dxb) 
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
@@ -33,14 +32,6 @@ Meaning of the Darwin Buddhism “dxb” symbol that encodes key ideas of the Da
 * (**b**) Buddhism-like illusion of Self: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity (and we are actually free to choose one or several of many to be our meaning of life). Preserving Self helps to achieve this goal in most cases. But there are notable and important cases when preserving Self impedes to achieve this goal.
 
 *From all Buddhism only the illusion of Self is used in Darwin Buddhism. So Buddhist-Darwinism would be a more correct term - but that sounds worse. The name Darwin-Buddhism can also be justified because the part about illusion of Self is the most difficult to accept.*
-
-
-Meaning of the meaning
-======================
-
-Looking ahead, I will say that this article will define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
-
-But first, let's start from afar. In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system — which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future — that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
 
 
 Cosmogonic myth of Darwinian natural selection (relevant for dxb)
@@ -91,7 +82,11 @@ Buddhism-like illusion of Self: Death is bad but the death of what? “Self” i
 Objective meaning of life separated from subjective meaning of life
 ===================================================================
 
-* Evolution and natural selection as a backgroud. Quasi-immortal entities survival as objective meaning of any life.
+Let's define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
+
+In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system — which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future — that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
+
+* Evolution and natural selection as a backgroud for “everything”. Quasi-immortal entities survival as objective meaning of any life.
 * Choosing particular quasi-immortal entities survival as a subjective meaning of life. It can be several of an infinite number of entities. Some entities are more fit to survive than others.
 * Goals and values that cannot be reformulated as survival of some quasi-immortal entities are meaningless and would be eliminated via natural selection with time.
 
