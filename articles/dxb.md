@@ -22,7 +22,7 @@ Contents:
 Introduction to Darwin-Buddhism
 =====================================================
 
-Meaning of the Darwin-Buddhism “dxb” symbol that encodes key ideas of the Darwin-Buddhism:
+Meaning of the Darwin-Buddhism “dx̱b” symbol that encodes key ideas of the Darwin-Buddhism:
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
