@@ -266,6 +266,8 @@ The previous section of cosmogony myth only creates an atmosphere and tries to p
 
 Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not any self-sustaining process is a quasi-immortal entity. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
 
+*First I encountered notion of “potentially immortal populations” in the [article by Dmitry Shabanov](https://old.computerra.ru/own/shabanov/612801/).*
+
 
 Free will as a necessity to maximize survival probability
 =========================================================
