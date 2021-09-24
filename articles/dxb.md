@@ -13,6 +13,7 @@ Contents:
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
+* [Again on Cosmogonic myth of Darwinian natural selection](#again-on-cosmogonic-myth-of-darwinian-natural-selection) 
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
 * [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
@@ -44,9 +45,7 @@ But first, let's start from afar. In the common sense way there are two notions 
 Cosmogonic myth of Darwinian natural selection
 ==============================================
 
-**d**
-
-Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
+Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
 
 
 Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
@@ -255,6 +254,14 @@ Here is such an existential picture. But do not forget that this is just a specu
 Douglas Adams. The Restaurant at the End of the Universe (The Hitch Hiker's Guide to the Galaxy #2)
 
 Now after we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvelous way”, let's move from the cosmogonic myth to the next section :)
+
+
+Again on Cosmogonic myth of Darwinian natural selection
+=======================================================
+
+**d**
+
+Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
 
 
 Quasi-immortality as a meaning of life
