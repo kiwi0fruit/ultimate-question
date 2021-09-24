@@ -74,6 +74,8 @@ Free will as necessity to maximize survival probability. Sentient agents activel
 
 If we are to examine quasi-immortal entities like collectives of people then the question of preserving the free will of the collective as a whole is important. If we imagine a collective where each individual is not free except the “God-Emperor” at the top then how does this collective is resilent to attempts to enslave it via hacking this “God-Emperor”. It depends. But I bet it's not optimally resilent. Hence I assume that some subparts of this collective should have partial freedom. Though how this can be organized in practice is not clear. “Roman Republic” comes to mind but I guess that's not the only way to add control feedback loop from subsystems to the executive core of the collective.
 
+We can also note that “God-Emperor”-like collectives can be more effective and competitive against “Roman Republic”-like collectives in direct confrontation-competition. Hence there is an optimization task to balance effectiveness and stability of the collectives.
+
 
 Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?
 ==============================================================================================
