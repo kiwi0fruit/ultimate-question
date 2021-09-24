@@ -91,7 +91,9 @@ Buddhism-like illusion of Self: Death is bad but the death of what? “Self” i
 Objective meaning of life separated from subjective meaning of life
 ===================================================================
 
-...
+* Evolution and natural selection as a backgroud. Quasi-immortal entities survival as objective meaning of life.
+* Choosing particular quasi-immortal entities survival as a subjective meaning of life. It can be several of an infinite number of entities. Some entities are more fit to survive than others.
+* Goals and values that cannot be reformulated as survival of some quasi-immortal entities are meaningless and would be eliminated via natural selection with time.
 
 
 Cosmogonic myth of Darwinian natural selection in depth
