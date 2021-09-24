@@ -11,6 +11,7 @@ Contents:
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
 * [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
+* [Objective meaning of life separated from subjective meaning of life](#objective-meaning-of-life-separated-from-subjective-meaning-of-life)
 * [Cosmogonic myth of Darwinian natural selection in depth](#cosmogonic-myth-of-darwinian-natural-selection-in-depth)
   * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
   * [Epistemological point of view on the Cosmogonic myth](#epistemological-point-of-view-on-the-cosmogonic-myth)
@@ -83,6 +84,12 @@ Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the 
 **b**
 
 Buddhism-like illusion of Self: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity (and we are actually free to choose one or several of many to be our meaning of life). Preserving Self helps to achieve this goal in most cases. But there are notable and important cases when preserving Self impedes to achieve this goal.
+
+
+Objective meaning of life separated from subjective meaning of life
+===================================================================
+
+...
 
 
 Cosmogonic myth of Darwinian natural selection in depth
