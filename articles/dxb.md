@@ -261,6 +261,8 @@ Again on Cosmogonic myth of Darwinian natural selection
 
 **d**
 
+The previous section of cosmogony myth only creates an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and the following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
+
 Сosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
 
 
@@ -268,8 +270,6 @@ Quasi-immortality as a meaning of life
 ======================================
 
 **∞**
-
-The previous section of cosmogony myth only creates an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and the following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
 
 Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not any self-sustaining process is a quasi-immortal entity. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
 
