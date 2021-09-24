@@ -13,7 +13,7 @@ Contents:
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
-* [Again on Cosmogonic myth of Darwinian natural selection](#again-on-cosmogonic-myth-of-darwinian-natural-selection) 
+* [Cosmogonic myth of Darwinian natural selection (relevant for dxb)](#cosmogonic-myth-of-darwinian-natural-selection-relevant-for-dxb) 
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
 * [Darwinian interpretation of the Buddhist illusion of Self. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
