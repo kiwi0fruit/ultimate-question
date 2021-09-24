@@ -22,7 +22,7 @@ Contents:
 Introduction to Darwin-Buddhism
 =====================================================
 
-Meaning of the Darwin Buddhism “dxb” symbol that encodes key ideas of the Darwin Buddhism:
+Meaning of the Darwin-Buddhism “dxb” symbol that encodes key ideas of the Darwin-Buddhism:
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
@@ -31,7 +31,7 @@ Meaning of the Darwin Buddhism “dxb” symbol that encodes key ideas of the Da
 * (**U** openness) Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
 * (**b**) Buddhism-like illusion of Self: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity (and we are actually free to choose one or several of many to be our meaning of life). Preserving Self helps to achieve this goal in most cases. But there are notable and important cases when preserving Self impedes to achieve this goal. Heroic self-sacrifice began to be glorified for a reason.
 
-*From all Buddhism only the illusion of Self is used in Darwin Buddhism. So Buddhist-Darwinism would be a more correct term - but that sounds worse. The name Darwin-Buddhism can also be justified because the part about illusion of Self is the most difficult to accept.*
+*From all Buddhism only the illusion of Self is used in Darwin-Buddhism. So Buddhist-Darwinism would be a more correct term - but that sounds worse. The name Darwin-Buddhism can also be justified because the part about illusion of Self is the most difficult to accept.*
 
 
 Cosmogonic myth of Darwinian natural selection (relevant for dxb)
