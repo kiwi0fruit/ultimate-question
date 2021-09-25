@@ -43,7 +43,7 @@ The [Cosmogonic myth of Darwinian natural selection **in depth**](#cosmogonic-my
 
 Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligence was the only known thing capable of explaining novelty emergence. Evolution and natural selection is the best explanation for novelty emergence that we have at the moment: an endless process of survival and accumulation of novelty. 
 
-Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)-competition and [Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)-cooperation as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amount of resources.
+Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones who balanced competition ([Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)) and cooperation ([Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)) as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amount of resources.
 
 
 Quasi-immortality as a meaning of life
@@ -51,7 +51,7 @@ Quasi-immortality as a meaning of life
 
 **(∞)**
 
-Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not any self-sustaining process is a quasi-immortal entity. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
+Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not all self-sustaining processes are a quasi-immortal entities. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
 
 *First I encountered notion of “potentially immortal populations” in the [article by Dmitry Shabanov](https://old.computerra.ru/own/shabanov/612801/) ([autotranslated](https://translate.google.com/translate?sl=ru&tl=en&u=https://old.computerra.ru/own/shabanov/612801/)):*
 
