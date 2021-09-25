@@ -10,7 +10,7 @@ Contents:
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
 * [Darwinian interpretation of the Buddhist illusion of “Self”. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
-* [Objective meaning of life separated from subjective meaning of life](#objective-meaning-of-life-separated-from-subjective-meaning-of-life)
+* [On objective meaning of life separated from subjective meaning of life](#on-objective-meaning-of-life-separated-from-subjective-meaning-of-life)
 * [Cosmogonic myth of Darwinian natural selection in depth](#cosmogonic-myth-of-darwinian-natural-selection-in-depth)
   * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
   * [Epistemological point of view on the Cosmogonic myth](#epistemological-point-of-view-on-the-cosmogonic-myth)
@@ -101,8 +101,8 @@ It should be noted that competition between dxb<0.5 can be useful for dxb=0.5, b
 It is also worth dwelling in more detail on the disappearing stairway of energy source batteries. The technological civilization of the mankind consumes more and more energy, absorbing concentrated energy obtained from a star (peat, coal, oil). But these energy sources are finite. What will happen if in its development civilization “stumbles and falls” to a technological level that requires coal but all coal has already been exhausted? In the worst case it will be stuck at some level of development forever and will never be able to reach the level of using the energy of the stars directly (like [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere)). This is a serious existential risk that should be considered.
 
 
-Objective meaning of life separated from subjective meaning of life
-===================================================================
+On objective meaning of life separated from subjective meaning of life
+======================================================================
 
 Let's define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
 
