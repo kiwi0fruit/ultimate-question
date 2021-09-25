@@ -11,7 +11,7 @@ Contents:
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
 * [Darwinian interpretation of the Buddhist illusion of “Self”. Death is bad but the death of what?](#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
 * [On objective meaning of life separated from subjective meaning of life](#on-objective-meaning-of-life-separated-from-subjective-meaning-of-life)
-* [Cosmogonic myth of Darwinian natural selection (in depth)](#cosmogonic-myth-of-darwinian-natural-selection-in-depth)
+* [Cosmogonic myth of Darwinian natural selection (in details)](#cosmogonic-myth-of-darwinian-natural-selection-in-details)
   * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](#open-ended-natural-selection-of-interacting-code-data-dual-algorithms-as-a-property-analogous-to-turing-completeness)
   * [Epistemological point of view on the Cosmogonic myth](#epistemological-point-of-view-on-the-cosmogonic-myth)
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
@@ -39,7 +39,7 @@ Cosmogonic myth of Darwinian natural selection (relevant for dxb)
 
 **(d-Darwin)**
 
-The “[Cosmogonic myth of Darwinian natural selection (**in depth**)](#cosmogonic-myth-of-darwinian-natural-selection-in-depth)” section at the end of the article will create an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and few following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
+The “[Cosmogonic myth of Darwinian natural selection (**in details**)](#cosmogonic-myth-of-darwinian-natural-selection-in-details)” section at the end of the article will create an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and few following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
 
 Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligence was the only known thing capable of explaining novelty emergence. Evolution and natural selection is the best explanation for novelty emergence that we have at the moment: an endless process of survival and accumulation of novelty. 
 
@@ -113,8 +113,8 @@ In the common sense way there are two notions of the word “meaning”. First m
 * Goals and values that cannot be reformulated as survival of some quasi-immortal entities are meaningless and would be eliminated via natural selection with time.
 
 
-Cosmogonic myth of Darwinian natural selection (in depth)
-=========================================================
+Cosmogonic myth of Darwinian natural selection (in details)
+===========================================================
 
 Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
 
