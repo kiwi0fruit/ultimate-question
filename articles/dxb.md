@@ -37,7 +37,7 @@ Meaning of the Darwin-Buddhism “dxb” symbol that encodes key ideas of the Da
 Cosmogonic myth of Darwinian natural selection (relevant for dxb)
 =================================================================
 
-**(d-Darwin)**
+*(**d**-Darwin)*
 
 The “[Cosmogonic myth of Darwinian natural selection (**in details**)](#cosmogonic-myth-of-darwinian-natural-selection-in-details)” section at the end of the article will create an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and few following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
 
@@ -49,7 +49,7 @@ Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a s
 Quasi-immortality as a meaning of life
 ======================================
 
-**(∞-infinity)**
+*(**∞**-infinity)*
 
 Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not all self-sustaining processes are a quasi-immortal entities. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
 
@@ -62,7 +62,7 @@ Quasi-immortality as a meaning of life. Quasi-immortal entities within the frame
 Free will as a necessity to maximize survival probability
 =========================================================
 
-**(U-openness)**
+*(**U**-openness)*
 
 Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
 
@@ -76,7 +76,7 @@ We can also note that “God-Emperor”-like collectives can be more effective a
 Darwinian interpretation of the Buddhist illusion of “Self”. Death is bad but the death of what?
 ==============================================================================================
 
-**(b-Buddhism)**
+*(**b**-Buddhism)*
 
 Buddhism-like illusion of “Self”: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity. And we are actually free to choose one or several of many to be our meaning of life. But in most cases we inherit these meanings of life (note that if an act of such choosing is conscious then it can be viewed as a demiurge-like act of creation). Preserving “Self” helps to achieve this goal in most cases. But there are notable and important cases when preserving “Self” impedes to achieve this goal. Heroic self-sacrifice began to be glorified for a reason.
 
