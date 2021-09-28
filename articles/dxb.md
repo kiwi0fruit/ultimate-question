@@ -23,7 +23,7 @@ Contents:
 Introduction to Buddha-Darwinism
 =====================================================
 
-Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the Buddha-Darwinism:
+Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the Buddha-Darwinism (aka Buddarwinism):
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
