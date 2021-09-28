@@ -333,3 +333,5 @@ Discussion of this research program is aggregated in this [GitHub discussion](ht
 News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/).
 
 My previous research on this topic is *[here](https://github.com/kiwi0fruit/ultimate-question)*.
+
+Good starting point to the research program: [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oens_of_algorithms.md). 
