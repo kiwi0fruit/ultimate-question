@@ -1,11 +1,11 @@
-Origin: Darwin-Buddhism on objective meaning of life separated from subjective meaning of life (dxb: Cosmogonic myth of Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
+Origin: Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (dxb: Cosmogonic myth of Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
 =======================================================
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
 Contents:
 
-* [Introduction to Darwin-Buddhism](#introduction-to-darwin-buddhism)
+* [Introduction to Buddha-Darwinism](#introduction-to-buddha-darwinism)
 * [Cosmogonic myth of Darwinian natural selection (relevant for dxb)](#cosmogonic-myth-of-darwinian-natural-selection-relevant-for-dxb) 
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
 * [Free will as a necessity to maximize survival probability](#free-will-as-a-necessity-to-maximize-survival-probability)
@@ -20,19 +20,19 @@ Contents:
   * [Research program Discussion links and further reading](#research-program-discussion-links-and-further-reading)
 
 
-Introduction to Darwin-Buddhism
+Introduction to Buddha-Darwinism
 =====================================================
 
-Meaning of the Darwin-Buddhism “dxb” symbol that encodes key ideas of the Darwin-Buddhism:
+Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the Buddha-Darwinism:
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
-* (**d**-Darwin) Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones survive who balanced competition ([Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)) and cooperation ([Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)) as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
+* (**d**-Darwin) Cosmogonic myth of Darwinian natural selection is at Buddha-Darwinism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones survive who balanced competition ([Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)) and cooperation ([Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)) as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amout of resources.
 * (**∞**-infinity) Quasi-immortality as a meaning of life. Quasi-immortal entities within the framework of natural selection are entities that can potentially exist forever albeit gradually changing. For example individuals with limited lifespan are not quasi-immortal but populations of such individuals are quasi-immortal entities. Religions, ideologies, nations, countries, noble families, corporations can also be such quasi-immortal entities (even populations of clonal digital sentient agents can be quasi-immortal entities). Beware that not all self-sustaining processes are a quasi-immortal entities. Some are suicide spirals whose death can be predicted beforehand. And this is not to mention the cases when the process is disguised or pretends to be something that it is not.
 * (**U**-openness) Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
 * (**b**-Buddhism) Buddhism-like illusion of Self: Death is bad but the death of what? “Self” is not quasi-immortal hence it's preservation cannot be the meaning of life. It's not **always** useful to worry about its safety. We should worry about the survival of quasi-immortal entities. Sentient agent's meaning of life is to have a goal to maximize survival of some quasi-immortal entity. And we are actually free to choose one or several of many to be our meaning of life. But in most cases we inherit these meanings of life (note that if an act of such choosing is conscious then it can be viewed as a demiurge-like act of creation). Preserving “Self” helps to achieve this goal in most cases. But there are notable and important cases when preserving “Self” impedes to achieve this goal. Heroic self-sacrifice began to be glorified for a reason.
 
-*From all Buddhism only the illusion of “Self” is used in Darwin-Buddhism. So Buddhist-Darwinism would be a more correct term - but that sounds worse. The name Darwin-Buddhism can also be justified because the part about illusion of “Self” is the most difficult to accept.*
+*From all Buddhism only the illusion of “Self” is used in Buddha-Darwinism. The name Buddha-Darwinism can also be justified because the part about illusion of “Self” is the most difficult to accept.*
 
 
 Cosmogonic myth of Darwinian natural selection (relevant for dxb)
@@ -44,7 +44,7 @@ The “[Cosmogonic myth of Darwinian natural selection (**in details**)](#cosmog
 
 Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligence was the only known thing capable of explaining novelty emergence. Evolution and natural selection is the best explanation for novelty emergence that we have at the moment: an endless process of survival and accumulation of novelty. 
 
-Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones survive who balanced competition ([Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)) and cooperation ([Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)) as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amount of resources.
+Cosmogonic myth of Darwinian natural selection is at Buddha-Darwinism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives. And it is often the ones survive who balanced competition ([Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)) and cooperation ([Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)) as Scott Alexander called them. Competing for limited resources balanced with cooperating to increase the total amount of resources.
 
 
 Quasi-immortality as a meaning of life
@@ -85,7 +85,7 @@ Lots of religions promise an afterlife which reduces fear of the death of “Sel
 
 Now let's imagine the survival of which quasi-immortal entities can be the meaning of life. Let's put them on a simplified 1D-map.
 
-* dxb=0 — the survival of as accurate copies of an intelligent agent as possible is the goal. So, if the almighty Genie comes to the Darwin-Buddhist-dxb=0 and offers to make two exact copies of him in exchange for destroying the original, then the Darwin-Buddhist agrees with joy and fear — for it is a profitable exchange. Any other Darwin-Buddhist-dxb>0 will also agree (except for the obvious exceptions like “God-Emperor” who will have a power crisis from this).
+* dxb=0 — the survival of as accurate copies of an intelligent agent as possible is the goal. So, if the almighty Genie comes to the Buddha-Darwinist-dxb=0 and offers to make two exact copies of him in exchange for destroying the original, then the Buddha-Darwinist agrees with joy and fear — for it is a profitable exchange. Any other Buddha-Darwinist-dxb>0 will also agree (except for the obvious exceptions like “God-Emperor” who will have a power crisis from this).
 
 * dxb=0.5 — the survival of the human population as a whole is the goal. Including surviving the transformation of the Sun into a red giant and the possible death of the universe. Over time, human cyborgization and augmentation using AI will leave less and less human in people. In the future limit if the goal is to keep humanity in its current form, the super AI will maintain the existence of humanity as merely a ritual integrated into its goals. Just like a super AI which sole purpose is to make paper clips. In order to prevent such a dull ending in the framework of dxb=0.5, it is necessary that super AI come directly from digitized people (with all their values), augmented by AI. But maybe I'm overly pessimistic, and a combination of super AI with genetically modified people who are in charge and make decisions will also work.
 
@@ -93,11 +93,11 @@ Now let's imagine the survival of which quasi-immortal entities can be the meani
 
 * 0<dxb<0.5 — the goal is the survival of some quasi-immortal entity formed by a group of people, more diverse than the clones of one person, but narrower than all humanity. In the hierarchy of goals of this group, it is possible to lower the probability of humanity survival if it increases the probability of survival of the quasi-immortal entity. Examples of such entities are: religions, ideologies, nations, countries, noble families, corporations.
 
-* dxb<0 — suicidal heresy (not a Darwin-Buddhism way) where all goals lead only to death. In the hierarchy of the agent's goals, one can sacrifice the survival of any quasi-immortal entity for the sake of a non-quasi-immortal one. The unlimited value of the “Self” is a special case of suicidal heresy.
+* dxb<0 — suicidal heresy (not a Buddha-Darwinism way) where all goals lead only to death. In the hierarchy of the agent's goals, one can sacrifice the survival of any quasi-immortal entity for the sake of a non-quasi-immortal one. The unlimited value of the “Self” is a special case of suicidal heresy.
 
-* dxb>1 — heresy of putting not sentient beings before sentient (not a Darwin-Buddhism way). In the hierarchy of the agent's goals, one can sacrifice any intelligent life for the sake of not sentient life. And this sacrifice is made not in order to somehow optimize the success of intelligent life.
+* dxb>1 — heresy of putting not sentient beings before sentient (not a Buddha-Darwinism way). In the hierarchy of the agent's goals, one can sacrifice any intelligent life for the sake of not sentient life. And this sacrifice is made not in order to somehow optimize the success of intelligent life.
 
-It should be noted that competition between dxb<0.5 can be useful for dxb=0.5, because some level of competition is necessary to maintain the humanity as a whole in a healthy state (by the way, the same is true for dxb<1 and dxb=1). From the standpoint of dxb=0.5, it is necessary to determine a set of rules of competition (including economic and military ones), the adherence to which will support the healthy development of mankind as a whole (dxb=0.5). This might help to achieve sustainable development — prevent going down on the disappearing stairway of energy source batteries, as well as make humanity competitive when meeting aliens in the future. And in most cases the Darwin-Buddhists-dxb=0.5 would need to take part in this competition. Moreover, they will have to honestly choose a side and be loyal to the interests of the group dxb<0.5.
+It should be noted that competition between dxb<0.5 can be useful for dxb=0.5, because some level of competition is necessary to maintain the humanity as a whole in a healthy state (by the way, the same is true for dxb<1 and dxb=1). From the standpoint of dxb=0.5, it is necessary to determine a set of rules of competition (including economic and military ones), the adherence to which will support the healthy development of mankind as a whole (dxb=0.5). This might help to achieve sustainable development — prevent going down on the disappearing stairway of energy source batteries, as well as make humanity competitive when meeting aliens in the future. And in most cases the Buddha-Darwinists-dxb=0.5 would need to take part in this competition. Moreover, they will have to honestly choose a side and be loyal to the interests of the group dxb<0.5.
 
 It is also worth dwelling in more detail on the disappearing stairway of energy source batteries. The technological civilization of the mankind consumes more and more energy, absorbing concentrated energy obtained from a star (peat, coal, oil). But these energy sources are finite. What will happen if in its development civilization “stumbles and falls” to a technological level that requires coal but all coal has already been exhausted? In the worst case it will be stuck at some level of development forever and will never be able to reach the level of using the energy of the stars directly (like [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere)). This is a serious existential risk that should be considered.
 
@@ -117,7 +117,7 @@ In the common sense way there are two notions of the word “meaning”. First m
 Cosmogonic myth of Darwinian natural selection (in details)
 ===========================================================
 
-Cosmogonic myth of Darwinian natural selection is at Darwin-Buddhism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
+Cosmogonic myth of Darwinian natural selection is at Buddha-Darwinism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
 
 
 Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
