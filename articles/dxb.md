@@ -17,6 +17,7 @@ Contents:
   * [My contribution to the Open ended evolution research program](#my-contribution-to-the-open-ended-evolution-research-program)
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
+  * [Research program Discussion links and further reading](#research-program-discussion-links-and-further-reading)
 
 
 Introduction to Darwin-Buddhism
@@ -191,8 +192,6 @@ So the key ideas about theories are:
 
 This way of using metaphysical considerations is like in [Temporal naturalism](http://arxiv.org/abs/1310.8539) article by Lee Smolin where metaphysics ideas are used for creating a scientific theory (are applied).
 
-*See my previous research on this topic [here](https://github.com/kiwi0fruit/ultimate-question).*
-
 
 My contribution to the Open ended evolution research program
 ------------------------------------------------------------
@@ -325,3 +324,12 @@ Here is such an existential picture. But do not forget that this is just a specu
 Douglas Adams. The Restaurant at the End of the Universe (The Hitch Hiker's Guide to the Galaxy #2)
 
 So we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvelous way” :)
+
+
+## Research program Discussion links and further reading
+
+Discussion of this research program is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2).
+
+News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/).
+
+My previous research on this topic is *[here](https://github.com/kiwi0fruit/ultimate-question)*.
