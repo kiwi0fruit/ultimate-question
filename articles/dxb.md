@@ -1,4 +1,4 @@
-Origin: Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (dxb: Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
+Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (dxb: Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
 =======================================================
 
 <img src="./dxb.png" alt="dxb" height="40px">
