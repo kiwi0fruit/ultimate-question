@@ -19,12 +19,6 @@
 * [ ] https://news.ycombinator.com/item?id=22871806
 
 
-# Topics to write comments and posts about
-
-* Turing completeness vs Evolution open-endedness short post on μ-recursive functions
-* Lacking postulate from physics to accompany natural selections postulates
-
-
 # Discrete energy flow as a base for space and time -> hierarchy of energy levels
 
 Base level can convert only a small amount of energy to small chunks of space (I don't know what this nonsense means). The next level can combine chunks from the previous level and hence get access to higher total energies (and more complex space structures).
@@ -54,6 +48,11 @@ some info:
 # Self-reference as a key to OEE?
 
 * [ ] Inspect [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://www.reddit.com/r/DigitalPhilosophy/comments/dy1sgh/selfreferential_basis_of_undecidable_dynamics/)
+
+
+# Cooperation-competition balance might be important to build an ontology
+
+Some simplified form like in a prisoners dilemma or even simpler. Or may be not and it' simply emergent anyway...
 
 
 # Ultimate question discussion
@@ -141,3 +140,7 @@ I'm interested in research direction of using code-data dual algothms that modif
 Maybe you could advise some developed language or model for this task? The interesting part is to have code-data duality and enough rich language to kick start natural selection that would produce competing algorithms that would gradually become more and more complex (and gradually become closer to sentience).
 
 Though the language might not even be Truring complete as it is. As natural assumption would be that the model should be finite in resources and it can get access to infinite time or memory only in time limit (assuming that the individual algorithms would survive for this to happen).
+
+----
+
+[Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Сosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md) aka Application of Universal Darwinism to evaluation of goals and values gives Buddarwinism - dxb.
