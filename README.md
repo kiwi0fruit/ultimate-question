@@ -2,6 +2,7 @@
 
 ## NEW:
 
+* **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
 * **[Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)](./articles/dxb.md) aka Application of Universal Darwinism to evaluation of goals and values gives Buddarwinism - dxb**
 * **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)**
 * **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
