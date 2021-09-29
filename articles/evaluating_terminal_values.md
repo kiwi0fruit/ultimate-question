@@ -5,7 +5,7 @@ How to evaluate terminal values of humans (defined like in [here](https://www.le
 
 Obviousness of natural selection (NS) can pose some constraints, albeit weak ones, as all known systems with sentient agents abide NS. But weak constraints are still better than no constraints at all.
 
-Terminal goals are being split by natural selection into ones that fail to reproduce / maintain themselves and ones that survive (as we already put aside instrumental goals that “die” when they lose their purpose). And sometimes we can even predict whether some terminal goals would go extinct or at least range their probability of survival.
+Terminal goals are being split by natural selection into ones that fail to reproduce / maintain themselves and ones that survive (together with their bearers of cource). And sometimes we can even predict whether some terminal goals would go extinct or at least range their probability of survival (we already had put aside instrumental goals that “die” when they lose their purpose.).
 
 So that's it. That's the only way to objectively judge terminal values I'm aware of. And judgment part comes from a feeling that I don't want to be invested in terminal goals that would most likely go extinct. At least they should be “mutated” in way to balance minimization of their change and maximization of their survival probability to be appealing.
 
