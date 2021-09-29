@@ -61,25 +61,23 @@ Some simplified form like in a prisoners dilemma or even simpler. Or may be not 
 
 Please discuss everything related to the Ultimate Question here.
 
-News concerning the research and discussion would appear in this blog: [zagubisalo.tumblr.com](http://zagubisalo.tumblr.com) ([subscibe to RSS](http://zagubisalo.tumblr.com/rss)), [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/).
+News concerning the research and discussion would appear in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/).
 
-**Main reddit discussions** (contain copies from other sources as well):
+**Main reddit discussions** (contain copies from other sources as well) - lots of comments:
 
 * [reddit.com/r/compsci](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_compsci.pdf) (2018)
 * [reddit.com/r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_digitalphilosophy.pdf) (2019)
+* [reddit.com/r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/g2y8rn/do_you_see_a_way_use_abstract_rewriting_system/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_compsci_2.pdf) (2020)
 
 **PS**
 
 If you feel like you want to add something to the article or to rewrite it - feel free to fork it [on GitHub](https://github.com/kiwi0fruit/ultimate-question), edit and make a pull request.
 
+
 ----
 
 
-**Main discussion** (contains copies from other sources as well):
-
-* [reddit.com/r/compsci](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_compsci.pdf) (2018)
-
-Other comments:
+Other discussions:
 
 * [physics.stackexchange.com](https://physics.stackexchange.com/questions/229404/intuitions-for-the-simplest-model-in-which-the-evolution-of-the-laws-of-nature-a), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/stackexchange_physics.pdf) (2016)
 * [math.stackexchange.com](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/stackexchange_mathematics.pdf) (2016)
@@ -116,6 +114,15 @@ Addition: Intro pt.5: Obvious problems, incl. what is inanimate matter? **what a
 
 [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/oens_of_algorithms.md)
 
+----
+
+Main reddit discussion (contain copies from other sources as well) - lots of comments:
+
+[reddit.com/r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_digitalphilosophy.pdf) (2019)
+
+
+----
+
 
 ## Do you see a way to use abstract rewriting system over graphs from Wolfram Physics Project to represent code-data dual algothms that modify each other and form natural selection process?
 
@@ -128,6 +135,12 @@ More info:
 
 * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/)
 * [Wolfram Physics Project](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/?source=frontpage-latest-news)
+
+----
+
+Main reddit discussion (contain copies from other sources as well):
+
+[reddit.com/r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/comments/g2y8rn/do_you_see_a_way_use_abstract_rewriting_system/), [backup](https://github.com/kiwi0fruit/ultimate-question/blob/master/comments/reddit_compsci_2.pdf) (2020)
 
 ----
 
@@ -144,3 +157,8 @@ Though the language might not even be Truring complete as it is. As natural assu
 ----
 
 [Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Сosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md) aka Application of Universal Darwinism to evaluation of goals and values gives Buddarwinism - dxb.
+
+
+----
+
+[Evaluating terminal values](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/evaluating_terminal_values.md)
