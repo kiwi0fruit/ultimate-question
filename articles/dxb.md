@@ -1,7 +1,7 @@
-Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (dxb: Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
+Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
 =======================================================
 
-## (Application of Universal Darwinism to evaluation of goals and values)
+## (Application of Universal Darwinism to evaluation of goals and values gives Buddarwinism - dxb)
 
 
 <img src="./dxb.png" alt="dxb" height="40px">
