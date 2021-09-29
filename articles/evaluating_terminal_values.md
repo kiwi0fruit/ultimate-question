@@ -11,4 +11,4 @@ So that's it. That's the only way to objectively judge terminal values I'm aware
 
 *Are you aware of any other ways to evaluate terminal values?*
 
-P.S. Basically, that was a recap of a more poetic and “old school” article that I've written: [Application of Universal Darwinism to evaluation of goals and values gives Buddarwinism](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md).
+P.S. Basically, that was a recap of a more poetic and “old school” article that I've written: [Applying Universal Darwinism to evaluation of goals and values gives Buddarwinism](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md).
