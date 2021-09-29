@@ -29,7 +29,7 @@ My contribution to OEE research program comes from philosophy direction. The min
 
 ### Further info links
 
-UPD: More in details description of this same way of thinking is given **[here](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md#cosmogonic-myth-of-darwinian-natural-selection-in-details)**.
+UPD: More in details description of this same way of thinking is given **[here](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md#cosmogonic-myth-from-darwinian-natural-selection-in-details)**.
 
 * [article on my (futile) efforts to solve this problem](https://github.com/kiwi0fruit/ultimate-question) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) (lots of comments)
 * [open-ended evolution subreddit](https://www.reddit.com/r/oee/)
