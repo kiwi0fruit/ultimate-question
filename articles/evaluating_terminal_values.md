@@ -1,7 +1,7 @@
 Evaluating terminal values
 ==========================
 
-How to evaluate terminal values (defined like in [here](https://www.lesswrong.com/tag/terminal-value) and [here](https://www.lesswrong.com/posts/n5ucT5ZbPdhfGNLtP/terminal-values-and-instrumental-values))? Values are subjective but the question asks for some objective perspective.
+How to evaluate terminal values (defined like in [here](https://www.lesswrong.com/tag/terminal-value))? Values are subjective but the question asks for some objective perspective.
 
 Obviousness of natural selection (NS) can pose some constraints, albeit weak ones, as all known systems with sentient agents abide NS. But weak constraints are still better than no constraints at all.
 
