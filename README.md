@@ -27,7 +27,7 @@
 
 ### Intro pt.1
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 _**UPD**: It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article._
 
@@ -45,7 +45,7 @@ The problem I’m trying to solve can be described as **to create the simplest a
 
 ### Intro pt.2: Key ideas
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 The key idea of this research program is to create an artificial universe in which we can answer any questions like "why is the present is this way not another?", "because of what?" (it's a better formulated ancient question "Why is there something rather than nothing?"). So any existing structures can be explained: as much entities as possible should have a history how they appeared/emerged - instead of postulating them directly. Moreover the model itself needs to have some justification (to be a candidate for model of the our real universe).
 
@@ -56,7 +56,7 @@ There are two main intuitions-constraints for this universe: 1) the start from t
 
 ### Intro pt.3: Justification and best tools
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 Those two intuitions come from the following:
 
@@ -71,7 +71,7 @@ More about justification: [Are Universal Darwinism and Occam's razor enough to a
 
 ### Intro pt.4: The model
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 The research program uses the artificial life model with natural selection as a basis. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture. In order to continue we need to precisely define what are individuals in the model (and environment if needed) and how the process of their replication and death takes place. There are some properties of the model we can assume and go with:
 
@@ -89,7 +89,7 @@ The research program uses the artificial life model with natural selection as a 
 
 ### Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 1\. If we assume that complex laws are emergent from algorithms then **what about quantum computers?** question needs answering. It can be formulated as "Is bounded-error **quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?**"
 
@@ -113,7 +113,7 @@ Ideas about possible solutions:
 
 ### Intro pt.6: P.S, discussion, subscribe, source code repository
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 You can discuss the letter [on GitHub or Reddit](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
@@ -128,7 +128,7 @@ This introduction actually contains everything important that is in this article
 
 ## Appendix contents
 
-**[≡](#introduction-contents)**
+**[≡←](#introduction-contents)**
 
 * [Introduction contents](#introduction-contents)
 * [0. Short formulation of the problem](#s0)
@@ -158,7 +158,7 @@ This introduction actually contains everything important that is in this article
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
 
-**[≡](#appendix-contents)**
+**[≡↑](#appendix-contents)**
 
 #### A. The model as the process of natural selection
 
