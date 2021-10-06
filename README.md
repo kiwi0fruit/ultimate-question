@@ -16,6 +16,8 @@
 
 ### Introduction contents
 
+[itoc]: #introduction-contents
+
 * [Intro pt.1](#intro-pt1)
 * [Intro pt.2: Key ideas](#intro-pt2-key-ideas)
 * [Intro pt.3: Justification and best tools](#intro-pt3-justification-and-best-tools)
@@ -127,6 +129,8 @@ This introduction actually contains everything important that is in this article
 
 
 ## Appendix contents
+
+[toc]: #appendix-contents
 
 **[≡←][itoc]**
 
@@ -595,7 +599,11 @@ As far as I know candidates for theory of everything that are being developed by
 I suggest use similar approach but use natural selection instead of AGI. We know that biological natural selection is capable of producing sentient individuals and it's simpler than AGI from Occam's razor point of view. This assumes that the fundamental aspect of the Universe if the life (instead of AGI/god or predefined mechanical-like laws).
 
 
-## 8. P.S. [≡][toc]{#ps}
+## 8. P.S.
+
+[ps]: #8-ps
+
+**[≡↑][toc]**
 
 I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
 
@@ -605,6 +613,10 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 
 ## 9. References
+
+[ref]: #9-references
+
+**[≡↑][toc]**
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -630,7 +642,3 @@ Peter Zagubisalo, January 2016, minor update July 2018
 ----
 
 [**Return to root**](#the-ultimate-question-of-life-the-universe-and-everything)
-
-[itoc]: #introduction-contents
-[toc]: #appendix-contents
-[ref]: #9-references
