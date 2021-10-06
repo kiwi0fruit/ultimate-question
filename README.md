@@ -16,8 +16,8 @@
 
 ### Introduction contents
 
-* [Intro pt.1](#intro-pt-1)
-* [Intro pt.2: Key ideas](#i2)
+* [Intro pt.1](#intro-pt1)
+* [Intro pt.2: Key ideas](#intro-pt2-key-ideas)
 * [Intro pt.3: Justification and best tools](#i3)
 * [Intro pt.4: The model](#i4)
 * [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#i5)
@@ -45,7 +45,9 @@ I seek advice or any other help available regarding creating a specific mathemat
 The problem I’m trying to solve can be described as **to create the simplest artificial life model possible with open-ended evolution** (open-endedness means that the evolution doesn't stop on some level of complexity but **can** progress further to the intelligent agents after some **great** time). There are analogues to laws of nature in this dynamic model: 1) postulates of natural selection + some unknown ontological basis, 2) pool of phenotypes of evolving populations that are relatively stable on some time periods so they can be considered "laws". This approach implies indeterminism and postulates random and spontaneous nature of some events. It is also assumed that the universe had the first moment of existence with relatively simple structure.
 
 
-### Intro pt.2: Key ideas [≡][itoc]{#i2}
+### Intro pt.2: Key ideas
+
+**[≡](#introduction-contents)**
 
 The key idea of this research program is to create an artificial universe in which we can answer any questions like "why is the present is this way not another?", "because of what?" (it's a better formulated ancient question "Why is there something rather than nothing?"). So any existing structures can be explained: as much entities as possible should have a history how they appeared/emerged - instead of postulating them directly. Moreover the model itself needs to have some justification (to be a candidate for model of the our real universe).
 
