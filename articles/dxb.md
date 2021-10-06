@@ -26,7 +26,7 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 Introduction to Buddha-Darwinism
 =====================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the Buddha-Darwinism (aka Buddarwinism):
 
@@ -43,7 +43,7 @@ Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the B
 Cosmogonic myth from Darwinian natural selection (relevant for dxb)
 =================================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *(**d**-Darwin)*
 
@@ -57,7 +57,7 @@ Cosmogonic myth from Darwinian natural selection is at Buddha-Darwinism core as 
 Quasi-immortality as a meaning of life
 ======================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *(**∞**-infinity)*
 
@@ -72,7 +72,7 @@ Quasi-immortality as a meaning of life. Quasi-immortal entities within the frame
 Free will as a necessity to maximize survival probability
 =========================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *(**U**-openness)*
 
@@ -88,7 +88,7 @@ We can also note that “God-Emperor”-like collectives can be more effective a
 Darwinian interpretation of the Buddhist illusion of “Self”. Death is bad but the death of what?
 ==============================================================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *(**b**-Buddhism)*
 
@@ -118,7 +118,7 @@ It is also worth dwelling in more detail on the disappearing stairway of energy 
 On objective meaning of life separated from subjective meaning of life
 ======================================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 Let's define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
 
@@ -132,7 +132,7 @@ In the common sense way there are two notions of the word “meaning”. First m
 Cosmogonic myth from Darwinian natural selection (in details)
 ===========================================================
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 Cosmogonic myth from Darwinian natural selection is at Buddha-Darwinism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
 
@@ -178,7 +178,7 @@ Some useful notes:
 Epistemological point of view on the Cosmogonic myth
 ----------------------------------------------------
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *This section contains some philosophy heavy commentary to the core hypothesis of the Cosmogonic myth. Can be skipped.*
 
@@ -217,7 +217,7 @@ This way of using metaphysical considerations is like in [Temporal naturalism](h
 My contribution to the Open ended evolution research program
 ------------------------------------------------------------
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *This section reiterates and emphasizes my idea on how to search for OEE model. Can be skipped.*
 
@@ -229,7 +229,7 @@ There are two main intuitions: 1) the start from the simple enough state (the be
 Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough
 ----------------------------------------------------------------------------------------------------------
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 *This section lists my other guesses on how to search for OEE model. Can be skipped.*
 
@@ -241,7 +241,7 @@ Possible OEE research directions: Self-reference, quantum computers, discrete on
 Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)
 ----------------------------------------------------------------------------------------------------------------
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 (*I would like to thank an associate of mine for the mythological name - otherwise I would have continued to call it simply primordial cancer-like chaos. Tamed Lovecraftian horror is not the same as [Lovecraftian horror](https://en.wikipedia.org/wiki/Lovecraftian_horror) which is much more nihilistic. But it's still a cosmic horror none the less.*)
 
@@ -355,7 +355,7 @@ So we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvel
 
 ## Research program Discussion links and further reading
 
-**[≡](#contents)**
+**[≡←](#contents)**
 
 Discussion of this research program is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
