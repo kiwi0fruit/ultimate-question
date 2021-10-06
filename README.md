@@ -631,6 +631,6 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 [**Return to root**](#the-ultimate-question-of-life-the-universe-and-everything)
 
-[itoc]: #intro-contents
-[toc]: #contents
-[ref]: #references
+[itoc]: #introduction-contents
+[toc]: #appendix-contents
+[ref]: #9-references
