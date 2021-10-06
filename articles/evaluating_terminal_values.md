@@ -11,7 +11,7 @@ So that's it. That's the only way to objectively judge terminal values I'm aware
 
 *Are you aware of any other ways to evaluate terminal values?*
 
-P.S. Basically, that post was a recap of a part of the more poetic and “old school” article that I've written: [Applying Universal Darwinism to evaluation of Terminal values](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md). The article doesn't add anything important to the question of this post but mostly stretches Universal Darwinism in other direstions instead.
+P.S. Basically, that post was a recap of a part of the more poetic and “old school” article that I've written: [Applying Universal Darwinism to evaluation of Terminal values](../dxb.md). The article doesn't add anything important to the question of this post but mostly stretches Universal Darwinism in other direstions instead.
 
 ----
 
