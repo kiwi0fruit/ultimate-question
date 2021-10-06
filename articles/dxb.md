@@ -10,6 +10,7 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 
 [toc]: #contents
 
+* [UPD: Evaluating terminal values](#upd-evaluating-terminal-values)
 * [Introduction to Buddha-Darwinism](#introduction-to-buddha-darwinism)
 * [Cosmogonic myth from Darwinian natural selection (relevant for dxb)](#cosmogonic-myth-from-darwinian-natural-selection-relevant-for-dxb) 
 * [Quasi-immortality as a meaning of life](#quasi-immortality-as-a-meaning-of-life)
@@ -23,6 +24,11 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
   * [Research program Discussion links and further reading](#research-program-discussion-links-and-further-reading)
+
+
+# UPD: Evaluating terminal values
+
+“[Evaluating terminal values](./evaluating_terminal_values.md)” is a small recap of key idea of this article.
 
 
 Introduction to Buddha-Darwinism
