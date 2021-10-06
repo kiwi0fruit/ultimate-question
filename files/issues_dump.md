@@ -1,24 +1,3 @@
-# To read
-
-* [ ] http://bactra.org/reviews/wolfram/ look for some ideas explorations
-  > "I could go over Wolfram's discussion of biological pattern formation, gravity, etc., etc., and give plenty of references to people who've had these ideas earlier. They have also had them better, in that they have been serious enough to work out their consequences, grasp their strengths and weaknesses, and refine or in some cases abandon them. That is, they have done science, where Wolfram has merely thought."
-* [ ] https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
-* [ ] https://www.reddit.com/r/Physics/comments/g17g4a/stephen_wolfram_i_never_expected_this_finally_we/
-  > The more interesting parts that stood out were the parts about causal invariance giving rise to a fixed relationship between the steps between states (time) and the relationship between components at each step (space), from which the relationships conform to relativity.
-  
-  > He gives a definition of energy in terms of this model and says that special relativity, quantum mechanics and mass/energy equivalence all emerge as inherent properties of the model regardless of which “rules” are actually applied.
-  
-  > If I understood correctly, special relativity, quantum mechanics, and mass/energy equivalence only fall out for rules that have "causal invariance", as a direct result of that property.
-
-  > I obviously haven't dedicated a ton of thought to this, but Wolfram's definition of time as "the successive application of rules" seems to be problematic as it seems either circular, or else external to the theory. The definition at the very least depends on having already defined time in order to make sense of what "successive" means. In the context of his theory, where everything is made up of this abstract hypergraph, its not clear to me how time arises from that if it the application of rules to this hypergraph.
-  
-  > Successive application of update rules to some spacelike slice of vertices on a graph seems pretty clear when you look at it from the Hamiltonian formulation of General Relativity. Having glanced at Gorard's first paper, it seems not that dazzling to see that such a discrete formalism of spacetime could result in a more or less lorentzian structure, since Hamiltonian GR also does so in a somewhat hidden way. But then that also means that they may just have rediscovered numerical relativity. Maybe we'll see that when/if they bother to compute the higher order corrections. Just don't quote me on this, it's late and I barely managed to look through that one paper.
-  
-  > The interpretation of energy and momentum from this is vague at best, as they can't even derive mass or energy. They're just drawing parallels based on how things transform, and that is not enough to make such bold claims. The technical papers pretty much handwave these parallels/analogies as if they were enough.
-* [ ] https://news.ycombinator.com/item?id=22866284
-* [ ] https://news.ycombinator.com/item?id=22871806
-
-
 # Discrete energy flow as a base for space and time -> hierarchy of energy levels
 
 Base level can convert only a small amount of energy to small chunks of space (I don't know what this nonsense means). The next level can combine chunks from the previous level and hence get access to higher total energies (and more complex space structures).
@@ -53,6 +32,27 @@ some info:
 # Cooperation-competition balance might be important to build an ontology
 
 Some simplified form like in a prisoners dilemma or even simpler. Or may be not and it' simply emergent anyway...
+
+
+# To read
+
+* [ ] http://bactra.org/reviews/wolfram/ look for some ideas explorations
+  > "I could go over Wolfram's discussion of biological pattern formation, gravity, etc., etc., and give plenty of references to people who've had these ideas earlier. They have also had them better, in that they have been serious enough to work out their consequences, grasp their strengths and weaknesses, and refine or in some cases abandon them. That is, they have done science, where Wolfram has merely thought."
+* [ ] https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
+* [ ] https://www.reddit.com/r/Physics/comments/g17g4a/stephen_wolfram_i_never_expected_this_finally_we/
+  > The more interesting parts that stood out were the parts about causal invariance giving rise to a fixed relationship between the steps between states (time) and the relationship between components at each step (space), from which the relationships conform to relativity.
+  
+  > He gives a definition of energy in terms of this model and says that special relativity, quantum mechanics and mass/energy equivalence all emerge as inherent properties of the model regardless of which “rules” are actually applied.
+  
+  > If I understood correctly, special relativity, quantum mechanics, and mass/energy equivalence only fall out for rules that have "causal invariance", as a direct result of that property.
+
+  > I obviously haven't dedicated a ton of thought to this, but Wolfram's definition of time as "the successive application of rules" seems to be problematic as it seems either circular, or else external to the theory. The definition at the very least depends on having already defined time in order to make sense of what "successive" means. In the context of his theory, where everything is made up of this abstract hypergraph, its not clear to me how time arises from that if it the application of rules to this hypergraph.
+  
+  > Successive application of update rules to some spacelike slice of vertices on a graph seems pretty clear when you look at it from the Hamiltonian formulation of General Relativity. Having glanced at Gorard's first paper, it seems not that dazzling to see that such a discrete formalism of spacetime could result in a more or less lorentzian structure, since Hamiltonian GR also does so in a somewhat hidden way. But then that also means that they may just have rediscovered numerical relativity. Maybe we'll see that when/if they bother to compute the higher order corrections. Just don't quote me on this, it's late and I barely managed to look through that one paper.
+  
+  > The interpretation of energy and momentum from this is vague at best, as they can't even derive mass or energy. They're just drawing parallels based on how things transform, and that is not enough to make such bold claims. The technical papers pretty much handwave these parallels/analogies as if they were enough.
+* [ ] https://news.ycombinator.com/item?id=22866284
+* [ ] https://news.ycombinator.com/item?id=22871806
 
 
 # Ultimate question discussion
