@@ -29,9 +29,8 @@ My contribution to OEE research program comes from philosophy direction. The min
 
 ### Further info links
 
-UPD: More in-details description of this same way of thinking is given in this section of the *[Applying Universal Darwinism to evaluation of Terminal values](./dxb.md#cosmogonic-myth-from-darwinian-natural-selection-in-details)* article.
-
 * [article on my (futile) efforts to solve this problem](../README.md) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) (lots of comments)
+* UPD: More in-details description of this same way of thinking is given in this section of the *[Applying Universal Darwinism to evaluation of Terminal values](./dxb.md#cosmogonic-myth-from-darwinian-natural-selection-in-details)* article.
 * [open-ended evolution subreddit](https://www.reddit.com/r/oee/)
 * [predecessor of this promotion article](./oee.md)
 * [digital philosophy subreddit](https://www.reddit.com/r/DigitalPhilosophy/) (posts by kiwi0fruit)
