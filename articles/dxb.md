@@ -26,7 +26,7 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 Introduction to Buddha-Darwinism
 =====================================================
 
-[≡](#contents)
+**[≡](#contents)**
 
 Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the Buddha-Darwinism (aka Buddarwinism):
 
@@ -43,6 +43,8 @@ Meaning of the Buddha-Darwinism “dxb” symbol that encodes key ideas of the B
 Cosmogonic myth from Darwinian natural selection (relevant for dxb)
 =================================================================
 
+**[≡](#contents)**
+
 *(**d**-Darwin)*
 
 The “[Cosmogonic myth from Darwinian natural selection (**in details**)](#cosmogonic-myth-from-darwinian-natural-selection-in-details)” section at the end of the article will create an atmosphere and tries to pave an intuition to create a mathematical model of this cosmogony. But for this and few following sections, it's enough to imagine that the entire universe obeys the rules of natural selection (NS), and there are no other more fundamental rules to be followed. That is, not evolution and NS arose from the known laws of physics, but the laws of physics arose as a result of NS.
@@ -54,6 +56,8 @@ Cosmogonic myth from Darwinian natural selection is at Buddha-Darwinism core as 
 
 Quasi-immortality as a meaning of life
 ======================================
+
+**[≡](#contents)**
 
 *(**∞**-infinity)*
 
@@ -68,6 +72,8 @@ Quasi-immortality as a meaning of life. Quasi-immortal entities within the frame
 Free will as a necessity to maximize survival probability
 =========================================================
 
+**[≡](#contents)**
+
 *(**U**-openness)*
 
 Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
@@ -81,6 +87,8 @@ We can also note that “God-Emperor”-like collectives can be more effective a
 
 Darwinian interpretation of the Buddhist illusion of “Self”. Death is bad but the death of what?
 ==============================================================================================
+
+**[≡](#contents)**
 
 *(**b**-Buddhism)*
 
@@ -110,6 +118,8 @@ It is also worth dwelling in more detail on the disappearing stairway of energy 
 On objective meaning of life separated from subjective meaning of life
 ======================================================================
 
+**[≡](#contents)**
+
 Let's define objective part of the meaning of life that is universal for every sentient agent and subjective part of the meaning of life that varies from agent to agent. Together they form total meaning of life of the agent.
 
 In the common sense way there are two notions of the word “meaning”. First meaning of the object/subject (x-bject) comes from their place in the grander system — which role-function they perform in it. Like the meaning of an individual animal is that it's surviving and reproducing in the population which leads to similar animals doing the same in the future — that is the self-replicating process in time. The second possible meaning of the x-bjects is given to them by some sentient agent that has goals. The way x-bjects help achieve agent's goals is their meaning. Like the meaning of a hammer is to hammer in nails. The second kind of meaning is also the first kind if we specify the sentient agent with goals.
@@ -122,11 +132,15 @@ In the common sense way there are two notions of the word “meaning”. First m
 Cosmogonic myth from Darwinian natural selection (in details)
 ===========================================================
 
+**[≡](#contents)**
+
 Cosmogonic myth from Darwinian natural selection is at Buddha-Darwinism core as a setting where everything takes place. The whole universe is a “jungle”, but survives not the strongest but survives the one who survives.
 
 
 Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
 --------------------------------------------------------------------------------------------------------------------
+
+**[≡](#contents)**
 
 *This section contains the core hypothesis of the Cosmogonic myth.*
 
@@ -163,6 +177,8 @@ Some useful notes:
 
 Epistemological point of view on the Cosmogonic myth
 ----------------------------------------------------
+
+**[≡](#contents)**
 
 *This section contains some philosophy heavy commentary to the core hypothesis of the Cosmogonic myth. Can be skipped.*
 
@@ -201,6 +217,8 @@ This way of using metaphysical considerations is like in [Temporal naturalism](h
 My contribution to the Open ended evolution research program
 ------------------------------------------------------------
 
+**[≡](#contents)**
+
 *This section reiterates and emphasizes my idea on how to search for OEE model. Can be skipped.*
 
 My contribution to Open ended evolution (OEE) research program comes from philosophy direction. The minimal model with *Open-ended natural selection of interacting code-data-dual algorithms* (or an equivalence class of minimal models) is a quite good canditate for a model of the Universe on the deepest level — as models with OEE are models of novelty emegrence. If so then we can investigate very simple models for being suitable to contain OEE - as it's philosophically intuitive for a deepest level of the Universe to be relatively simple with even space and most of the laws of nature being emergent (formed as a result of [natural selection for a very long time](https://en.wikipedia.org/wiki/Cosmological_natural_selection)). We can even assume beginning of the Universe from a very simple (may be even singular) state that with time became more complex via dynamic with Natural Selection postulates. Novelty and complication of structure comes from random-variation influensing heredity laws (code-data-dual algorithms reproducing and partially randomly modifying each other). Hence simple and ontologically basic models seem to be promising investigation direction for OEE research program (and may make it easier to solve).
@@ -211,6 +229,8 @@ There are two main intuitions: 1) the start from the simple enough state (the be
 Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough
 ----------------------------------------------------------------------------------------------------------
 
+**[≡](#contents)**
+
 *This section lists my other guesses on how to search for OEE model. Can be skipped.*
 
 * [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://arxiv.org/abs/1711.02456),
@@ -220,6 +240,8 @@ Possible OEE research directions: Self-reference, quantum computers, discrete on
 
 Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)
 ----------------------------------------------------------------------------------------------------------------
+
+**[≡](#contents)**
 
 (*I would like to thank an associate of mine for the mythological name - otherwise I would have continued to call it simply primordial cancer-like chaos. Tamed Lovecraftian horror is not the same as [Lovecraftian horror](https://en.wikipedia.org/wiki/Lovecraftian_horror) which is much more nihilistic. But it's still a cosmic horror none the less.*)
 
@@ -332,6 +354,8 @@ So we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvel
 
 
 ## Research program Discussion links and further reading
+
+**[≡](#contents)**
 
 Discussion of this research program is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
