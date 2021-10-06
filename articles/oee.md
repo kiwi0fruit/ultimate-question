@@ -13,7 +13,7 @@ If turing completeness is a formalization of algorithms (that previously were pe
 
 ## Simplest open-ended evolution model as a theory of everything
 
-Year ago I abandoned the research project ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [article](https://github.com/kiwi0fruit/ultimate-question), [subscribe on Reddit](https://www.reddit.com/r/DigitalPhilosophy)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
+Year ago I abandoned the research project ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [article](../README.md), [subscribe on Reddit](https://www.reddit.com/r/DigitalPhilosophy)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
 
 
 ## 1. Open-ended evolution
