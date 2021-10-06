@@ -1,6 +1,6 @@
 # The Ultimate Question of Life, the Universe, and Everything
 
-## NEW:
+### NEW UPDATES
 
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
 * **[Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)](./articles/dxb.md) aka Applying Universal Darwinism to evaluation of Terminal values gives Buddarwinism**
@@ -14,9 +14,9 @@
 # The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor [≡][itoc]{#intro-contents}
 
 
-Introduction contents:
+### Introduction contents
 
-* [Intro pt.1](#i1)
+* [Intro pt.1](#intro-pt-1)
 * [Intro pt.2: Key ideas](#i2)
 * [Intro pt.3: Justification and best tools](#i3)
 * [Intro pt.4: The model](#i4)
@@ -27,7 +27,9 @@ Introduction contents:
 _GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
 
 
-### Intro pt.1 [≡][itoc]{#i1}
+### Intro pt.1
+
+**[≡](#introduction-contents)**
 
 _**UPD**: It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article._
 
