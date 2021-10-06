@@ -1,7 +1,11 @@
 Evaluating terminal values
 ==========================
 
-How to evaluate terminal values of humans (defined like in [here](https://www.lesswrong.com/tag/terminal-value))? Values are subjective but the question asks for some objective perspective. This question is of interest as “Humans' terminal values are often mutually contradictory, inconsistent, and changeable”.
+How to evaluate terminal values of humans (defined like on [lesswrong](https://www.lesswrong.com/tag/terminal-value))? Quote:
+
+> A terminal value (also known as an intrinsic value) is an ultimate goal, an end-in-itself. ... In an [artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) with a [utility](https://www.lesswrong.com/tag/utility-functions) or reward function, the terminal value is the maximization of that function.
+
+Values are subjective but the question asks for some objective perspective. This question is of interest as “Humans' terminal values are often mutually contradictory, inconsistent, and changeable”.
 
 Obviousness of natural selection (NS) can pose some constraints, albeit weak ones, as all known systems with sentient agents abide NS. But weak constraints are still better than no constraints at all.
 
