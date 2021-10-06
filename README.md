@@ -11,20 +11,26 @@
 * **[Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](./articles/answer_all_why_questions.md)**
 
 
-# The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor [≡][itoc]{#intro-contents}
+# The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor
 
 
 ### Introduction contents
 
 [itoc]: #introduction-contents
+[i1]: #intro-pt1
+[i2]: #intro-pt2-key-ideas
+[i3]: #intro-pt3-justification-and-best-tools
+[i4]: #intro-pt4-the-model
+[i5]: #intro-pt5-obvious-problems-incl-what-is-inanimate-matter-what-about-quantum-computers
+[i6]: #intro-pt6-ps-discussion-subscribe-source-code-repository
 
-* [Intro pt.1](#intro-pt1)
-* [Intro pt.2: Key ideas](#intro-pt2-key-ideas)
-* [Intro pt.3: Justification and best tools](#intro-pt3-justification-and-best-tools)
-* [Intro pt.4: The model](#intro-pt4-the-model)
-* [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#intro-pt5-obvious-problems-incl-what-is-inanimate-matter-what-about-quantum-computers)
-* [Intro pt.6: P.S, discussion, subscribe, source code repository](#intro-pt6-ps-discussion-subscribe-source-code-repository)
-* [Appendix: contents of the previous article on the topic](#appendix-contents)
+* [Intro pt.1][i1]
+* [Intro pt.2: Key ideas][i2]
+* [Intro pt.3: Justification and best tools][i3]
+* [Intro pt.4: The model][i4]
+* [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?][i5]
+* [Intro pt.6: P.S, discussion, subscribe, source code repository][i6]
+* [Appendix: contents of the previous article on the topic][toc]
 
 
 ### Intro pt.1
@@ -130,37 +136,60 @@ This introduction actually contains everything important that is in this article
 
 ## Appendix contents
 
-[toc]: #appendix-contents
-
 **[≡←][itoc]**
 
+[toc]: #appendix-contents
+[s0]: #0
+[s0_1]: #01
+[s1]: #1
+[s1_1]: #11
+[s1_2]: #12
+[s2]: #2
+[s2_1]: #21
+[s2_2]: #22
+[s2_3]: #23
+[s2_4]: #24
+[s2_5]: #25
+[s2_6]: #26
+[s3]: #3
+[s4]: #4
+[s4_1]: #41
+[s4_2]: #42
+[s4_2_1]: #421
+[s4_2_2]: #422
+[s5]: #5
+[s6]: #6
+[s7]: #7-artificial-life-model-as-a-self-justifying-theory-of-everything
+[ps]: #8-ps
+[ref]: #9-references
+
 * [Introduction contents][itoc]
-* [0. Short formulation of the problem](#s0)
-    - [0.1 The first two hardest problems I struggled and haven't solved](#s0_1)
-* [1. The physical and philosophical background of this problem](#s1)
-    - [1.1 Reminding the foundations of the theory of evolution](#s1_1)
-    - [1.2 The description of the research program](#s1_2)  
-* [2. The main features and problems of/in the mathematical model to create](#s2)
-    - [2.1 First overview of the mathematical model to create](#s2_1)
-    - [2.2 The model as the process of natural selection](#s2_2)
-    - [2.3 The model as the structure that changes in time](#s2_3)
-    - [2.4 The pattern in the structure is the same as the individual in the natural selection](#s2_4)
-    - [2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms](#s2_5)
-    - [2.6 Some questions and Chaotic thoughts](#s2_6)  
-* [3. On artificial life, open ended evolution and “why these laws of nature?” question](#s3)
-* [4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](#s4)
-    - [4.1 Possible restrictions and constraints of the model](#s4_1)
-    - [4.2 Examples of the models that resemble the desired model](#s4_2)  
-        - [4.2.1 The first example](#s4_2_1)
-        - [4.2.2 The second example](#s4_2_2)
-* [5. Why this task? On “Why is there something rather than nothing?” question](#s5)
-* [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
-* [7. Artificial life model as a self-justifying theory of everything](#s7)
-* [8. P.S.](#ps)
+* [0. Short formulation of the problem][s0]
+    - [0.1 The first two hardest problems I struggled and haven't solved][s0_1]
+* [1. The physical and philosophical background of this problem][s1]
+    - [1.1 Reminding the foundations of the theory of evolution][s1_1]
+    - [1.2 The description of the research program][s1_2]
+* [2. The main features and problems of/in the mathematical model to create][s2]
+    - [2.1 First overview of the mathematical model to create][s2_1]
+    - [2.2 The model as the process of natural selection][s2_2]
+    - [2.3 The model as the structure that changes in time][s2_3]
+    - [2.4 The pattern in the structure is the same as the individual in the natural selection][s2_4]
+    - [2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms][s2_5]
+    - [2.6 Some questions and Chaotic thoughts][s2_6]
+* [3. On artificial life, open ended evolution and “why these laws of nature?” question][s3]
+* [4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)][s4]
+    - [4.1 Possible restrictions and constraints of the model][s4_1]
+    - [4.2 Examples of the models that resemble the desired model][s4_2]
+        - [4.2.1 The first example][s4_2_1]
+        - [4.2.2 The second example][s4_2_2]
+* [5. Why this task? On “Why is there something rather than nothing?” question][s5]
+* [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories][s6]
+* [7. Artificial life model as a self-justifying theory of everything][s7]
+* [8. P.S.][ps]
 * [9. References][ref]
 
 
-## 0. Short formulation of the problem [≡][toc]{#s0}
+## 0. Short formulation of the problem
 
 **[≡↑][toc]**
 
@@ -206,7 +235,9 @@ The structure is discrete and finite. Steps of time that correspond to changes i
 So my question is a request for intuitions on how to create that complete picture that satisfies the constraints.
 
 
-### 0.1 The first two hardest problems I struggled and haven't solved [≡][toc]{#s0_1}
+### 0.1 The first two hardest problems I struggled and haven't solved
+
+**[≡↑][toc]**
 
 The two hardest problems I struggled and haven't solved are about 1) how to define fixed laws that govern structure change (meta-laws?) and 2) what means **the simplest model**. And even more: that two problems seem to be two sides of the same single problem.
 
@@ -225,12 +256,16 @@ Rest of my aesthetics try to guide me how to add that. But problems arise... Act
 This whole task mostly is in the metaphysics and mathematics intersection. The one to accomplish it should be serious about both 1) precise math definitions and processes descriptiopns and 2) metaphysics problems and reasoning. If one to ignore, belittle or downplay either of two components then he is unlikely to succeed in this particular direction.
 
 
-## 1. The physical and philosophical background of this problem [≡][toc]{#s1}
+## 1. The physical and philosophical background of this problem
+
+**[≡↑][toc]**
 
    **The general idea** of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time. It also might be that there exist convincing arguments in favor the impossibility of creating that mathematical model.
 
 
-### 1.1 Reminding the foundations of the theory of evolution [≡][toc]{#s1_1}
+### 1.1 Reminding the foundations of the theory of evolution
+
+**[≡↑][toc]**
 
    To begin with, I will briefly remind the foundations of the theory of evolution. This theory is the cornerstone of the research program.
 
@@ -247,7 +282,9 @@ As noted by Karl Popper the theory of evolution is a theory of **gradual changes
    The only one known to me explanation of how the complexity emerges from the simplicity is the theory of evolution. The complexity emerges by itself (!) and gradually when conditions (p1)-(p5) are met.
 
 
-### 1.2 The description of the research program [≡][toc]{#s1_2}
+### 1.2 The description of the research program
+
+**[≡↑][toc]**
 
    As already mentioned, the general idea of the research program can be summarized as follows: to describe the beginning of the universe (and its development during first time) using the language of the theory of evolution. It’s assumed that the universe had the simple starting structure (the beginning). And the task is to describe mathematically accurate the starting structure and the process of it’s development in time.
 
@@ -275,12 +312,16 @@ And then to see if in this model would be stable structures (patterns?) that rep
 _**The described research task is proposed to be accomplished by creating the mathematical model that is partly described in the section 2**_.
 
 
-## 2. The main features and problems of/in the mathematical model to create [≡][toc]{#s2}
+## 2. The main features and problems of/in the mathematical model to create
+
+**[≡↑][toc]**
 
 The mathematical model is constructed in the framework of research task described in the section **1**.
 
 
-### 2.1 First overview of the mathematical model to create [≡][toc]{#s2_1}
+### 2.1 First overview of the mathematical model to create
+
+**[≡↑][toc]**
 
    Some properties possessed by the mathematical model can already be assumed. The model is mathematical in the sense that it is required to build a unified language of envisioning and thinking about a specific process in time. This process is still far from clear and whole picture. Here I am referring to mathematics as a unified language for describing and modeling the reality and possible reality.
 
@@ -294,7 +335,9 @@ The mathematical model is constructed in the framework of research task describe
    Regarding the nature of mathematical models: mathematics, mathematical models and constructs are created by people. Before the act of creation they do not exist. But the interesting thing is that the models can be isomorphic to the part of the reality.
 
 
-### 2.2 The model as the process of natural selection [≡][toc]{#s2_2}
+### 2.2 The model as the process of natural selection
+
+**[≡↑][toc]**
 
    There is a short list of the postulates of natural selection (there is a more detailed list of the postulates in section **1**):
 
@@ -317,7 +360,9 @@ The mathematical model is constructed in the framework of research task describe
 * Most likely, spontaneous/random features are postulated in “variation (p5) about the same way as uncertainty and probabilities of the outcomes is postulated in the probability theory (using classical definition of probability).
 
 
-### 2.3 The model as the structure that changes in time [≡][toc]{#s2_3}
+### 2.3 The model as the structure that changes in time
+
+**[≡↑][toc]**
 
    Previously described point of view on the model partly shows mechanisms of it’s evolution and increasing complexity. There is also a point of view on the model as on the structure that changes in time. It is not clear what are the individuals in that structure. It can be assumed that individuals are stable patterns like waves existing in the discrete structure that consists of interconnected parts (like graph). Their origin may even be the topological curvature [[5][ref]] (knots? [[6][ref]] braids? [[7][ref], [8][ref]]). The patterns should be resistant to perturbations. The origin of these perturbations is not yet determined. Likely, it should take into account the postulates of the natural selection. The process of changing the structure in time can be similar to the following views:
 
@@ -330,7 +375,9 @@ The mathematical model is constructed in the framework of research task describe
 * Also, if the space-time structure will have similarities with a screw dislocation in a crystal or with a Riemann surface then the selection of “layers” of the present may be a nontrivial task. The possibility that the process of changing of the parts of the structure (space-time description) is a partially ordered set should also be investigated. In a partially ordered set not all elements of the space-time structure are comparable against relation earlier in time/later in time/same time. In contrast to a partially ordered set in a totally ordered set all elements of the space-time structure are comparable against the relation mentioned.
 
 
-### 2.4 The pattern in the structure is the same as the individual in the natural selection [≡][toc]{#s2_4}
+### 2.4 The pattern in the structure is the same as the individual in the natural selection
+
+**[≡↑][toc]**
 
    At the moment I’m trying to find an answer to the following question: _how is it that the pattern in the structure is the same as the individual in the natural selection?_
 
@@ -347,7 +394,9 @@ This inevitably requires answers to the following questions:
    The question is about creation of a mathematical dynamic model that satisfies the described conditions. At this point of research I lack intuitive insights on possible structures of that model. So the possible algorithm is to generate a guess on the structure and then check whether it fits conditions. It’s mostly a mathematical problem.
 
 
-### 2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms [≡][toc]{#s2_5}
+### 2.5 Other properties of the model: separability, meaning of life, strange loop, agents with free will, algorithms
+
+**[≡↑][toc]**
 
 There are some other properties of the mathematical model to create that can be assumed. The following points are even more intuitive and far-fetched than the previously described. Actually this section is a short conspect of my chaotic ideas.
 
@@ -385,7 +434,9 @@ There are some other properties of the mathematical model to create that can be 
 The notions of **recursion**, **reproduction**/**doubling**, **randomness**/**spontaneous symmetry breaking** and **natural selection** seem to be among the keys to understanding novelty creation and the Universe development from the simplest state at the beginning of time. And what about **energy flows**?
 
 
-### 2.6 Some questions and Chaotic thoughts [≡][toc]{#s2_6}
+### 2.6 Some questions and Chaotic thoughts
+
+**[≡↑][toc]**
 
 * My problem is not only in the nuances and complexities of the construction of the mathematical model. Three years of work on the problem as a hobby did not give any significant results. There is also a feeling that I could have chosen bad tools for creating the model (e.g. myself). The selected assumptions and criteria for the model may also include contradictions or other problems. So I need advice and support not only of the theoretical kind but also of the practical kind: e.g. tool selection and correction of goals.
 
@@ -408,16 +459,20 @@ There is also a list of thoughts, notes and questions that at some point seemed 
 * What if the present doesn't morph into future but creates the future? So when trying to create models like in [section 4.2](#s4_2) the creation of the next step from previous step should be explicit: if something is not created then this will not be in the future. This point of view may be more convenient for natural selection.
 
 
-## 3. On artificial life, open ended evolution and “why these laws of nature?” question [≡][toc]{#s3}
+## 3. On artificial life, open ended evolution and “why these laws of nature?” question
+
+**[≡↑][toc]**
 
    My main goal briefly and correctly: to create a model of Open Ended Evolution (Then test it on the PC. May be even with hardware random number generator). The good overview of the Open Ended Evolution problem is given by Alastair Channon: [channon.net/alastair](http://www.channon.net/alastair/) [[9][ref]]. This name states for an artificial life that don’t stop it’s evolution on a fixed level of complexity but instead progresses further. The only difference seem to be that the model I’d like to create is planned to be the simplest model. To be the simplest in the philosophical sense. Like Occam’s razor. These restrictions of simplicity make the difficulties that I was describing in this open letter (start from the simplest structure, no predetermined structures except natural selection postulates, no environment, only individuals).
 
    And the final goal is to answer the “why these laws of nature?” question. More precisely: why these processes take place but not the other. The history in the model of natural selection is a perfect explanation (if we know the whole history) and answer to any “why?” question. But for the model of open ended evolution to be a candidate for a model of the beginning of the universe it should be the simplest model possible (from the philosophical reasoning).
 
 
-## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡][toc]{#s4}
+## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)
 
-### 4.1 Possible restrictions and constraints of the model [≡][toc]{#s4_1}
+### 4.1 Possible restrictions and constraints of the model
+
+**[≡↑][toc]**
 
 Here is an attempt to describe the restrictions and constraints mentioned in section **3** (and described in more details in the open letter) in a more formal way.
 
@@ -463,12 +518,16 @@ So it's my guess that formal models that satisfy the constraints mentioned can b
 * The constraint that the process starts from the graph consisting of the only one vertex may be wrong. The cases where there are two or three (but no more) vertices at the beginning should also be investigated.
 
 
-### 4.2 Examples of the models that resemble the desired model [≡][toc]{#s4_2}
+### 4.2 Examples of the models that resemble the desired model
+
+**[≡↑][toc]**
 
 Here is the a try to create a mathematical dynamic model that satisfies some of the constraints mentioned. I doubt that it would succeed. But it may show some problems and make the limitations of this approach more clear.
 
 
-#### 4.2.1 The first example [≡][toc]{#s4_2_1}
+#### 4.2.1 The first example
+
+**[≡↑][toc]**
 
 **The decsription of the first model:**
 
@@ -498,7 +557,9 @@ Let’s draw some steps of this process. “True” vertices would be white. “
 4. There are even more randomly selected outcomes on this step. So the computer simulation is required.
 
 
-#### 4.2.2 The second example [≡][toc]{#s4_2_2}
+#### 4.2.2 The second example
+
+**[≡↑][toc]**
 
 There is another model that is more simple in some sense.
 
@@ -557,7 +618,9 @@ Let’s draw some steps of this process. First number distinguish vertices, ∩ 
 Seems like the weighted edges are required… There are more randomly selected outcomes on this step. So the computer simulation is required to speed up the research.
 
 
-## 5. Why this task? On “Why is there something rather than nothing?” question [≡][toc]{#s5}
+## 5. Why this task? On “Why is there something rather than nothing?” question
+
+**[≡↑][toc]**
 
    The two described tasks (1. to get laws of nature from natural selection of structures. 2. to create the minimum mathematical model for open ended evolution) are actually the same task.
 
@@ -570,7 +633,9 @@ Seems like the weighted edges are required… There are more randomly selected o
 **UPD**. Examples of models from [section 4](#s4) have highlighted the need for a more consistent justification of the original rules for modifying the graph.
 
 
-## 6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories [≡][toc]{#s6}
+## 6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories
+
+**[≡↑][toc]**
 
 The desired model assumes [indeterminism](https://en.wikipedia.org/wiki/Indeterminism). And I actually have some consideration why [determinism](https://en.wikipedia.org/wiki/Determinism) is wrong. For this we need to remember some ancient Greeks and the law of gravitation. Some of them formulated the law as _“everything falls down”_. And immediately were faced with the question _“Why does not the ground then fall down?”_. And they gave the answer _“It is standing on the elephant”_. On a reasonable next question _“Why does not the elephant fall down?”_ they gave the answer _“The elephant is standing on another elephant”_. On reasonable _“WTF???”_ they gave an answer _“There are infinite number of elephants”_. And then they came to a bizzare picture with an infinite number of elephants. Then some cleverer ancient Greek reformulated the law as _“everything falls to the ground”_ - and removed the infinite chain of elephants. As we found out, he was right.
 
@@ -579,15 +644,19 @@ If we are to explain history and answer _“why?”_ questions we either should 
 As said in [Section 3](#s3) the desired model is a perfect candidate for theory that answers any _“why?”_ questions. But that's not the case for your typical physics theory: it assumes lots of complex mathematical objects to be present without explanation how they emerged. So it's like postulating an elephant in example above - except that the theories were tested against reality and they precisely describe **how** processes work. If we would create yet another theory that postulates some complex mathematical objects we still would need an answer  to _“why these objects?”_ question. So the right way of answering _“why?”_ questions should be aware of the described problem right from the start - something like self-justifying comes to mind (whatever that means). This inevitably raises meta-laws question that mentioned in [Section 2.5](#s2_5) so even the  desired model still doesn't have a complete answer to this problem (actually this acticle has much more questions than answers...).
 
 
-## 7. Artificial life model as a self-justifying theory of everything [≡][toc]{#s7}
+## 7. Artificial life model as a self-justifying theory of everything
 
-### [7.1 redirect to 7](#s7) [≡][toc]{#s7_1}
+**[≡↑][toc]**
 
-### [7.2 redirect to Introduction 4](#i4) [≡][toc]{#s7_2}
+### [7.1 redirect to 7][s7]
 
-### [7.3 redirect to Introduction 5](#i5) [≡][toc]{#s7_3}
+### [7.2 redirect to Introduction 4][i4]
 
-**THIS 7. SECTION IS OUTDATED: I'M NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**
+### [7.3 redirect to Introduction 5][i5]
+
+**[≡↑][toc]**
+
+**THIS SECTION #7. IS OUTDATED: I'M NO LONGER FOND OF SELF-JUSTIFICATION IDEA.**
 
 First I'll add some details about notion of **self-justifying** that show _more_ about the motivation behind the research. Potential theories of everything can be **self-justifying** or not. It means that the theory is:
 
@@ -601,8 +670,6 @@ I suggest use similar approach but use natural selection instead of AGI. We know
 
 ## 8. P.S.
 
-[ps]: #8-ps
-
 **[≡↑][toc]**
 
 I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
@@ -613,8 +680,6 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 
 ## 9. References
-
-[ref]: #9-references
 
 **[≡↑][toc]**
 
