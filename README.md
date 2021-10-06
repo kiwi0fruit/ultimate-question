@@ -56,7 +56,9 @@ There are two main intuitions-constraints for this universe: 1) the start from t
 **The model to build is a model of complexity generation. At later steps the complexity should be capable of intelligence and self-knowledge.** Sadly I have not moved far to this goal. I'm still in the situation of "I feel like the answer the this grand question can be obtained this particular way"
 
 
-### Intro pt.3: Justification and best tools [≡][itoc]{#i3}
+### Intro pt.3: Justification and best tools
+
+**[≡](#introduction-contents)**
 
 Those two intuitions come from the following:
 
@@ -69,7 +71,9 @@ Luckily we also have an artificial life open-ended evolution (a-life OEE) restri
 More about justification: [Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?](articles/answer_all_why_questions.md)
 
 
-### Intro pt.4: The model [≡][itoc]{#i4}
+### Intro pt.4: The model
+
+**[≡](#introduction-contents)**
 
 The research program uses the artificial life model with natural selection as a basis. This means taking inspiration in natural selection of biological life (**NS**). Also adding Occam's razor (**OR**) to the picture. In order to continue we need to precisely define what are individuals in the model (and environment if needed) and how the process of their replication and death takes place. There are some properties of the model we can assume and go with:
 
@@ -85,7 +89,9 @@ The research program uses the artificial life model with natural selection as a 
 * More **complex laws are emergent** from algorithms formed by surviving stable individuals that **change other individuals** (or environment if there's any).
 
 
-### Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers? [≡][itoc]{#i5}
+### Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?
+
+**[≡](#introduction-contents)**
 
 1\. If we assume that complex laws are emergent from algorithms then **what about quantum computers?** question needs answering. It can be formulated as "Is bounded-error **quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?**"
 
@@ -107,7 +113,9 @@ Ideas about possible solutions:
 * If these well-protected algorithms get corrupted and something like cancer happen then we always have the anthropic principle to explain why we haven't seen anything like that before ;)
 
 
-### Intro pt.6: P.S, discussion, subscribe, source code repository [≡][itoc]{#i6}
+### Intro pt.6: P.S, discussion, subscribe, source code repository
+
+**[≡](#introduction-contents)**
 
 You can discuss the letter [on GitHub or Reddit](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
@@ -120,9 +128,11 @@ This introduction actually contains everything important that is in this article
 * [Markdown source code](https://github.com/kiwi0fruit/ultimate-question).
 
 
-## Appendix contents: [≡][toc]{#contents}
+## Appendix contents
 
-* [Introduction contents][itoc]
+**[≡](#introduction-contents)**
+
+* [Introduction contents](#introduction-contents)
 * [0. Short formulation of the problem](#s0)
     - [0.1 The first two hardest problems I struggled and haven't solved](#s0_1)
 * [1. The physical and philosophical background of this problem](#s1)
@@ -149,6 +159,8 @@ This introduction actually contains everything important that is in this article
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
+
+**[≡](#appendix-contents)**
 
 #### A. The model as the process of natural selection
 
