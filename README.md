@@ -2,6 +2,7 @@
 
 ### NEW UPDATES
 
+* **[Novelty emergence mechanics as a core idea of any viable ontology of the universe](./articles/novelty.md)**
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
 * **[Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)](./articles/dxb.md) aka Applying Universal Darwinism to evaluation of Terminal values**
 * **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)**
