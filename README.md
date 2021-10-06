@@ -18,13 +18,11 @@
 
 * [Intro pt.1](#intro-pt1)
 * [Intro pt.2: Key ideas](#intro-pt2-key-ideas)
-* [Intro pt.3: Justification and best tools](#i3)
-* [Intro pt.4: The model](#i4)
-* [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#i5)
-* [Intro pt.6: P.S, discussion, subscribe, source code repository](#i6)
-* [Appendix: contents of the previous article on the topic][toc]
-
-_GitHub repo has preview only. The intended view is only on [**GitHub Pages**](https://kiwi0fruit.github.io/ultimate-question) (better with Javascript on)_.
+* [Intro pt.3: Justification and best tools](#intro-pt3-justification-and-best-tools)
+* [Intro pt.4: The model](#intro-pt4-the-model)
+* [Intro pt.5: Obvious problems, incl. what is inanimate matter? what about quantum computers?](#intro-pt5-obvious-problems-incl-what-is-inanimate-matter-what-about-quantum-computers)
+* [Intro pt.6: P.S, discussion, subscribe, source code repository](#intro-pt6-ps-discussion-subscribe-source-code-repository)
+* [Appendix: contents of the previous article on the topic](#appendix-contents)
 
 
 ### Intro pt.1
