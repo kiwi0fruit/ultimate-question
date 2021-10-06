@@ -153,7 +153,7 @@ This introduction actually contains everything important that is in this article
 * [6. Infinite elephants, indeterminism vs. determinism, "why?" answering theories vs. "how?" answering theories](#s6)
 * [7. Artificial life model as a self-justifying theory of everything](#s7)
 * [8. P.S.](#ps)
-* [9. References][ref]
+* [9. References](#references)
 
 
 ## 0. Short formulation of the problem [≡][toc]{#s0}
@@ -604,7 +604,7 @@ I would be grateful for any feedback and advice.
 Peter Zagubisalo, January 2016, minor update July 2018  
 
 
-## 9. References [≡][toc]{#references}
+## 9. References
 
 [1] Lee Smolin, The fate of black hole singularities and the parameters of the standard models of particle physics and cosmology, arXiv:gr-qc/9404011v1, 1994, [arxiv.org/abs/gr-qc/9404011](http://arxiv.org/abs/gr-qc/9404011)
 
@@ -629,7 +629,7 @@ Peter Zagubisalo, January 2016, minor update July 2018
 
 ----
 
-[**Return to root**](https://github.com/kiwi0fruit/ultimate-question)
+[**Return to root**](#the-ultimate-question-of-life-the-universe-and-everything)
 
 [itoc]: #intro-contents
 [toc]: #contents
