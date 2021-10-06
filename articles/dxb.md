@@ -6,7 +6,7 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
-Contents:
+### Contents
 
 * [Introduction to Buddha-Darwinism](#introduction-to-buddha-darwinism)
 * [Cosmogonic myth from Darwinian natural selection (relevant for dxb)](#cosmogonic-myth-from-darwinian-natural-selection-relevant-for-dxb) 
