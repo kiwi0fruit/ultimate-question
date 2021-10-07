@@ -1,4 +1,4 @@
-# Modern sciense ontology is a Last Thursdayism implicitly
+# Modern sciense ontology is implicitly the Last Thursdayism
 
 ## (this doesn't diminish physics predictive power).
 
