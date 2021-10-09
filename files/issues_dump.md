@@ -1,3 +1,8 @@
+# Pay more attention to inanimate matter problem and stability of space and conservation laws
+
+Pay more attention to inanimate matter problem and stability of space and conservation laws. There may or may not be echoes of the basic laws right in them. Or they themselves can be basic (or they can be decomposed into a basic part applied to the evolved one). BVSR (blind variation with selective retention) without heredity can also be relevant in conjunction with the known laws of physics. It's necessary to explain without anthropic principle why everything so stable. And by the way, are there really no more worthwhile models of accumulation of novelty? Search for "theories of emergence".
+
+
 # Discrete energy flow as a base for space and time -> hierarchy of energy levels
 
 Base level can convert only a small amount of energy to small chunks of space (I don't know what this nonsense means). The next level can combine chunks from the previous level and hence get access to higher total energies (and more complex space structures).
