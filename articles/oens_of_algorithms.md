@@ -32,6 +32,13 @@ My contribution to open-ended evolution research program comes from philosophy d
 Worth noting that it's also important to explore other ways the novel stable complexity can emerge. Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligent design was the only known thing capable of NSCE (albeit being a far from ideal explanation). Evolution and natural selection (NS) is the best explanation for NSCE that we have at the moment: an endless process of survival and accumulation of novelty. But it's possible that there are other way of novelty emergence that are better than NS. So it's worth be open and keep abreast.
 
 
+### Appendix: Possible open-ended evolution research directions (self-reference, quantum computers, discrete ontology might not be enough)
+
+* [Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos](https://arxiv.org/abs/1711.02456),
+* The discrete ontology might not be enough to express our current universe. See [discussion](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/) for “*Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?*”:
+  > What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time ([BQP](https://en.wikipedia.org/wiki/BQP)) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory? By discrete I meant countable.
+
+
 ### Further info links
 
 * [article on my (futile) efforts to solve this problem](../README.md) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) (lots of comments)
