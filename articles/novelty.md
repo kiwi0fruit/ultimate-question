@@ -7,7 +7,7 @@ I'm sure that any ontology that desires to be applicable to the universe as a wh
 *Quote from [Applying Universal Darwinism to evaluation of Terminal values](./dxb.md)* aka *Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)*.
 
 Desire for novelty emergence explanation comes from reformulated ancient question “why is there something rather
-than nothing?“. Reformulated into: “why these structures exist instead of other?“
+than nothing?”. Reformulated into: “why these structures exist instead of other?”
 
 And at the moment we really don't have a better mechanism-explanation for novelty emergence (in general) than natural selection.
 
