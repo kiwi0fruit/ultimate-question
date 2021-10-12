@@ -1,4 +1,4 @@
-# Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
+# Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness (also on Novel stable complexity emegrence)
 
 <!-- [this time no redundant info] -->
 
