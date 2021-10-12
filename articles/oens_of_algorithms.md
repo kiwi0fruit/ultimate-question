@@ -13,7 +13,7 @@ The open-ended evolution (OEE) is a not very popular research program which goal
 
 ### The modelling problem
 
-Just as algorithms performed by humans were formalized and property of Turing completeness was defined: the same formalization presumably can be done to the open-ended evolution observed in nature. It went from precellular organisms to unicellular organisms and finally to Homo sapiens driven by natural selection postulates (reproduction-doubling, heredity, variation-random, selection-death, individuals-and-environment/individuals-are-environment) and the Red Queen hypothesis that resulted in increasing complexity. Open-endedness property here is analogous to Turing completeness property. It could be formalized differently but it still would form an equivalence class.
+Just as algorithms performed by humans were formalized and property of Turing completeness was defined: the same formalization presumably can be done to the open-ended evolution observed in nature. It went from precellular organisms to unicellular organisms and finally to Homo sapiens driven by natural selection postulates (reproduction-doubling, heredity, variation-random, selection-death, individuals-and-environment/individuals-are-environment). The Red Queen hypothesis and cooperation-competition balance resulted in increasing complexity. Open-endedness property here is analogous to Turing completeness property. It could be formalized differently but it still would form an equivalence class.
 
 And the concise formulation of this process would be something like **Open-ended natural selection of interacting code-data-dual algorithms**.
 
