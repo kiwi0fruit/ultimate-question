@@ -2,6 +2,7 @@
 
 ### NEW UPDATES
 
+* **[Support me on Patreon](https://www.patreon.com/peotrzagubisalo)**  
 * **[Novelty emergence mechanics as a core idea of any viable ontology of the universe](./articles/novelty.md)**
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
 * **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)** aka Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)
