@@ -34,7 +34,6 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 
 * “[Evaluating terminal values](./evaluating_terminal_values.md)” is a small recap of the key idea of this article.
 * [Novelty emergence mechanics as a core idea of any viable ontology of the universe](./novelty.md)
-* [Modern sciense ontology is implicitly the Last Thursdayism](./last_thursdayism.md)
 
 
 Introduction to Buddha-Darwinism
