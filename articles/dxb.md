@@ -8,6 +8,11 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
+### Abstract
+
+This article sums up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes. In particular it 1) applies Universal Darwinism to evaluation of Terminal values, 2) separates objective meaning of life from subjective meaning of life using notion of Quasi-immortality, 3) justifies the free will as a consequence of the Universal Darwinism, 4) comes to the conclusion of Buddhism-like illusion of “Self” as a consequence of the Quasi-immortality, 5) as a bonus gives Universal Darwinism a hypothetical and vivid Cosmogonic myth from Darwinian natural selection.
+
+
 ### Contents
 
 [toc]: #contents
