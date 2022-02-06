@@ -384,8 +384,6 @@ Discussion of this research program is aggregated in this [GitHub discussion](ht
 
 News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2), subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) and substack [Digital Philosophy](https://digitalphilosophy.substack.com/).
 
-Also see “[Evaluating terminal values](./evaluating_terminal_values.md)” small recap of Applying Universal Darwinism to evaluation of goals and values gives “Buddarwinism” line of thought in this article.
-
 My previous research on this topic is *[here](./)*.
 
 Good starting point to the research program: [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./oens_of_algorithms.md).
