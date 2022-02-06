@@ -411,10 +411,6 @@ So that's it. That's the only way to objectively judge terminal values I'm aware
 
 P.S. Basically, this section is a recap of some part of the more poetic and “old school” article above.
 
-----
-
-Discussion on this topic is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and [here](https://www.lesswrong.com/posts/rfmiR5EntwmNYvXeW/evaluating-terminal-values-1).
-
 
 ### Novelty emergence mechanics as a core idea of any viable ontology of the universe
 
