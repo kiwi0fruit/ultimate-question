@@ -1,4 +1,4 @@
-.  
+PDF print with Edit file Preview; Use pages 2-...; A4; margins: 49mm 10mm 49mm 10mm  
 .  
 .  
 .  
