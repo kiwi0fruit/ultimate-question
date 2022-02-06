@@ -26,6 +26,9 @@ Buddha-Darwinism on objective meaning of life separated from subjective meaning 
   * [Possible OEE research directions: Self-reference, quantum computers, discrete ontology might not be enough](#possible-oee-research-directions-self-reference-quantum-computers-discrete-ontology-might-not-be-enough)
   * [Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (aka Free lunch that might eat you)](#primordial-chaos-of-tamed-lovecraftian-horror-as-a-source-of-infinite-energy-aka-free-lunch-that-might-eat-you)
   * [Research program Discussion links and further reading](#research-program-discussion-links-and-further-reading)
+* [Appendix](#appendix)
+  * [Evaluating terminal values](#evaluating-terminal-values)
+  * [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#novelty-emergence-mechanics-as-a-core-idea-of-any-viable-ontology-of-the-universe)
 
 
 # NEW UPDATES
@@ -381,3 +384,46 @@ Also see “[Evaluating terminal values](./evaluating_terminal_values.md)” sma
 My previous research on this topic is *[here](./)*.
 
 Good starting point to the research program: [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./oens_of_algorithms.md).
+
+
+## Appendix
+
+**[≡←][toc]**
+
+### Evaluating terminal values
+
+How to evaluate terminal values of humans (defined like on [lesswrong](https://www.lesswrong.com/tag/terminal-value))? Quote:
+
+> A terminal value (also known as an intrinsic value) is an ultimate goal, an end-in-itself. ... In an [artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) with a [utility](https://www.lesswrong.com/tag/utility-functions) or reward function, the terminal value is the maximization of that function.
+
+Values are subjective but the question asks for some objective perspective. This question is of interest as “Humans' terminal values are often mutually contradictory, inconsistent, and changeable”.
+
+Obviousness of natural selection (NS) can pose some constraints, albeit weak ones, as all known systems with sentient agents abide NS. But weak constraints are still better than no constraints at all.
+
+Terminal goals are being split by natural selection into ones that fail to reproduce / maintain themselves and ones that survive (together with their bearers of cource). And sometimes we can even predict whether some terminal goals would go extinct or at least range their probability of survival (we already had put aside instrumental goals that “die” when they lose their purpose.).
+
+So that's it. That's the only way to objectively judge terminal values I'm aware of. And judgment part comes from a feeling that I don't want to be invested in terminal goals that would most likely go extinct. At least they should be “mutated” in way to balance minimization of their change and maximization of their survival probability to be appealing.
+
+*Are you aware of any other ways to evaluate terminal values?*
+
+P.S. Basically, this section is a recap of some part of the more poetic and “old school” article above.
+
+----
+
+Discussion on this topic is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and [here](https://www.lesswrong.com/posts/rfmiR5EntwmNYvXeW/evaluating-terminal-values-1).
+
+
+### Novelty emergence mechanics as a core idea of any viable ontology of the universe
+
+I'm sure that any ontology that desires to be applicable to the universe as a whole should contain novelty emergence mechanics.
+
+> Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligence was the only known thing capable of explaining novelty emergence. Evolution and natural selection is the best explanation for novelty emergence that we have at the moment: an endless process of survival and accumulation of novelty.
+
+*Quote from the article above*.
+
+Desire for novelty emergence explanation comes from reformulated ancient question “why is there something rather
+than nothing?”. Reformulated into: “why these structures exist instead of other?”
+
+And at the moment we really don't have a better mechanism-explanation for novelty emergence (in general) than natural selection.
+
+Hence it would be a good try to embrace [Universal Darwinism](https://m.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
