@@ -1,7 +1,9 @@
 Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
 =======================================================
 
-## aka Applying Universal Darwinism to evaluation of Terminal values
+## *aka* Applying Universal Darwinism to evaluation of Terminal values
+
+## *aka* Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
 
 
 <img src="./dxb.png" alt="dxb" height="40px">
