@@ -33,7 +33,7 @@ PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm 11mm 49mm 11
 Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
 =======================================================
 
-### Peotr Zagubisalo, 2022, https://github.com/kiwi0fruit
+### Peotr Zagubisalo, 2022, https://github.com/kiwi0fruit/ultimate-question
 
 ### Abstract
 
