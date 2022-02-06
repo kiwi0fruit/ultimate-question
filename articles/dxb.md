@@ -382,7 +382,7 @@ So we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvel
 
 Discussion of this research program is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
-News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2) and subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/).
+News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2), subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) and substack [Digital Philosophy](https://digitalphilosophy.substack.com/).
 
 Also see “[Evaluating terminal values](./evaluating_terminal_values.md)” small recap of Applying Universal Darwinism to evaluation of goals and values gives “Buddarwinism” line of thought in this article.
 
