@@ -1,4 +1,4 @@
-PDF print with Edit file Preview; Use pages 2-...; A4; margins: 49mm 11mm 49mm 11mm  
+PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm 11mm 49mm 11mm  
 > .text-small, .UnderlineNav-item {
 >   font-size: 15.0px;
 > }
@@ -237,6 +237,7 @@ But what justification can the aforementioned Cosmogonic myth have? Let's start 
 
 > To ascertain the meaning of an intellectual conception one should consider what practical consequences might result from the truth of that conception — and the sum of these consequences constitute the entire meaning of the conception.
 > 
+> &nbsp;  
 > Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.
 
 ([Charles Sanders Peirce, 1902-1905](https://en.wikipedia.org/wiki/Pragmatic_maxim))
@@ -257,6 +258,7 @@ So the key ideas about theories are:
 
 * The one which “survived” as much experimental attempts to refute it as possible is better,
 * The one where our Universe is more probable is better,
+
 * The one with fewer assumptions is better,
 * Abstracting into single equivalence class (“Gauging away”) all differences amoung equal models that are left (except for “real” events probabilities),
 * Hoping that there are no “real” events probabilities differences after “Gauging away”,
@@ -341,6 +343,9 @@ In this picture the “batteries of energy” are also noteworthy. Which in natu
 
 But why do classical particles of our universe not reproduce? May be they simply unable to as they implement different security protocol to avoid unauthorized reproduction (but loop processes are allowed). From cosmological natural selection it follows that there were already a large number of universes-ancestors, and it is not yet known on what “layer” our universe is located and how it was formed. Maybe it was designed by intelligent designers even? Due to suppressed reproduction, the number of particles does not increase, and new ones are formed only due to the merger or redistribution of old ones. The energy in this picture can be analogous to the checksum. Energy available for work is generated only in singularities (during the Big Bang). The rest of the time, it flows from an available for work state (batteries) to an inaccessible one. It is not clear why this is so; it would be more natural, within the framework of the cosmogony of natural selection, to have multiplying entities-induviduals. Maybe it has something to do with the ladder of batteries as a logical continuation of the described in the previous paragraph. And the deterministic creation of this ladder is implemented, which optimizes the rate of appearance of intelligent life (or black holes). Or something else.
 
+&nbsp;  
+&nbsp;
+
 Now **back to the interesting part**. Primordial chaos cannot be limited and it's impossible to completely isolate oneself from it. Any measures of protection from it such as to fence off or run away from its effects will be probabilistic and will not give a 100% guarantee. There is always a chance that the primordial chaos will again try to uncontrollably generate new competing lineages of quasiparticles that will destroy the universe suitable for us wherever they reach. And we have the [anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle) to explain why we haven't seen anything like that before ;)
 
 This inherent inevitable risk allows us to poetically call the primordial chaos the **tamed Lovecraftian horror**. Even if the situation is not as nihilistic as in true [Lovecraftian horror](https://en.wikipedia.org/wiki/Lovecraftian_horror).
@@ -416,6 +421,7 @@ My previous research on this topic is *[here](./)*.
 
 Good starting point to the research program: [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./oens_of_algorithms.md).
 
+&nbsp;
 
 ## Appendix
 
@@ -432,6 +438,9 @@ Values are subjective but the question asks for some objective perspective. This
 Obviousness of natural selection (NS) can pose some constraints, albeit weak ones, as all known systems with sentient agents abide NS. But weak constraints are still better than no constraints at all.
 
 Terminal goals are being split by natural selection into ones that fail to reproduce / maintain themselves and ones that survive (together with their bearers of cource). And sometimes we can even predict whether some terminal goals would go extinct or at least range their probability of survival (we already had put aside instrumental goals that “die” when they lose their purpose.).
+
+&nbsp;  
+&nbsp;
 
 So that's it. That's the only way to objectively judge terminal values I'm aware of. And judgment part comes from a feeling that I don't want to be invested in terminal goals that would most likely go extinct. At least they should be “mutated” in way to balance minimization of their change and maximization of their survival probability to be appealing.
 
@@ -454,3 +463,33 @@ than nothing?”. Reformulated into: “why these structures exist instead of ot
 And at the moment we really don't have a better mechanism-explanation for novelty emergence (in general) than natural selection.
 
 Hence it would be a good try to embrace [Universal Darwinism](https://m.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
