@@ -5,7 +5,9 @@
 * **[Support me on Patreon](https://www.patreon.com/peotrzagubisalo)**  
 * **[Novelty emergence mechanics as a core idea of any viable ontology of the universe](./articles/novelty.md)**
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
-* **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)** aka Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)
+* **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**
+  * *aka* Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
+  * *aka* Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of Self)
 * **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)**
 * **[TO DO: unexplored research ideas](https://github.com/kiwi0fruit/ultimate-question/issues)**
 * **[Metaphysics is dead, long live the Applied Metaphysics! (on closing philosophical questions)](./articles/metaphysics_is_dead.md)**
