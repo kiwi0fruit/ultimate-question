@@ -1,5 +1,4 @@
-PDF print with Edit file Preview; Use pages 2-...; A4; margins: 49mm 10mm 49mm 10mm  
-.  
+PDF print with Edit file Preview; Use pages 2-...; A4; margins: 49mm 11mm 49mm 11mm  
 .  
 .  
 .  
@@ -61,6 +60,9 @@ This article sums up meta-ethical conclusions that can be derived from Universal
   * [Evaluating terminal values](#evaluating-terminal-values)
   * [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#novelty-emergence-mechanics-as-a-core-idea-of-any-viable-ontology-of-the-universe)
 
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 Introduction to Buddha-Darwinism
 =====================================================
