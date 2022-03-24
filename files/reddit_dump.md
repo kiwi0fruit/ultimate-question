@@ -712,4 +712,9 @@ I noted that communities of both physicists and philosophers are not fond of my 
 
 ## [New extremely fantastic speculations about "What is the inanimate matter?" in a model where life and natural selection are basic](../README.md#intro-pt5-obvious-problems-incl-what-is-inanimate-matter-what-about-quantum-computers)
 
+### Comments
+
+* [comments](../comments/reddit_digitalphilosophy_3_1.pdf)
+* [continuation](../comments/reddit_digitalphilosophy_3_2.pdf)
+
 ----
