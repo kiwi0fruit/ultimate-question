@@ -887,4 +887,58 @@ What is your opinion and thoughts about possible ways to get an answer whether p
 
 ----
 
+## Metaphysics, Metamathematics and Metabiology (by Gregory Chaitin)
 
+[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.470&rep=rep1&type=pdf)
+
+Abstract:
+
+In this essay we present an information-theoretic perspective on epistemology
+using software models. We shall use the notion of algorithmic
+information to discuss what is a physical law, to determine the limits of
+the axiomatic method, and to analyze Darwin’s theory of evolution.
+
+Contents:
+
+* Weyl, Leibniz, complexity and the principle of sufficient reason
+  * What is a scientific theory?
+  * Finding elegant programs
+  * What is a formal axiomatic theory?
+  * Why can’t you prove that a program is elegant?
+  * Farewell to reason: The halting probability Ω
+  * Adding new axioms: Quasi-empirical mathematics
+* Mathematics, biology and metabiology
+
+----
+
+## [Open-ended evolution described by Alastair Channon](http://www.channon.net/alastair/)
+
+----
+
+## Meta Math! The Quest for Omega (by Gregory Chaitin)
+
+https://arxiv.org/abs/math/0404335 (2004)
+
+This book presents a personal account of the mathematics and metamathematics of the 20th century leading up to the discovery of the halting probability Omega. The emphasis is on history of ideas and philosophical implications.
+
+Contents
+
+* Quotes by Leibniz/Galileo 1
+* Franz Kafka: Before the Law 3
+* Chapter I—Introduction 5
+* Chapter II—Three Strange Loves: Primes/G¨odel/LISP 9
+* Chapter III—Digital Information: DNA/Software/Leibniz 47
+* Chapter IV—Intermezzo 75
+* Chapter V—The Labyrinth of the Continuum 81
+* Chapter VI—Complexity, Randomness & Incompleteness 101
+* Chapter VII—Conclusion 125
+* Poem on Omega by Robert Chute 133
+* Math Poem by Marion Cohen 135
+* Further Reading 137
+
+More of his works:
+
+* [academia.edu](https://independent.academia.edu/GregoryChaitin)
+* [arxiv.org](https://arxiv.org/search/?query=g.+j.+chaitin&searchtype=author)
+
+----
