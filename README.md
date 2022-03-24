@@ -4,6 +4,7 @@
 
 ### NEW UPDATES
 
+* **[Mirror Telegram channel](https://t.me/digital_philosophy)**
 * **[Support me on Patreon](https://www.patreon.com/peotrzagubisalo)**  
 * **[Novelty emergence mechanics as a core idea of any viable ontology of the universe](./articles/novelty.md)**
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
