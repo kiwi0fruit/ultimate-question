@@ -335,3 +335,108 @@ Worth noting that it's also important to explore other ways the novel stable com
 ### [Comments](../comments/reddit_digitalphilosophy.pdf)
 
 ----
+
+## Whispers From the Chess Community (crosspost from r/artificial about Alpha Zero chess)
+
+*crosspost from [r/artificial](https://www.reddit.com/r/artificial/comments/7miec4/whispers_from_the_chess_community/)*
+
+I'm new here, and don't have the technical expertise of others in this subreddit. Nonetheless, I'm posting here to let folks here know about the whispers going around in the chess community.
+
+I'm a master level chess player. Many of my master colleagues are absolutely stunned by the Alpha Zero games that were just released. I know this won't be new ground for many here, but for context, computers (until now) can't actually play chess. Programmers created algorithms based on human input, that allowed computers to turn chess into a math problem, then calculate very deeply for the highest value. This allowed the creation of programs that played at around the rating level 3200, compared to roughly 2800 for the human world champion. However, computers haven't really advanced much in the last five years, because it's very difficult for them to see deeper. Each further move deeper makes the math (move tree) exponentially larger, of course.
+
+So you've probably heard that Alpha Zero learned to play chess in four hours, and then crushed the strongest computer on the market. None of that is a surprise.
+
+However, what is truly remarkable is the games themselves. You can't really fathom it unless you play chess at a high level, but they are **very human**, and unlike anything the chess world has ever seen. They are clearly the strongest games ever played, and are almost works of art. Alpha Zero does things that are unthinkable, like playing **very long-term** positional sacrifices, things that until now have really only been accomplished by a handful of the best human players to ever live, like Anatoly Karpov. This would be like Alpha Zero composing a poem, or creating a Master level painting.
+
+Some chess masters have even become suspicious, and believe Google must already have strong AI that it hasn't publicly acknowledged. One master friend asserted this conspiracy theory outright. Another (who happens to be a world expert in nanotechnology) estimated that the odds of Google secretly possessing strong AI is 20%, based on these games.
+
+I would love your thoughts on this.
+
+*[discussion](https://www.reddit.com/r/artificial/comments/7miec4/whispers_from_the_chess_community/)*
+
+----
+
+## Open-endedness as Turing completeness analogue for population of self organizing algorithms
+
+#### Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness
+
+The goal of this article is to promote an unsolved mathematical modelling problem (not a math problem or question). And unlike math questions it still doesn't have a formal definition. But I still find it clear enough and quite interesting. I came to this modelling problem from a philosophy direction but the problem is interesting in itself.
+
+#### Preamble
+
+The notion of Turing completeness is a formalization of computability and algorithms (that previously were performed by humans and DNA). There are different formalizations (incl. Turing machine, μ-recursive functions and λ-calculus) but they all share the Turing completeness property and can perform equivalent algorithms. Thus they form an equivalence class.
+
+The open-ended evolution is a not very popular research program which goal is to build an artificial life model with natural selection which evolution doesn't stop on some level of complexity but can progress further (ultimately to the intelligent agents after some enormous simulation time). I'm not aware of the state of the progress of open-endedness criteria formulation but I'm almost sure that it's still doesn't exist: as it's either connected to results of a successful simulation or to actually understanding and confirming what is required for open-endedness (I haven't heard of either).
+
+
+#### The modelling problem
+
+Just as algorithms performed by humans were formalized and property of Turing completeness was defined: the same formalization presumably can be done to the open-ended evolution observed in nature. It went from precellular organisms to unicellular organisms and finally to Homo sapiens driven by natural selection postulates (reproduction-doubling, heredity, variation-random, selection-death, individuals-and-environment/individuals-are-environment) and the Red Queen hypothesis that resulted in increasing complexity. Open-endedness property here is analogous to Turing completeness property. It could be formalized differently but it still would form an equivalence class.
+
+And the concise formulation of this process would be something like **Open-ended natural selection of interacting code-data-dual algorithms**.
+
+Code-data duality is needed for algorithms being able to modify each other or even themselves. I can guess that open-endedness may incorporate some weaker "future potency" form of Turing completeness (if to assume discrete ontology with finite space and countable-infinite time then algorithms can became arbitrary complex and access infinite memory only in infinity time limit).
+
+Please consider if it's an interesting mathematical modelling problem for research and share your thoughts.
+
+
+#### Further info links
+
+* [open-ended evolution subreddit](https://www.reddit.com/r/oee/)
+* [article on my (futile) efforts](https://github.com/kiwi0fruit/ultimate-question) and it's [old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)
+* [digital philosophy subreddit](https://www.reddit.com/r/DigitalPhilosophy/) (posts by kiwi0fruit)
+
+*Below is a predecessor of this promotion article:*
+
+#### Open-endedness as Turing completeness analogue for population of self organizing algorithms
+
+Recently I wrote small article named "Simplest open-ended evolution model as a theory of everything". But right after finishing it I noticed that theory of everything part was just a guide and crutch to a more interesting point of view.
+
+Specifically that property of open-endedness (that is yet to be discovered) can be viewed as Turing completeness analogue for population of self organizing algorithms under natural selection (where each program is also data). And my research program was essentially about finding **necessary and sufficient** criteria for open ended evolution (OEE). Plus may be some intuitions about directions in which it can be found (most notable is applying simplest OEE model to the beginning of the artificial universe). Hence all philosophical questions that bothered me are now reduced to necessary and sufficient criteria for open ended evolution that is no longer a philosophical question at all (for philosophical part see [this acticle](https://www.reddit.com/r/DigitalPhilosophy/comments/9kdmll/are_universal_darwinism_and_occams_razor_enough/)).
+
+#### UPD
+
+If turing completeness is a formalization of algorithms (that previously were performed by humans only). I'm interested in formalization of natural selection open-endedness that is now observed in nature (called OEE). That's what my post is about essentially. That formalization is still not there. It's an open and a hard question.
+
+*Text of the original article*:
+
+
+#### Simplest open-ended evolution model as a theory of everything
+
+Year ago I abandoned the research project ([old Reddit discussion](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/), [article](https://github.com/kiwi0fruit/ultimate-question), [subscribe on Reddit](https://www.reddit.com/r/DigitalPhilosophy)). But from now on I hope to spend on it at least a few hours per week. To start with let's remember cornerstones of this research program:
+
+
+#### 1. Open-ended evolution
+
+**Open-ended evolution** (OEE) model:
+
+* contains **natural selection** (NS) postulates (reproduction-doubling, heredity, variation-random, selection-death, individuals-**and**-environment/individuals-**are**-environment).
+* in which the evolution doesn't stop on some level of complexity but can progress further to the intelligent agents after some great time.
+* that should presumably incorporate: **turing-completeness** (or it's weaker "future potency" form) and **Red Queen hypothesis**.
+
+
+#### 2. Theory of everything
+
+By **Theory of everything** I mean:
+
+* dynamic model of an artificial universe in which after some enormous simulation time properties of our universe is **possible** (but not necessary highly probable) but existing of intelligent life is highly **probable**.
+* model that is capable of answering **all** in-model "**why these** structures exist and processes take place instead of the other?" questions by combination of transition rules postulates application and history of events (including completely random events).
+* it may be desirable to have a **universal description tool** that can be applied to any "level" of the model (where "higher" levels are built upon many smaller modules. But the picture would be more complicated if strange loops are possible). Level hierarchy can be alike to organelles -> cells -> species individuals -> packs/tribes -> populations.
+
+
+#### 3. Simplest
+
+By **simplest** I mean:
+
+* As less axioms that govern evolution of the model as possible: **Occam's razor** (OR) plus extracting **necessary and sufficient** (NaS) system transition rules that still give OEE (it may even be some equivalence class property like turing-completeness).
+* In the model time is **discrete** and **countable infinite** (given by random events), there was the **first moment** of existence, space is **discrete** and **finite**. We can try starting thinking about it with a graph-like structure with individuals of NS as nodes - graph is the simplest space possible.
+* This raises question: What about quantum computers? Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with **discrete ontology**? And if yes what should this ontology be?
+* Also I guess some may argue for lack of random events and going Everett many world quantum mechanics (QM) interpretation way. Can model
+be viewed as a "superposition" of random events happened in different universes? If yes then we may get uncountable infinite space-time (btw: would superposition in QM preserve countable infinity for space-time?).
+
+
+#### 4. UPD
+
+I dropped seriously investing in my research not long before I discovered connections with OEE and even then I wasn't aware that the only notable part of my research is OEE question part (hence I simply reinvented the ~~wheel~~ question but moved from philosophy side). Since publication of this post I'm aware of that so investing in finding out what is open-endedness is inevitable if I want to progress on this task.
+
+----
