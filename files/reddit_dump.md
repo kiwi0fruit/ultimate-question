@@ -49,3 +49,45 @@ Yep. That's actually another possible title for the "[Applying Universal Darwini
 ### Abstract
 
 This article sums up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes. In particular it 1) applies Universal Darwinism to evaluation of Terminal values, 2) separates objective meaning of life from subjective meaning of life using notion of Quasi-immortality. That means both moral nauralism and moral non-cognitivism are right but in different areas, 3) justifies the free will as a consequence of the Universal Darwinism, 4) comes to the conclusion of Buddhism-like illusion of the “Self” as a consequence of the Quasi-immortality, 5) as a bonus gives Universal Darwinism a hypothetical and vivid Cosmogonic myth from Darwinian natural selection. The article forms a coherent system of views, which can be called Buddha-Darwinism.
+
+----
+
+### My comment on "Practically-A-Book Review: Yudkowsky Contra Ngo On Agents" by Scott Alexander
+
+https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky/comment/4567560
+
+From the end of the Part 3:
+
+> If the malevolent agent would get more reward than the normal well-functioning tool (which we’re assuming is true; it can do various kinds of illicit reward hacking), then applying enough gradient descent to it could accidentally complete the circuit and tell it to use its agent model.
+
+But what does this even mean? Why is malevolence important? If "dreaming" of being a real agent (using some subsystem) would output a better results for an "oracle-tool" then its loss funtion would converge on always dreaming like a real agent. There is a risk but it's not malevolent =)
+
+And then we can imaging it dreaming of a solution to a task that is most likely to succeed if it obtains real agency and gains direct control on the sutuation. And it "knows" that for this plan to succeed it should hide it from humans.
+
+So this turned into "lies alignment" problem. In this case why even bother with values alignment?
+
+**Comments:**
+
+By the way. What is the end-goal of humans in here? Some previous thoughts on this (very superficial and simply to start the conversation):
+
+> Over time, human cyborgization and augmentation using AI will leave less and less human in people. In the future limit if the goal is to keep humanity in its current form, the super AI will maintain the existence of humanity as merely a ritual integrated into its goals. Just like a super AI which sole purpose is to make paper clips. In order to prevent such a dull ending ..., it is necessary that super AI come directly from digitized people (with all their values), augmented by AI. But maybe I'm overly pessimistic, and a combination of super AI with genetically modified people who are in charge and make decisions will also work.
+
+From [Applying Universal Darwinism to evaluation of Terminal values](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md#darwinian-interpretation-of-the-buddhist-illusion-of-self-death-is-bad-but-the-death-of-what)
+
+----
+
+### [Witten Goes Anthropic (by Peter Woit)](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
+
+----
+
+### [Support me on Patreon](https://www.patreon.com/peotrzagubisalo)
+
+----
+
+### Modern sciense ontology is a Last Thursdayism implicitly
+
+**(this doesn't diminish physics predictive power).**
+
+Especially multiverse paired with anthropic principle suffers from this. It happens because of the lack of solid [novelty emergence mechanics](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/novelty.md). Attempts to fix it give us ad hock patches to not get [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain) variant as the most probable sentient life.
+
+----
