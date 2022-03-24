@@ -882,3 +882,9 @@ What is your opinion and thoughts about possible ways to get an answer whether p
 * Subreddit to follow up: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) (I would also post to other subreddits but the posts can be deleted or downvoted as follow up is not that interesting as oroginal post)
 
 ----
+
+### [Comments](../comments/reddit_compsci.pdf)
+
+----
+
+
