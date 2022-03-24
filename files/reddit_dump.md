@@ -194,6 +194,29 @@ Experiments show that evolutionary fitness landscapes can have a rich combinator
 > Check out Donald Hoffman: https://www.youtube.com/watch?v=oYp5XuGYqqY&t=2s
 >
 > Great at explaining this stuff.
+
 ([u/eelson99](https://old.reddit.com/r/DigitalPhilosophy/comments/e1sk5r/computational_complexity_as_an_ultimate/frljvui/))
 
 ----
+
+## [Introduction to Artificial Life for People who Like AI](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/)
+
+----
+
+## [How the “bigger is better” mentality damages AI research](https://bdtechtalks.com/2019/11/25/ai-research-neural-networks-compute-costs/)
+
+----
+
+## Universal Darwinism as a process of Bayesian inference
+
+John O. Campbell
+
+https://arxiv.org/abs/1606.07937
+
+(Submitted on 25 Jun 2016)
+
+Many of the mathematical frameworks describing natural selection are equivalent to Bayes Theorem, also known as Bayesian updating. By definition, a process of Bayesian Inference is one which involves a Bayesian update, so we may conclude that these frameworks describe natural selection as a process of Bayesian inference. Thus natural selection serves as a counter example to a widely-held interpretation that restricts Bayesian Inference to human mental processes (including the endeavors of statisticians). As Bayesian inference can always be cast in terms of (variational) free energy minimization, natural selection can be viewed as comprising two components: a generative model of an "experiment" in the external world environment, and the results of that "experiment" or the "surprise" entailed by predicted and actual outcomes of the "experiment". Minimization of free energy implies that the implicit measure of "surprise" experienced serves to update the generative model in a Bayesian manner. This description closely accords with the mechanisms of generalized Darwinian process proposed both by Dawkins, in terms of replicators and vehicles, and Campbell, in terms of inferential systems. Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself. The variational principle of free energy minimization may thus serve as a unifying mathematical framework for universal Darwinism, the study of evolutionary processes operating throughout nature.
+
+----
+
+
