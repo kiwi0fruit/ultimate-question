@@ -528,3 +528,26 @@ I would add:
 ([u/Antipurity](https://old.reddit.com/r/DigitalPhilosophy/comments/9kivsj/god_made_the_integers_all_else_is_the_work_of_man/edqrftl/))
 
 ----
+
+## Are Universal Darwinism and Occam's razor enough to answer all Why? (Because of what?) questions?
+
+*[crosspost to r/PhilosophyofScience](https://www.reddit.com/r/PhilosophyofScience/comments/9k7v2q/are_universal_darwinism_and_occams_razor_enough/)*
+
+I'm investigating possibilities and tools for creating a model of the Universe in which all Why? (Because of what?) questions can be answered.
+
+The current best ideas I found are:
+
+* Natural selection to explain structures that exist (including space properties and topology) - Universal Darwinism to full extent so as much structures as possible would have a history how they emerged in the model.
+* To explain rules that govern dynamics of the model with natural selection we cannot again use natural selection. We can try use clasical combination of falsifiability and Occam's razor. The falsifiability can be applied only in a limited way (as described in pt.3 of the [main article](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)) - the current understanding of nature is far from explaining space and the set of laws of nature. So testing and predictions are unavailable for the model to create.
+* Luckily we can still use Occam's razor and simplicity considerations. But it can justify only when comparing models that are practically-experimentally the same. Let's assume we extracted and proved the necessary and sufficient (NaS) rules from a set of models that provide important behavior for the model ("open-endedness" means that the evolution doesn't stop on some level of complexity but can progress further to the intelligent agents after some great time). NaS means that it's the simplest rules (may be rules be extracted with accuracy up to the isomorphism - or even property like Turing completeness). So is it enough to justify/explain the rules that govern dynamics of the model? **Yes. It's enough** as there is no other choise as to assume some predefined rules that define ontology and govent evolution and natural selection. If we get lucky the objective reality can be separated from models via equivalence class up to isomorphism (similar to "gauging away" in Physics as Lee Smolin called it).
+* I'm aware that within this task some things should not be justified or explained. Natural selection postulates require "variation" that need random events that are actually just **are** and do not have a cause (the flip of a coin has a reason but whether it's heads or tails doesn't have a reason). So may be the extracted necessary and sufficient rules are also do not require explanation?
+
+Maybe I missed something and there are other approaches to this problem (creating a model of the Universe in which all Why? questions can be answered)?
+
+### Comments
+
+* [Comments](../comments/reddit_philosophyofscience.pdf)
+* https://en.wikipedia.org/wiki/Regress_argument is on topic.
+
+----
+
