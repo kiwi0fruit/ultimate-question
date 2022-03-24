@@ -2,7 +2,7 @@
 
 Vitaly Vanchurin, Yuri I. Wolf, Mikhail I. Katsnelson, and Eugene V. Koonin
 
-### Abstract
+#### Abstract
 
 We apply the theory of learning to physically renormalizable systems in an attempt to outline a theory of biological evolution, including the origin of life, as multilevel learning. We formulate seven fundamental principles of evolution that appear to be necessary and sufficient to render a universe observable and show that they entail the major features of biological evolution, including replication and natural selection. It is shown that these cornerstone phenomena of biology emerge from the fundamental features of learning dynamics such as the existence of a loss function, which is minimized during learning. We then sketch the theory of evolution using the mathematical framework of neural networks, which provides for detailed analysis of evolutionary phenomena. To demonstrate the potential of the proposed theoretical framework, we derive a generalized version of the Central Dogma of molecular biology by analyzing the flow of information during learning (back propagation) and predicting (forward propagation) the environment by evolving organisms. The more complex evolutionary phenomena, such as major transitions in evolution (in particular, the origin of life), have to be analyzed in the thermodynamic limit, which is described in detail in the paper by Vanchurin et al.
 
@@ -46,7 +46,7 @@ Though getting non-self in the [Buddha-Darwinism](https://github.com/kiwi0fruit/
 
 Yep. That's actually another possible title for the "[Applying Universal Darwinism to evaluation of Terminal values](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md)" article. Aka Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of the “Self”)
 
-### Abstract
+#### Abstract
 
 This article sums up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes. In particular it 1) applies Universal Darwinism to evaluation of Terminal values, 2) separates objective meaning of life from subjective meaning of life using notion of Quasi-immortality. That means both moral nauralism and moral non-cognitivism are right but in different areas, 3) justifies the free will as a consequence of the Universal Darwinism, 4) comes to the conclusion of Buddhism-like illusion of the “Self” as a consequence of the Quasi-immortality, 5) as a bonus gives Universal Darwinism a hypothetical and vivid Cosmogonic myth from Darwinian natural selection. The article forms a coherent system of views, which can be called Buddha-Darwinism.
 
@@ -86,7 +86,7 @@ From [Applying Universal Darwinism to evaluation of Terminal values](https://git
 
 ## Modern sciense ontology is a Last Thursdayism implicitly
 
-### (this doesn't diminish physics predictive power)
+#### (this doesn't diminish physics predictive power)
 
 Especially multiverse paired with anthropic principle suffers from this. It happens because of the lack of solid [novelty emergence mechanics](https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/novelty.md). Attempts to fix it give us ad hock patches to not get [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain) variant as the most probable sentient life.
 
@@ -133,7 +133,7 @@ P.S. Basically, that post was a recap of a part of the more poetic and “old sc
 
 ## Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)
 
-### aka Applying Universal Darwinism to evaluation of Terminal values gives “Buddarwinism”
+#### aka Applying Universal Darwinism to evaluation of Terminal values gives “Buddarwinism”
 
 ----
 
@@ -440,3 +440,47 @@ be viewed as a "superposition" of random events happened in different universes?
 I dropped seriously investing in my research not long before I discovered connections with OEE and even then I wasn't aware that the only notable part of my research is OEE question part (hence I simply reinvented the ~~wheel~~ question but moved from philosophy side). Since publication of this post I'm aware of that so investing in finding out what is open-endedness is inevitable if I want to progress on this task.
 
 ----
+
+## Defining and simulating open-ended novelty: requirements, guidelines, and challenges
+
+2016 http://doursat.free.fr/docs/Banzhaf_et_al_2016_OEE_TheoBiosci.pdf
+
+Wolfgang Banzhaf, Bert Baumgaertner, Guillaume Beslon, René Doursat, James A. Foster, Barry McMullin, Vinicius Veloso de Melo, Thomas Miconi, Lee Spector, Susan Stepney, Roger White
+
+The open-endedness of a system is often defined as a continual production of novelty. Here we pin down this concept more fully by defining several types of novelty that a system may exhibit, classified as variation, innovation, and emergence. We then provide a meta-model for including *levels of structure* in a system’s model. From there, we define an architecture suitable for building simulations of open-ended novelty-generating systems and discuss how previously proposed systems fit into this framework. We discuss the design principles applicable to those systems and close with some challenges for the community.
+
+----
+
+## Philosophy helps to raise Questions and gives intuitions to seek Answers. But good answered question would be no longer philosophy but science. Beware of implicit philosophical assumptions you use!
+
+----
+
+## Self-referential basis of undecidable dynamics: from The Liar Paradox and The Halting Problem to The Edge of Chaos
+
+https://arxiv.org/abs/1711.02456
+
+Mikhail Prokopenko, Michael Harré, Joseph Lizier, Fabio Boschetti, Pavlos Peppas, Stuart Kauffman
+
+(Submitted on 7 Nov 2017 (v1), last revised 21 Mar 2019 (this version, v2))
+
+In this paper we explore several fundamental relations between formal systems, algorithms, and dynamical systems, focussing on the roles of undecidability, universality, diagonalization, and self-reference in each of these computational frameworks. Some of these interconnections are well-known, while some are clarified in this study as a result of a fine-grained comparison between recursive formal systems, Turing machines, and Cellular Automata (CAs). In particular, we elaborate on the diagonalization argument applied to distributed computation carried out by CAs, illustrating the key elements of Gödel’s proof for CAs. The comparative analysis emphasizes three factors which underlie the capacity to generate undecidable dynamics within the examined computational frameworks: (i) the program-data duality; (ii) the potential to access an infinite computational medium; and (iii) the ability to implement negation. The considered adaptations of Gödel’s proof distinguish between computational universality and undecidability, and show how the diagonalization argument exploits, on several levels, the self-referential basis of undecidability.
+
+----
+
+## [An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue](https://arxiv.org/abs/1909.04430?)
+
+----
+
+## Is bounded-error quantum polynomial time (BQP) class can be polynomially solved on machine with discrete ontology?
+
+*crosspost from [reddit.com/r/math/comments/9m2ic0](https://www.reddit.com/r/math/comments/9m2ic0/is_boundederror_quantum_polynomial_time_bqp_class/)*
+
+What is your opinion and thoughts about possible ways to get an answer whether problems that are solvable on quantum computer within polynomial time (BQP) can be solved withing polynomial time on hypothetical machine that has discrete ontology? The latter means that it doesn't use continuous manifolds and such. It only uses discrete entities and maybe rational numbers as in discrete probability theory?
+
+upd: by discrete I meant countable.
+
+### [Comments](../comments/reddit_math.pdf)
+
+----
+
+
