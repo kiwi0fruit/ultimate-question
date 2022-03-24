@@ -152,3 +152,48 @@ More info:
 ### [Comments](../comments/reddit_compsci_2.pdf)
 
 ----
+
+## [Path to the Fundamental Theory of Physics by Stephen Wolfram (Wolfram Physics Project)](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful)
+
+### Comments
+
+That's an interesting direction of research. Can it actually formaulate QFT in other postulates that are more computer science friendly? If not then how to bridge the enormous gap between simple rules + complex graph dynamics vs. QFT?
+
+Possible workaround is to get a probabilistic model from simulation graph dynamics then run this new model as a simulation. But that would require emergence of "something" to abstact it in the new model. And if we are ever to automate this abstracting the fundamental-basic model and abstracted should share fractal structure (whatever that means).
+
+In my opinion this way would better work with ontology of indeternimistic natural selection process that branches. Like [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/) (and [more details with a discussion on r/compsci](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)).
+
+So probably Wolfram Physics Project lacks indeterminism.
+
+----
+
+## The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities
+
+https://arxiv.org/abs/1803.03453
+
+Biological evolution provides a creative fount of complex and subtle adaptations, often surprising the scientists who discover them. However, because evolution is an algorithmic process that transcends the substrate in which it occurs, evolution's creativity is not limited to nature. Indeed, many researchers in the field of digital evolution have observed their evolving algorithms and organisms subverting their intentions, exposing unrecognized bugs in their code, producing unexpected adaptations, or exhibiting outcomes uncannily convergent with ones in nature. Such stories routinely reveal creativity by evolution in these digital worlds, but they rarely fit into the standard scientific narrative. Instead they are often treated as mere obstacles to be overcome, rather than results that warrant study in their own right. The stories themselves are traded among researchers through oral tradition, but that mode of information transmission is inefficient and prone to error and outright loss. Moreover, the fact that these stories tend to be shared only among practitioners means that many natural scientists do not realize how interesting and lifelike digital organisms are and how natural their evolution can be. To our knowledge, no collection of such anecdotes has been published before. This paper is the crowd-sourced product of researchers in the fields of artificial life and evolutionary computation who have provided first-hand accounts of such cases. It thus serves as a written, fact-checked collection of scientifically important and even entertaining stories. In doing so we also present here substantial evidence that the existence and importance of evolutionary surprises extends beyond the natural world, and may indeed be a universal property of all complex evolving systems.
+
+Joel Lehman, Jeff Clune, Dusan Misevic, Christoph Adami, Lee Altenberg, Julie Beaulieu, Peter J. Bentley, Samuel Bernard, Guillaume Beslon, David M. Bryson, Patryk Chrabaszcz, Nick Cheney, Antoine Cully, Stephane Doncieux, Fred C. Dyer, Kai Olav Ellefsen, Robert Feldt, Stephan Fischer, Stephanie Forrest, Antoine Frénoy, Christian Gagné, Leni Le Goff, Laura M. Grabowski, Babak Hodjat, Frank Hutter, Laurent Keller, Carole Knibbe, Peter Krcah, Richard E. Lenski, Hod Lipson, Robert MacCurdy, Carlos Maestre, Risto Miikkulainen, Sara Mitri, David E. Moriarty, Jean-Baptiste Mouret, Anh Nguyen, Charles Ofria, Marc Parizeau, David Parsons, Robert T. Pennock, William F. Punch, Thomas S. Ray, Marc Schoenauer, Eric Shulte, Karl Sims, Kenneth O. Stanley, François Taddei, Danesh Tarapore, Simon Thibault, Westley Weimer, Richard Watson, Jason Yosinski
+
+----
+
+## Computational complexity as an ultimate constraint on evolution
+
+Artem Kaznatcheev
+
+https://www.biorxiv.org/content/10.1101/187682v4
+
+doi: https://doi.org/10.1101/187682
+
+Abstract
+
+Experiments show that evolutionary fitness landscapes can have a rich combinatorial structure due to epistasis. For some landscapes, this structure can produce a computational constraint that prevents evolution from finding local fitness optima -- thus overturning the traditional assumption that local fitness peaks can always be reached quickly if no other evolutionary forces challenge natural selection. Here, I introduce a distinction between easy landscapes of traditional theory where local fitness peaks can be found in a moderate number of steps and hard landscapes where finding local optima requires an infeasible amount of time. Hard examples exist even among landscapes with no reciprocal sign epistasis; on these semi-smooth fitness landscapes, strong selection weak mutation dynamics cannot find the unique peak in polynomial time. More generally, on hard rugged fitness landscapes that include reciprocal sign epistasis, no evolutionary dynamics -- even ones that do not follow adaptive paths -- can find a local fitness optimum quickly. Moreover, on hard landscapes, the fitness advantage of nearby mutants cannot drop off exponentially fast but has to follow a power-law that long term evolution experiments have associated with unbounded growth in fitness. Thus, the constraint of computational complexity enables open-ended evolution on finite landscapes. Knowing this constraint allows us to use the tools of theoretical computer science and combinatorial optimization to characterize the fitness landscapes that we expect to see in nature. I present candidates for hard landscapes at scales from single genes, to microbes, to complex organisms with costly learning (Baldwin effect) or maintained cooperation (Hankshaw effect). Just how ubiquitous hard landscapes (and the corresponding ultimate constraint on evolution) are in nature becomes an open empirical question.
+
+### Comments
+
+> Check out Donald Hoffman: https://www.youtube.com/watch?v=oYp5XuGYqqY&t=2s
+>
+> Great at explaining this stuff.
+([u/eelson99](https://old.reddit.com/r/DigitalPhilosophy/comments/e1sk5r/computational_complexity_as_an_ultimate/frljvui/))
+
+----
