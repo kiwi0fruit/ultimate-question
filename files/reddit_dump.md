@@ -149,4 +149,6 @@ More info:
 * [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](https://www.reddit.com/r/DigitalPhilosophy/comments/dzghec/openended_natural_selection_of_interacting/)
 * [Wolfram Physics Project](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/?source=frontpage-latest-news)
 
+### [Comments](../comments/reddit_compsci_2.pdf)
+
 ----
