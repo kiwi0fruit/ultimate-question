@@ -273,3 +273,13 @@ I do not agree but I find it plausible that lack of knowledge of what could have
 But may be there is still some hope for them not to be disjoint. Reminds me of [this](https://www.reddit.com/r/PhilosophyofScience/comments/dc6k9y/thus_one_possible_way_that_the_finetuning_problem/)
 
 ----
+
+## What’s holding artificial life back from open-ended evolution?
+
+Emily Dolson, Anya Vostinar, Charles Ofria.
+
+[thewinnower.com/papers/2309](https://thewinnower.com/papers/2309-what-s-holding-artificial-life-back-from-open-ended-evolution)
+
+Evolutionary artificial life systems have demonstrated many exciting behaviors. However, there is a general consensus that these systems are missing some element of the consistent evolutionary innovation that we see in nature. Many have sought to create more "open-ended" evolutionary systems in which no stagnation occurs, but have been stymied by the difficulty of quantifying progress towards such a nebulous concept. Here, we propose an alternate framework for thinking about these problems. By measuring obstacles to continued innovation, we can move towards a mechanistic understanding of what drives various evolutionary dynamics. We propose that this framework will allow for more rigorous hypothesis testing and clearer applications of these concepts to evolutionary computation.
+
+----
