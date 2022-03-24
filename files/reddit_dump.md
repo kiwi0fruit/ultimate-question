@@ -14,7 +14,7 @@ https://pubmed.ncbi.nlm.nih.gov/35121666/
 
 ## [Dmitry Shabanov: On the immortality of populations (autotranslated)](https://old-computerra-ru.translate.goog/own/shabanov/612801/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru)
 
-original: https://old.computerra.ru/own/shabanov/612801/
+Original: https://old.computerra.ru/own/shabanov/612801/
 
 ----
 
