@@ -643,7 +643,7 @@ What is your opinion and thoughts about possible ways to get an answer whether p
 * [Intro pt.6: P.S., links and discuss](https://github.com/kiwi0fruit/ultimate-question/blob/master/README.md#intro-pt6-ps-discussion-subscribe-source-code-repository)
 * [Appendix contents](https://github.com/kiwi0fruit/ultimate-question/blob/master/README.md#appendix-contents)
 
---------
+\- \- \- \- \- \- \- \-
 
 * GitHub repository of the article: [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)
 * [Discussion on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2)
@@ -664,7 +664,7 @@ What is your opinion and thoughts about possible ways to get an answer whether p
 
 *cross-post from [r/atheism/9iqkqm](https://www.reddit.com/r/atheism/comments/9iqkqm/personal_story_why_people_need_gods_love/). That's my personal story but it was also meant to be this subreddit advertisment. But for some reason it wasn't successful. Wrong title? Wrong publish time? No chances in that sub?*
 
---------
+\- \- \- \- \- \- \- \-
 
 #### Why people need God's love?
 
@@ -792,7 +792,7 @@ It's not about digital philosophy but still rises good questions:
 
 *cross-post from [r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/)*
 
--------
+\- \- \- \- \- \- \- \-
 
 #### The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor
 
@@ -875,13 +875,13 @@ What is your opinion and thoughts about possible ways to get an answer whether p
 * [Intro pt.6: P.S., links and discuss](https://kiwi0fruit.github.io/ultimate-question/#i6)
 * [Appendix contents](https://kiwi0fruit.github.io/ultimate-question/#contents)
 
---------
+\- \- \- \- \- \- \- \-
 
 * GitHub repository of the article: [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question)
 * [Discussion on GitHub](https://github.com/kiwi0fruit/ultimate-question/issues/2)
 * Subreddit to follow up: [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) (I would also post to other subreddits but the posts can be deleted or downvoted as follow up is not that interesting as oroginal post)
 
-----
+\- \- \- \- \- \- \- \-
 
 ### [Comments](../comments/reddit_compsci.pdf)
 
