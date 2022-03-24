@@ -730,3 +730,25 @@ Or they were simply hardcoded to our brains :)
 ### [Comments](../comments/reddit_digitalphilosophy_4.pdf)
 
 ----
+
+## Why Turing completeness is widespread
+
+Turing completeness is an abstract statement of ability, rather than a prescription of specific language features used to implement that ability. The features used to achieve Turing completeness can be quite different; Fortran systems would use loop constructs or possibly even goto statements to achieve repetition; Haskell and Prolog, lacking looping almost entirely, would use recursion. Most programming languages are describing computations on von Neumann architectures, which have memory (RAM and register) and a control unit. These two elements make this architecture Turing-complete. Even pure functional languages are Turing-complete.
+
+Turing completeness in declarative SQL is implemented through recursive common table expressions. Unsurprisingly, procedural extensions to SQL (PLSQL, etc.) are also Turing complete. This illustrates one reason why relatively powerful non-Turing-complete languages are rare: the more powerful the language is initially, the more complex are the tasks to which it is applied and the sooner its lack of completeness becomes perceived as a drawback, encouraging its extension until it is Turing complete.
+
+The untyped lambda calculus is Turing-complete, but many typed lambda calculi, including System F, are not. The value of typed systems is based in their ability to represent most typical computer programs while detecting more errors.
+
+Rule 110 and Conway's Game of Life, both cellular automata, are Turing complete.
+
+[from Wikipedia](https://en.wikipedia.org/wiki/Turing_completeness)
+
+### Comments
+
+> xor is turing complete. Almost anything above an extremely simple threshold is going to be Turing complete. Imposing non-turing-completeness on any n-body system is probably way harder than the reverse.
+
+([u/j3alive](https://old.reddit.com/r/DigitalPhilosophy/comments/9hnhd3/why_turing_completeness_is_widespread/e6iardv/))
+
+----
+
+
