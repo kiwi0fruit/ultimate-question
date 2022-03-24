@@ -483,4 +483,48 @@ upd: by discrete I meant countable.
 
 ----
 
+## "God made the integers; all else is the work of man." (Leopold Kronecker) What would you add to the list?
 
+I would add:
+
+* graphs
+* discrete random events
+* something about providing Turing completeness
+
+### Comments
+
+#### 1
+
+> Unary number system - that is to say, tally marks? :) Roman numerals, base 10, binary, etc.
+>
+> Hmm... actually I wonder if one could argue binary is "more fundamental" than unary... more useful, definitely.
+
+([u/heyandy889](https://old.reddit.com/r/DigitalPhilosophy/comments/9kivsj/god_made_the_integers_all_else_is_the_work_of_man/eaot4xl/))
+
+#### 2
+
+> The list of what god made, or the list of what man made? Both are mentioned/implied, yet 'the' is used.
+>
+>Understanding itself can be argued to be the work of man — and yet, it is also the work of god which created it ('man' and 'god' just being labels for 'something' and 'its creator/reason', here).
+>
+>The viewpoint that results can easily be argued to have been caused by both — but on any particular stage of this process, what-was-before and consequence can be separated, so one may think that some things are more fundamental than others.
+>
+>Yet, there are as many ways to arrive at the same conclusions as there are viewpoints: viewpoints are all ultimately functionally equivalent. What is fundamental to some, is a consequence to others. One's man is another's god.
+>
+>Saying what is fundamental does not describe reality, it describes the history of the one describing. Integers? That is one way of viewing the world, a more mathematical one — yet there are countless others. One should not be stuck in thinking that any one pure viewpoint is the superior/ultimate one; everything can evolve, even the understanding of understanding itself.
+>
+>I would maybe add…
+>
+>"God made the world and evolution of its part; all else is its work."
+>
+>"God made choices and told which are better; all else, the work of animals — the understanding, the work of man."
+>
+>Both are great bases for viewing reality (emergent behavior and optimization — both pure), equivalent to each other, yet not the same, behaving differently in different contexts.
+>
+>Also, execution of plans/programs (and time that allows it) seems very important to me.
+>
+>And if man had to refine and re-invent understanding, which has produced everything else, can man be said to be its own god? Ultimately, it's just semantics.
+
+([u/Antipurity](https://old.reddit.com/r/DigitalPhilosophy/comments/9kivsj/god_made_the_integers_all_else_is_the_work_of_man/edqrftl/))
+
+----
