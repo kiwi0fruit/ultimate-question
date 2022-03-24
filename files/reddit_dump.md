@@ -107,6 +107,8 @@ And at the moment we really don't have a better mechanism-explanation for novelt
 
 Hence it would be a good try to embrace [Universal Darwinism](https://m.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
 
+### [Comments](../comments/reddit_digitalphilosophy_2.pdf)
+
 ----
 
 ## Evaluating terminal values
