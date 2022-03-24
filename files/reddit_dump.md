@@ -718,3 +718,15 @@ I noted that communities of both physicists and philosophers are not fond of my 
 * [continuation](../comments/reddit_digitalphilosophy_3_2.pdf)
 
 ----
+
+## Formal logic is a collection of presumptions of reality modeling. The presumptions are so successful that they seem obvious.
+
+Or they were simply hardcoded to our brains :)
+
+(Just a random thought)
+
+**upd** But this does't deny that logic is a helpful tool to reason/infer about invariant constraints/patterns/properties (inveriant to transforms or different contexts). \*Given we know about constraints that equivalent in cases we compare.
+
+### [Comments](../comments/reddit_digitalphilosophy_4.pdf)
+
+----
