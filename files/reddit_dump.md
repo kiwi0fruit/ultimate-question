@@ -751,4 +751,22 @@ Rule 110 and Conway's Game of Life, both cellular automata, are Turing complete.
 
 ----
 
+## [Strange loop (by Douglas Hofstadter)](https://en.wikipedia.org/wiki/Strange_loop)
 
+----
+
+## Deep Thought on The Ultimate Question of Life, the Universe, and Everything
+
+Deep Thought is a computer that was created by pan-dimensional hyper-intelligent mice to come up with the Answer to The Ultimate Question of Life, the Universe, and Everything. Deep Thought is the size of a small city. After seven and a half million years of calculation, the answer finally turns out to be 42.
+
+Quote from the _movie_:
+
+\- Have you calculated the ultimate question?  
+Deep Thought: [yawns] No. I’ve been watching the TV.
+
+
+----
+
+## [Cosmological natural selection with Intelligence](http://evodevouniverse.com/wiki/Cosmological_natural_selection_(fecund_universes)#CNS_with_Intelligence_.28CNS-I.29)
+
+----
