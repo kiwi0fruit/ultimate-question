@@ -6,6 +6,22 @@
 
 Here in this discussion I would also mirror some of my OEE popularization effort comments on Substack (some of them might be really roundabout - just to attract more attention to the https://github.com/kiwi0fruit/ultimate-question research direction).
 
+#### 1.1
+
+https://richardhanania.substack.com/p/is-wokeness-a-paper-tiger/comment/5709831
+
+Quote:
+> But the second part of the definition, and the one Lyons ignores, is that religions are distinguished from other belief systems by their proven ability to survive across generations under a wide variety of conditions.
+
+I'd argue that in practice it's not really important distinction if we remember what communism was capable to do with Russian Empire for ~70 years. That's a very long time if the plan is to wait for wokeness to die off. Hence it's a bad plan. The distinction could be useful if fresh religions would be more resilient than fresh ideologies (hence it can be useful to adjust planning). But I don't really see it to be true. But may be I'm wrong...
+
+Optionally I cannot resist to make a shameless plug for a philosophy approach of Buddha-Darwinism if one is to view the world via lenses like:
+
+Quote:
+> There’s just something fundamentally different about a belief system that can survive across centuries or millennia and one that has shown no such ability
+
+Buddha-Darwinism aka Applying Universal Darwinism to evaluation of Terminal values: https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md
+
 ## Toward a theory of evolution as multilevel learning
 
 Vitaly Vanchurin, Yuri I. Wolf, Mikhail I. Katsnelson, and Eugene V. Koonin
