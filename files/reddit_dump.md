@@ -54,7 +54,8 @@ This article sums up meta-ethical conclusions that can be derived from Universal
 
 ## My comment on "Practically-A-Book Review: Yudkowsky Contra Ngo On Agents" by Scott Alexander
 
-https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky/comment/4567560
+~~https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky/comment/4567560~~
+https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky/comment/5709679
 
 From the end of the Part 3:
 
