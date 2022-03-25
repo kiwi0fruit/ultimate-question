@@ -93,6 +93,8 @@ So this turned into "lies alignment" problem. In this case why even bother with 
 
 ### Comments
 
+https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky/comment/5709882
+
 By the way. What is the end-goal of humans in here? Some previous thoughts on this (very superficial and simply to start the conversation):
 
 > Over time, human cyborgization and augmentation using AI will leave less and less human in people. In the future limit if the goal is to keep humanity in its current form, the super AI will maintain the existence of humanity as merely a ritual integrated into its goals. Just like a super AI which sole purpose is to make paper clips. In order to prevent such a dull ending ..., it is necessary that super AI come directly from digitized people (with all their values), augmented by AI. But maybe I'm overly pessimistic, and a combination of super AI with genetically modified people who are in charge and make decisions will also work.
