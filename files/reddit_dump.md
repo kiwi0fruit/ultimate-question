@@ -1,3 +1,11 @@
+## [Mirror Telegram channel](https://t.me/digital_philosophy)
+
+### Comments
+
+#### 1
+
+Here in this discussion I would also mirror some of my OEE popularization effort comments on Substack (some of them might be really roundabout - just to attract more attention to the https://github.com/kiwi0fruit/ultimate-question research direction).
+
 ## Toward a theory of evolution as multilevel learning
 
 Vitaly Vanchurin, Yuri I. Wolf, Mikhail I. Katsnelson, and Eugene V. Koonin
