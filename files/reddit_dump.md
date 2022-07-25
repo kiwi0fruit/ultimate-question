@@ -22,6 +22,16 @@ Quote:
 
 Buddha-Darwinism aka Applying Universal Darwinism to evaluation of Terminal values: https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md
 
+#### 1.2
+
+https://astralcodexten.substack.com/p/your-book-review-the-society-of-the/comment/7961268
+
+In the times of "apocryphal Chinese curse" it's very useful to be clear about life goals and your meaning of life. More precisely: to make sure that their objective part is meaningful and re-choose (consciously confirm) it's subjective part. See more details in here:
+
+"Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes" https://github.com/kiwi0fruit/ultimate-question/blob/master/articles/dxb.md
+
+Aka: Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of the Self).
+
 ## Toward a theory of evolution as multilevel learning
 
 Vitaly Vanchurin, Yuri I. Wolf, Mikhail I. Katsnelson, and Eugene V. Koonin
