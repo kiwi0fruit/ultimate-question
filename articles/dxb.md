@@ -266,6 +266,8 @@ Primordial chaos of Tamed Lovecraftian horror as a Source of infinite energy (ak
 
 **[≡←][toc]**
 
+*If you would feel like not liking this section then skip to the quote at the end of it. The quote sets the right mood how to treat this section.*
+
 (*I would like to thank an associate of mine for the mythological name - otherwise I would have continued to call it simply primordial cancer-like chaos. Tamed Lovecraftian horror is not the same as [Lovecraftian horror](https://en.wikipedia.org/wiki/Lovecraftian_horror) which is much more nihilistic. But it's still a cosmic horror none the less.*)
 
 *An interesting part about Lovecraftian horror is revealed at the very end of the section (see “back to the interesting part”).*
@@ -382,7 +384,7 @@ So we have imagined the **tamed Lovecraftian horror** and “relaxed in a marvel
 
 Discussion of this research program is aggregated in this [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2).
 
-News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2), subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) and substack [Digital Philosophy](https://digitalphilosophy.substack.com/).
+News concerning the research would appear in the [GitHub discussion](https://github.com/kiwi0fruit/ultimate-question/issues/2), subreddit [r/DigitalPhilosophy](https://www.reddit.com/r/DigitalPhilosophy/) and [digital_philosophy](https://t.me/digital_philosophy) Telegram channel.
 
 My previous research on this topic is *[here](./)*.
 
