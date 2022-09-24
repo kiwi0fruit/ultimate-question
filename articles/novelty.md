@@ -4,7 +4,7 @@ I'm sure that any ontology that desires to be applicable to the universe as a wh
 
 > Before natural selection was discovered it was natural to believe-assume that the entire universe was created by primordial general intelligence (aka God) as intelligence was the only known thing capable of explaining novelty emergence. Evolution and natural selection is the best explanation for novelty emergence that we have at the moment: an endless process of survival and accumulation of novelty.
 
-*Quote from [Applying Universal Darwinism to evaluation of Terminal values](./dxb.md)* aka *Buddha-Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of “Self”)*.
+*Quote from [Applying Universal Darwinism to evaluation of Terminal values](./dxb.md) (see [Terminal Value](https://www.lesswrong.com/tag/terminal-value))*.
 
 Desire for novelty emergence explanation comes from reformulated ancient question “why is there something rather
 than nothing?”. Reformulated into: “why these structures exist instead of other?”
