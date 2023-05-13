@@ -1,15 +1,5 @@
-PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm 11mm 49mm 11mm  
-> .text-small, .UnderlineNav-item {
->   font-size: 15.0px;
-> }
-> 
-> body, .markdown-body {
->   font-family: 'Source Sans 3', sans-serif;
-> }
-> 
-> body, .markdown-body, .comment-body {
->   font-size: 17.0px;
-> }
+PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm
+> body, .markdown-body { font-family: 'Source Sans 3', sans-serif; font-size: 17.0px; }
 
 .  
 .  
