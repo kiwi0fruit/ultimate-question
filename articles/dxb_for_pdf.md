@@ -1,5 +1,5 @@
-PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm
-> body, .markdown-body { font-family: 'Source Sans 3', sans-serif; font-size: 17.0px; }
+PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm; 
+> body, .markdown-body { font-family: 'Source Sans 3', sans-serif; font-size: 19.0px; }
 
 .  
 .  
@@ -452,7 +452,7 @@ than nothing?”. Reformulated into: “why these structures exist instead of ot
 
 And at the moment we really don't have a better mechanism-explanation for novelty emergence (in general) than natural selection.
 
-Hence it would be a good try to embrace [Universal Darwinism](https://m.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
+Hence it would be a good try to embrace [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism) as an important part of a hypothetical ontology suitable for the universe as a whole. But surely natural selection by itself is not enough for ontology. But I believe that it's one of the core components.
 
 &nbsp;  
 &nbsp;  
