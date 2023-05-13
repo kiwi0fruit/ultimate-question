@@ -52,9 +52,6 @@ This article sums up meta-ethical conclusions that can be derived from Universal
   * [Evaluating terminal values](#evaluating-terminal-values)
   * [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#novelty-emergence-mechanics-as-a-core-idea-of-any-viable-ontology-of-the-universe)
 
-&nbsp;  
-&nbsp;  
-&nbsp;
 
 Introduction to Buddhian-Darwinism
 =====================================================
@@ -162,9 +159,6 @@ In the common sense way there are two notions of the word “meaning”. First m
 * Choosing particular quasi-immortal entities survival as a subjective meaning of life. It can be several of an infinite number of entities. Some entities are more fit to survive than others. But in most cases we inherit these meanings of life instead of choosing them (note that if an act of such choosing is conscious then it can be viewed as a demiurge-like act of creation).
 * Goals and values that cannot be reformulated as survival of some quasi-immortal entities are meaningless and would be eliminated via natural selection with time.
 
-&nbsp;  
-&nbsp;  
-&nbsp;
 
 Cosmogonic myth from Darwinian natural selection (in details)
 ===========================================================
@@ -332,8 +326,6 @@ In this picture the “batteries of energy” are also noteworthy. Which in natu
 
 But why do classical particles of our universe not reproduce? May be they simply unable to as they implement different security protocol to avoid unauthorized reproduction (but loop processes are allowed). From cosmological natural selection it follows that there were already a large number of universes-ancestors, and it is not yet known on what “layer” our universe is located and how it was formed. Maybe it was designed by intelligent designers even? Due to suppressed reproduction, the number of particles does not increase, and new ones are formed only due to the merger or redistribution of old ones. The energy in this picture can be analogous to the checksum. Energy available for work is generated only in singularities (during the Big Bang). The rest of the time, it flows from an available for work state (batteries) to an inaccessible one. It is not clear why this is so; it would be more natural, within the framework of the cosmogony of natural selection, to have multiplying entities-induviduals. Maybe it has something to do with the ladder of batteries as a logical continuation of the described in the previous paragraph. And the deterministic creation of this ladder is implemented, which optimizes the rate of appearance of intelligent life (or black holes). Or something else.
 
-&nbsp;  
-&nbsp;
 
 Now **back to the interesting part**. Primordial chaos cannot be limited and it's impossible to completely isolate oneself from it. Any measures of protection from it such as to fence off or run away from its effects will be probabilistic and will not give a 100% guarantee. There is always a chance that the primordial chaos will again try to uncontrollably generate new competing lineages of quasiparticles that will destroy the universe suitable for us wherever they reach. And we have the [anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle) to explain why we haven't seen anything like that before ;)
 
@@ -410,7 +402,6 @@ My previous research on this topic is *[here](./)*.
 
 Good starting point to the research program: [Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./oens_of_algorithms.md).
 
-&nbsp;
 
 ## Appendix
 
