@@ -1,22 +1,6 @@
 PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm; Scale Custom 125;
 > body, .markdown-body { font-family: 'Source Sans 3', sans-serif; font-size: 19.0px; }
 
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.
 
 
 Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
@@ -473,3 +457,20 @@ Hence it would be a good try to embrace [Universal Darwinism](https://en.wikiped
 &nbsp;  
 &nbsp;  
 &nbsp;  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.
+
