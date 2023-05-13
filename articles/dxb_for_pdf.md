@@ -1,4 +1,4 @@
-PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm; Scale Custom 125;
+PDF print with Edit file Preview; Use pages 2-40; A4; margins: 49mm(1.93") 11mm(0.43") 49mm 11mm; Scale Custom 130;
 > body, .markdown-body { font-family: 'Source Sans 3', sans-serif; font-size: 19.0px; }
 
 
