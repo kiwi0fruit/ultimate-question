@@ -1,4 +1,4 @@
-Buddhian Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of the “Self”)
+Buddhian Darwinism on objective meaning of life separated from subjective meaning of life (Cosmogonic myth from Darwinian natural selection, Quasi-immortality, Free will, Buddhism-like illusion of the “Self”, dxb)
 =======================================================
 
 ## *aka* Applying Universal Darwinism to evaluation of [Terminal values](https://www.lesswrong.com/tag/terminal-value)
