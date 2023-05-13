@@ -95,7 +95,7 @@ Free will as a necessity to maximize survival probability
 
 **[≡←][toc]**
 
-*(**U**-openness)*
+*(**x**-<img src="./chaos_symbol.png" alt="dxb" height="15px">-random)*
 
 Free will as necessity to maximize survival probability. Sentient agents actively optimize their survival probability via actions. But they are ultimately not sure if such actions would really increase their survival as they have 1) probabilistic predictions, 2) limited prediction window. To workaround this limitation they should be able to spontaneously choose truly random locally non-optimal actions that in reality would lead to survival of subpopulation of sentient agents - fallback to blind and planless natural selection (globally optimal actions). Quasi-immortal entities that are quasi-sentient (like corporations) should also uphold free will in order to maximize survival probability. If some entity looses free will and becomes completely dependent on will of other entity then it's survival potential is severely reduced. At least it should have some chance to break free and return to free will state. If there is no chance even then the entity truly became merely a part of the another.
 
