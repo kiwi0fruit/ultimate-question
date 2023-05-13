@@ -16,7 +16,6 @@ PDF print with Edit file Preview; Use pages 2-41; A4; margins: 49mm(1.93") 11mm(
 .  
 .  
 .  
-.  
 .
 
 
