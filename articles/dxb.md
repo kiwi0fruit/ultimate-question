@@ -7,7 +7,7 @@ Buddhian Darwinism on objective meaning of life separated from subjective meanin
 
 *Published 28 Sep 2021 (with later minor revisions).*
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-quetion.zip](./ultimate-quetion.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-quetion.zip](../ultimate-quetion.zip)**_
 
 _Read as PDF: [dxb.pdf](./dxb.pdf) (not recommended)._
 
