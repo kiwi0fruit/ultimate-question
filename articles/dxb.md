@@ -5,7 +5,7 @@ Buddhian Darwinism on objective meaning of life separated from subjective meanin
 
 ## *aka* Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
 
-*Peter Zagubisalo, September 2021, latest minor update May 2024.*
+*Peter Zagubisalo, September 2021, latest minor update May 2023.*
 
 _**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](../ultimate-question.zip)**. Read as PDF: [dxb.pdf](./dxb.pdf) (not recommended)._
 
