@@ -2,7 +2,7 @@
 
 # *aka* The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-quetion.zip](./ultimate-quetion.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-quetion.zip](./ultimate-question.zip)**_
 
 _**UPD WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**._
 
