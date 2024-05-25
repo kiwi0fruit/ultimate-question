@@ -40,7 +40,7 @@
 
 **[≡←][itoc]**
 
-_**UPD**: It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article._
+_**UPD WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**_
 
 Greetings,
 
