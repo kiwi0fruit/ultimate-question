@@ -1,5 +1,7 @@
 # Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness (also on Novel stable complexity emegrence)
 
+Peter Zagubisalo, November 2019, minor update October 2021
+
 <!-- [this time no redundant info] -->
 
 The goal of this article is to promote an unsolved mathematical modelling problem (not a math problem or question). And unlike math questions it still doesn't have a formal definition. But I still find it clear enough and quite interesting. I came to this modelling problem from a philosophy direction but the problem is interesting in itself.
