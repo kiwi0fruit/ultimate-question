@@ -40,8 +40,8 @@ This article sums up meta-ethical conclusions that can be derived from Universal
 
 **[≡←][toc]**
 
-* “[Evaluating terminal values](./evaluating_terminal_values.md)” is a small recap of the key idea of this article.
-* [Novelty emergence mechanics as a core idea of any viable ontology of the universe](./novelty.md)
+* “[Evaluating terminal values](#evaluating-terminal-values)” is a small recap of the key idea of this article.
+* [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#novelty-emergence-mechanics-as-a-core-idea-of-any-viable-ontology-of-the-universe)
 
 
 Introduction to Buddhian Darwinism
