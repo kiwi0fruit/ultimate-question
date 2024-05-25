@@ -5,6 +5,7 @@ Buddhian Darwinism on objective meaning of life separated from subjective meanin
 
 ## *aka* Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
 
+*Published 28 Sep 2021 (with later minor resisions).*
 
 <img src="./dxb.png" alt="dxb" height="40px">
 
