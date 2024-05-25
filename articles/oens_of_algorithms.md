@@ -1,6 +1,6 @@
 # Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness (also on Novel stable complexity emegrence)
 
-Peter Zagubisalo, November 2019, minor update October 2021
+*Peter Zagubisalo, November 2019, minor update October 2021.*
 
 <!-- [this time no redundant info] -->
 
