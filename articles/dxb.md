@@ -5,15 +5,14 @@ Buddhian Darwinism on objective meaning of life separated from subjective meanin
 
 ## *aka* Summing up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes
 
-*Peter Zagubisalo, September 2021, minor updates till 2024.*
+*Peter Zagubisalo, September 2021, latest minor update May 2024.*
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](../ultimate-question.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](../ultimate-question.zip)**. Read as PDF: [dxb.pdf](./dxb.pdf) (not recommended)._
 
-_Read as PDF: [dxb.pdf](./dxb.pdf) (not recommended)._
-
-<img src="./dxb.png" alt="dxb" height="40px">
 
 ### Abstract
+
+<img src="./dxb.png" alt="dxb" height="40px">
 
 This article sums up meta-ethical conclusions that can be derived from Universal Darwinism taken to extremes. In particular it 1) applies Universal Darwinism to evaluation of Terminal values, 2) separates objective meaning of life from subjective meaning of life using notion of Quasi-immortality. That means both moral nauralism and moral non-cognitivism are right but in different areas, 3) justifies the free will as a consequence of the Universal Darwinism, 4) comes to the conclusion of Buddhism-like illusion of the “Self” as a consequence of the Quasi-immortality, 5) as a bonus gives Universal Darwinism a hypothetical and vivid Cosmogonic myth from Darwinian natural selection. The article forms a coherent system of views, which can be called Buddhian Darwinism.
 
