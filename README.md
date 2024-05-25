@@ -1,10 +1,13 @@
+_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](./ultimate-question.zip)**_
+
+_**UPDATE WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**._
+
+
 # The Ultimate Question of Life, the Universe, and Everything
 
 # *aka* The simplest artificial life model with open-ended evolution as a possible model of the universe, Natural selection of the laws of nature, Universal Darwinism, Occam's razor
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](./ultimate-question.zip)**_
-
-_**UPD WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**._
+*Peter Zagubisalo, January 2016, minor update July 2018*
 
 ### NEW UPDATES
 
@@ -682,8 +685,6 @@ I suggest use similar approach but use natural selection instead of AGI. We know
 I'm absolutely serious in spite of the fact that the title was borrowed from the comedy science fiction novel by Douglas Adams. I only think that it's useful to remember that you are looking for an answer to _The Ultimate Question of Life, the Universe, and Everything_ if you are really looking for it. My intuition suggests that the answer can be found in the direction described in this article. Even if it can't be found in that direction then considerations why it can't be would still be a great help to find the answer.
 
 I would be grateful for any feedback and advice.
-
-Peter Zagubisalo, January 2016, minor update July 2018  
 
 
 ## 9. References
