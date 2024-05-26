@@ -11,6 +11,7 @@ _**UPDATE WARNING**: This article is somewhat outdated. It is advised to start r
 
 ### NEW UPDATES
 
+* **[On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self](./articles/oee_dxb.md)**
 * **[Mirror Telegram channel](https://t.me/digital_philosophy)** 
 * **[Novelty emergence mechanics as a core idea of any viable ontology of the universe](./articles/novelty.md)**
 * **[Evaluating terminal values](./articles/evaluating_terminal_values.md)**
