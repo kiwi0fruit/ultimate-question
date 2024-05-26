@@ -44,6 +44,7 @@ This article sums up meta-ethical conclusions that can be derived from Universal
 
 **[≡←][toc]**
 
+* [On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self](./oee_dxb.md)
 * “[Evaluating terminal values](#evaluating-terminal-values)” is a small recap of the key idea of this article.
 * [Novelty emergence mechanics as a core idea of any viable ontology of the universe](#novelty-emergence-mechanics-as-a-core-idea-of-any-viable-ontology-of-the-universe)
 
