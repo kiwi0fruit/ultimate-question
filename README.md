@@ -1,6 +1,6 @@
 _**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](./ultimate-question.zip)**_
 
-_**UPDATE WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**._
+_**UPDATE WARNING**: This article is somewhat outdated. It is advised to start reading from **[On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self](./articles/oee_dxb.md)** article._
 
 
 # The Ultimate Question of Life, the Universe, and Everything
@@ -48,7 +48,7 @@ _**UPDATE WARNING**: This article is somewhat outdated. It is advised to start r
 
 **[≡←][itoc]**
 
-_**UPD WARNING**: This article is somewhat outdated. It is advised to start reading from **[Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness](./articles/oens_of_algorithms.md)** article. Then continue with **[Applying Universal Darwinism to evaluation of Terminal values](./articles/dxb.md)**._
+_**UPDATE WARNING**: This article is somewhat outdated. It is advised to start reading from **[On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self](./articles/oee_dxb.md)** article._
 
 Greetings,
 
