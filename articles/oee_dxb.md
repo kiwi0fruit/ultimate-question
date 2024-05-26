@@ -1,7 +1,7 @@
 On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self
 ===========================================================
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](../ultimate-question.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/releases)**_
 
 1 Practical introduction  
 2 Theoretical introduction  
