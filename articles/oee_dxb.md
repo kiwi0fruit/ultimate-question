@@ -77,8 +77,6 @@ In more deatails this topic was described in [this article](./dxb.md).
 
 I ask those who are interested in this topic and found this article worthy of attention to download an archive with the article and remember it from time to time. For with the recent attack on Russian radar, we have entered a new existential era. I will be especially glad to receive backups from countries where NATO countries and Russia do not have nuclear weapons.
 
-<!-- _**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/blob/master/ultimate-question.zip)**_ -->
-
 _**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/releases)**_
 
 Peter Zagubisalo, May 2024.
