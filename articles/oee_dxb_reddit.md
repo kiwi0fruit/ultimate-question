@@ -6,7 +6,7 @@ On Natural selection of the laws of nature, Artificial life, Open-ended evolutio
 1 Practical introduction  
 2 Theoretical introduction  
 3 On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms  
-4 Universal Darwinism and Buddhism-like illusion of the Self
+4 Universal Darwinism and Buddhism-like illusion of the Self  
 5 Request to those who are interested in the research topic
 
 
