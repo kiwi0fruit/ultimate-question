@@ -1,4 +1,4 @@
-_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](./ultimate-question.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/releases)**_
 
 _**UPDATE WARNING**: This article is somewhat outdated. It is advised to start reading from **[On Natural selection of the laws of nature, Artificial life, Open-ended evolution of Interacting code-data-dual algorithms, Universal Darwinism and Buddhism-like illusion of the Self](./articles/oee_dxb.md)** article._
 
