@@ -79,7 +79,7 @@ I ask those who are interested in this topic and found this article worthy of at
 
 <!-- _**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/blob/master/ultimate-question.zip)**_ -->
 
-_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](../ultimate-question.zip)**_
+_**DOWNLOAD ZIP BACKUP: [ultimate-question.zip](https://github.com/kiwi0fruit/ultimate-question/releases)**_
 
 Peter Zagubisalo, May 2024.
 
